@@ -1,0 +1,7 @@
+{
+  "num_files": 10,
+  "records_per_file": 1000,
+  "raw_data_dir": "data/raw",
+  "processed_data_dir": "data/processed",
+  "curated_data_dir": "data/curated"
+}
