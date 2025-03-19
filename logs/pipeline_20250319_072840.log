@@ -1,0 +1,50 @@
+2025-03-19 07:28:40,426 - data_pipeline - INFO - Loaded configuration from D:\python_projects\venv\python_projects\config\pipeline_config.json
+2025-03-19 07:28:40,426 - data_pipeline - INFO - Starting data processing pipeline
+2025-03-19 07:28:40,429 - data_pipeline - INFO - Starting step: Data Generation
+2025-03-19 07:28:40,429 - scripts.data_generator - INFO - Generating 10 files with 1000 records each
+2025-03-19 07:28:40,467 - scripts.data_generator - INFO - Generated data/raw\transactions_001.json with 1000 records
+2025-03-19 07:28:40,503 - scripts.data_generator - INFO - Generated data/raw\transactions_002.json with 1000 records
+2025-03-19 07:28:40,539 - scripts.data_generator - INFO - Generated data/raw\transactions_003.json with 1000 records
+2025-03-19 07:28:40,575 - scripts.data_generator - INFO - Generated data/raw\transactions_004.json with 1000 records
+2025-03-19 07:28:40,610 - scripts.data_generator - INFO - Generated data/raw\transactions_005.json with 1000 records
+2025-03-19 07:28:40,647 - scripts.data_generator - INFO - Generated data/raw\transactions_006.json with 1000 records
+2025-03-19 07:28:40,681 - scripts.data_generator - INFO - Generated data/raw\transactions_007.json with 1000 records
+2025-03-19 07:28:40,718 - scripts.data_generator - INFO - Generated data/raw\transactions_008.json with 1000 records
+2025-03-19 07:28:40,754 - scripts.data_generator - INFO - Generated data/raw\transactions_009.json with 1000 records
+2025-03-19 07:28:40,791 - scripts.data_generator - INFO - Generated data/raw\transactions_010.json with 1000 records
+2025-03-19 07:28:40,792 - scripts.data_generator - INFO - Data generation completed: 10 files created with 1000 records each
+2025-03-19 07:28:40,792 - data_pipeline - INFO - Completed step: Data Generation in 0.36 seconds
+2025-03-19 07:28:40,795 - data_pipeline - INFO - Starting step: JSON to CSV Conversion
+2025-03-19 07:28:40,795 - scripts.json_to_csv_convertor - INFO - Found 10 JSON files to process
+2025-03-19 07:28:40,817 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_001.json to data/processed\transactions_001.csv
+2025-03-19 07:28:40,847 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_002.json to data/processed\transactions_002.csv
+2025-03-19 07:28:40,869 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_003.json to data/processed\transactions_003.csv
+2025-03-19 07:28:40,895 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_004.json to data/processed\transactions_004.csv
+2025-03-19 07:28:40,916 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_005.json to data/processed\transactions_005.csv
+2025-03-19 07:28:40,942 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_006.json to data/processed\transactions_006.csv
+2025-03-19 07:28:40,967 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_007.json to data/processed\transactions_007.csv
+2025-03-19 07:28:40,988 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_008.json to data/processed\transactions_008.csv
+2025-03-19 07:28:41,013 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_009.json to data/processed\transactions_009.csv
+2025-03-19 07:28:41,042 - scripts.json_to_csv_convertor - INFO - Converted data/raw\transactions_010.json to data/processed\transactions_010.csv
+2025-03-19 07:28:41,042 - scripts.json_to_csv_convertor - INFO - Processed 10 JSON files
+2025-03-19 07:28:41,042 - data_pipeline - INFO - Completed step: JSON to CSV Conversion in 0.25 seconds
+2025-03-19 07:28:41,289 - data_pipeline - INFO - Starting step: Data Transformation
+2025-03-19 07:28:41,290 - scripts.data_transformer - INFO - Found 10 CSV files to load
+2025-03-19 07:28:41,499 - scripts.data_transformer - INFO - Loaded 10 CSV files with 10000 total records
+2025-03-19 07:28:41,514 - scripts.data_transformer - INFO - Cleaned data: 10000 records
+2025-03-19 07:28:41,567 - scripts.data_transformer - INFO - Saved cleaned data to data/curated\cleaned_data.csv
+2025-03-19 07:28:41,567 - scripts.data_transformer - INFO - Creating sales by category aggregation
+2025-03-19 07:28:41,569 - scripts.data_transformer - INFO - Creating sales by date aggregation
+2025-03-19 07:28:41,571 - scripts.data_transformer - INFO - Creating product performance aggregation
+2025-03-19 07:28:41,575 - scripts.data_transformer - INFO - Creating payment method analysis
+2025-03-19 07:28:41,577 - scripts.data_transformer - INFO - Creating gift purchase analysis
+2025-03-19 07:28:41,579 - scripts.data_transformer - INFO - Created 5 aggregation views
+2025-03-19 07:28:41,580 - scripts.data_transformer - INFO - Saved sales_by_category to data/curated\sales_by_category.csv
+2025-03-19 07:28:41,581 - scripts.data_transformer - INFO - Saved sales_by_date to data/curated\sales_by_date.csv
+2025-03-19 07:28:41,581 - scripts.data_transformer - INFO - Saved product_performance to data/curated\product_performance.csv
+2025-03-19 07:28:41,582 - scripts.data_transformer - INFO - Saved payment_analysis to data/curated\payment_analysis.csv
+2025-03-19 07:28:41,583 - scripts.data_transformer - INFO - Saved gift_analysis to data/curated\gift_analysis.csv
+2025-03-19 07:28:41,583 - scripts.data_transformer - INFO - Data processing completed successfully!
+2025-03-19 07:28:41,584 - data_pipeline - INFO - Completed step: Data Transformation in 0.29 seconds
+2025-03-19 07:28:41,584 - data_pipeline - INFO - Pipeline completed successfully in 1.16 seconds
+2025-03-19 07:28:41,584 - data_pipeline - INFO - Pipeline execution completed successfully

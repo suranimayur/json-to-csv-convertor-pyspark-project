@@ -1,0 +1,1001 @@
+category,customer_id,is_gift,payment_method,price,product_id,product_name,quantity,rating,shipping_address_city,shipping_address_country,shipping_address_state,shipping_address_street,shipping_address_zip_code,tags,timestamp,transaction_id
+Toys,9b34c266,True,Gift Card,378.7,b2dbe291,Action Figure,3,3,New York,USA,NY,8609 Maple St,50863,,2024-11-05 19:43:40,0263d012-9870-47ed-9665-48363cdbdce9
+Grocery,da9727d5,True,PayPal,485.44,e29fa61f,Pasta,8,,Houston,USA,AZ,856 Oak St,66015,"limited,new",2025-02-04 03:07:40,fc0c3f1c-4033-48ed-b160-3bf975b0c83c
+Home & Kitchen,bac2573b,True,Cash,141.85,df9751f8,Knife Set,4,3,Houston,USA,CA,7597 Cedar St,18407,"exclusive,trending",2024-11-25 23:28:40,febc04ce-eb00-4844-b3d5-c5246eb21e9d
+Books,16f8377a,True,Gift Card,74.27,ef0f1a8d,Fiction Novel,9,,Chicago,USA,IL,5303 Main St,28809,,2024-03-18 14:00:40,b35f492c-915b-4c52-8fe5-03115637d02a
+Books,bd98216c,True,Credit Card,177.9,13ca20c2,Self-Help,7,1,Phoenix,USA,AZ,4893 Pine St,85661,,2024-08-08 12:35:40,f0bd2394-6643-42d2-827b-279f275fefdd
+Books,e5d77801,False,PayPal,989.59,68dd2037,History,5,5,Los Angeles,USA,CA,1873 Main St,37108,,2024-06-07 06:05:40,f881b4fb-065d-4af9-a382-b52786ae278c
+Grocery,2ffde9dd,True,Cash,973.56,376fe423,Pasta,4,,Los Angeles,USA,TX,2535 Maple St,94989,"limited,new",2024-05-14 12:00:40,d13de131-97e4-4635-a468-19457edc62c7
+Home & Kitchen,b6258e7e,True,Cash,99.87,b766e905,Blender,2,3,New York,USA,CA,8364 Cedar St,12079,sale,2024-07-22 17:28:40,44086a2f-1352-439c-b3ff-1f165f64e156
+Clothing,b98b4f93,False,Cash,303.59,7a89497d,Hat,7,,Phoenix,USA,NY,9999 Cedar St,10239,exclusive,2024-03-18 19:47:40,04e0163d-7764-4e69-8176-b0eba9474f59
+Books,ddf8ac6c,True,Debit Card,603.9,51973dbf,Science Fiction,3,,Chicago,USA,CA,9392 Oak St,13755,"new,trending,sale",2024-08-24 15:56:40,14167f89-4dde-4a3a-ab88-1c8bcd491061
+Beauty,af8b8e6a,False,Bank Transfer,101.17,2f686db1,Face Cream,10,1,Phoenix,USA,AZ,864 Pine St,27921,"sale,exclusive,limited",2024-09-24 04:16:40,6a54e180-655b-400d-89ac-42ea257a998a
+Electronics,e5a193d6,True,Credit Card,224.17,c06757d8,Smart Watch,8,5,Chicago,USA,IL,2047 Pine St,30799,,2025-03-17 22:17:40,82634fcb-7936-4a57-bfe1-e57396e28cf2
+Electronics,ab781442,True,PayPal,24.42,e442f950,Tablet,7,,Phoenix,USA,IL,504 Main St,67616,sale,2024-08-18 20:21:40,d6a0f9f1-e592-4517-8b7e-26b14dd9f344
+Beauty,5511f079,False,Gift Card,148.46,e31ceb5e,Perfume,2,3,New York,USA,NY,4364 Maple St,97583,,2024-08-18 03:19:40,e79f30bb-75e8-4535-85d7-830451f88abe
+Beauty,20c448e8,True,Bank Transfer,278.1,19fee881,Nail Polish,7,3,Houston,USA,NY,4769 Oak St,66327,"limited,trending",2024-06-18 09:54:40,64706552-9c05-4310-964d-2a49bb05ed99
+Electronics,4f35628e,False,Gift Card,400.54,74440409,Headphones,6,,Chicago,USA,AZ,7350 Maple St,96051,"sale,exclusive",2024-06-19 04:10:40,0b97ac2e-fbad-4179-9816-7ecc07cc4964
+Home & Kitchen,a5423a0c,False,Gift Card,203.2,3ceae6aa,Microwave,9,1,New York,USA,CA,7378 Main St,68620,,2024-05-21 03:55:40,fbfad96b-0c6f-4661-9df7-df320e8572c5
+Toys,4f7df022,False,Bank Transfer,391.68,fbc74b73,Puzzle,6,2,New York,USA,IL,4775 Cedar St,68535,,2024-10-31 22:31:40,32f13811-88ae-4d37-b409-ce0740fc312f
+Sports,5911ae92,True,PayPal,961.34,8362ca4f,Dumbbells,2,4,Los Angeles,USA,AZ,1396 Maple St,46285,"trending,limited,new",2024-11-08 05:20:40,b84f5e1c-ba94-495a-b73a-1f62303ad617
+Automotive,060cf75d,False,Credit Card,537.34,86c6573a,Tire Gauge,6,2,Chicago,USA,IL,3245 Cedar St,23828,"trending,sale",2024-06-19 06:48:40,2eaba69a-66d1-4dc6-8587-9cdef38a695f
+Toys,dcc1ebf9,False,Bank Transfer,948.84,425c7f18,Building Blocks,6,1,Chicago,USA,IL,231 Cedar St,54055,,2024-07-21 11:49:40,7df6d8b2-5965-437d-a1dd-c28ab971fe9a
+Home & Kitchen,9e357be1,False,PayPal,928.85,9d6c5cab,Microwave,5,2,Chicago,USA,AZ,1076 Maple St,62515,limited,2024-08-10 00:22:40,942f1d40-c510-4207-b9de-5e2e4e68b5fd
+Sports,84a7593a,False,Bank Transfer,571.78,2f2d68fc,Bicycle,2,,Houston,USA,IL,9974 Maple St,10523,,2025-01-03 13:58:40,d2150f36-988a-41a3-869d-7dafae6570f2
+Clothing,6ac8ba6b,True,Credit Card,601.23,3ab0eba9,Hat,6,1,Los Angeles,USA,CA,5259 Pine St,97214,"new,limited,trending",2024-11-26 16:15:40,1b9f7647-0418-497f-8d12-37fe50fa6c3b
+Toys,bbf8faf5,False,Gift Card,102.21,70f879f8,Doll,7,4,Chicago,USA,NY,8970 Oak St,80896,,2024-07-04 13:22:40,52a9d92d-94d4-4cf2-91ed-30a428f6a84d
+Books,59987585,False,Debit Card,557.52,a8e7e0f3,Biography,2,4,Los Angeles,USA,AZ,4070 Main St,71003,,2024-09-26 02:00:40,92925611-fd52-47b1-84a4-2a4def0c7832
+Grocery,c890b8c8,True,PayPal,595.41,5827fd4a,Frozen Meals,6,5,Los Angeles,USA,TX,9426 Cedar St,71148,new,2024-06-20 05:26:40,c4087174-1c25-4b1a-b4cf-318e2438a29a
+Home & Kitchen,f04efc29,True,Bank Transfer,649.72,7b0772b4,Knife Set,7,,Houston,USA,TX,7352 Cedar St,50069,,2024-04-24 23:28:40,edd4aeca-4487-47c7-8766-318c04709184
+Electronics,7f6ead99,True,Gift Card,439.31,efabf4f5,Smartphone,5,,Houston,USA,CA,9222 Maple St,76670,"exclusive,limited,sale",2024-08-21 01:40:40,12876242-2505-4fd3-ad55-6aa1ec31e4e5
+Books,32478838,True,Debit Card,697.02,f7672659,Fiction Novel,5,4,Los Angeles,USA,TX,8163 Cedar St,51064,"exclusive,sale",2024-12-24 06:09:40,69e433ac-a3ef-4234-9226-d27ec09fd651
+Clothing,dfa066e5,True,PayPal,314.9,e15a3c4c,Jacket,4,1,Chicago,USA,TX,4898 Cedar St,42303,sale,2024-12-14 16:49:40,860f01f2-342b-4c82-b8d6-660d49dde290
+Toys,aa5405f6,False,Debit Card,164.25,fe969287,Building Blocks,4,2,Houston,USA,IL,2990 Cedar St,93138,,2024-11-28 15:26:40,6012337b-8d9f-4884-9bad-35c682f94edd
+Home & Kitchen,98b157c3,True,Credit Card,190.99,a3a8e8da,Plates,1,2,Phoenix,USA,IL,5476 Maple St,41784,,2024-10-24 03:34:40,5b671e0d-6054-4941-859d-1045c5de9110
+Electronics,3f3e28bb,True,Bank Transfer,423.86,5174991c,Tablet,8,1,Chicago,USA,CA,1389 Cedar St,76386,,2024-10-18 18:38:40,aa2d558a-2b9f-4cbd-9299-68527fdb2798
+Toys,23ec14cf,False,Bank Transfer,866.1,79c2586d,Action Figure,3,5,Chicago,USA,TX,1515 Main St,49949,,2024-10-23 03:30:40,f876bae8-cbff-44b3-97a0-fa87a2cbf191
+Home & Kitchen,02a46666,True,Cash,355.74,7757ab45,Microwave,6,5,Chicago,USA,IL,7916 Main St,27075,"trending,limited,new",2024-10-14 06:38:40,b0bcbd04-ee17-44a1-bec4-77ad3a3bc5e3
+Books,172dabb5,True,Credit Card,824.68,2fef22d0,History,3,5,Los Angeles,USA,NY,520 Cedar St,89745,"new,sale,trending",2024-12-11 23:52:40,a9213ea6-03f5-4305-9b28-4500bd30b0d0
+Beauty,04c2984a,False,Gift Card,404.33,12fbd807,Perfume,4,1,Los Angeles,USA,IL,515 Pine St,28649,,2024-06-18 02:42:40,fb97b834-9c4a-42a8-88d8-324ac2da09d4
+Sports,63bf5e89,True,Debit Card,366.96,eea76db1,Basketball,2,1,Los Angeles,USA,IL,2957 Main St,83294,"exclusive,new,limited",2025-03-12 09:24:40,7483f3ab-fc23-44fa-a230-1f19feb2230c
+Electronics,29b57f35,True,Cash,728.0,6963cc24,TV,8,1,Los Angeles,USA,AZ,6971 Oak St,53726,"sale,trending,limited",2025-03-06 12:19:40,014f72ca-95ca-49c4-88ee-0c5e69cfbcc2
+Grocery,8148c4a7,True,Bank Transfer,597.97,583308f6,Pasta,7,1,Houston,USA,NY,7734 Maple St,25624,new,2024-05-07 13:12:40,ac4b0fdf-fdbc-4d7e-945c-1375b6b5ad23
+Sports,928346b6,False,Debit Card,977.31,b23485ba,Dumbbells,10,,New York,USA,CA,4666 Maple St,55744,"sale,limited,new",2025-01-28 04:31:40,17480cde-8794-40a0-905f-9d2cd969acf1
+Home & Kitchen,8a24e761,False,Gift Card,739.7,c183a64e,Knife Set,6,,Los Angeles,USA,AZ,6614 Maple St,51942,"limited,sale,new",2024-07-26 23:42:40,5c85d843-acc1-4376-b63c-bb2cfe2158c9
+Grocery,e1be3385,True,Gift Card,19.88,f50154a2,Snacks,10,1,Phoenix,USA,TX,4888 Pine St,77061,"trending,limited",2025-02-21 05:02:40,7dd2504d-866d-4cad-a433-1a759862d8bb
+Beauty,7acf2cf4,True,Gift Card,214.82,9ec0416b,Lipstick,7,1,New York,USA,IL,2965 Main St,77558,"sale,trending",2024-12-01 07:21:40,89f82094-d33a-4339-928e-04d9ecfcd394
+Automotive,c5aec9ca,True,Gift Card,493.43,eecf6676,Car Wax,8,1,New York,USA,NY,873 Maple St,57744,,2024-04-29 22:28:40,7d407be0-77e5-4b9c-905b-a2b5d56cd512
+Books,79695501,True,Bank Transfer,651.23,ecaa8528,History,2,4,Chicago,USA,IL,2967 Main St,85733,new,2025-03-10 18:59:40,20497204-015a-46d6-8ed5-4c66e7e18f7f
+Electronics,b201290b,True,Gift Card,426.95,50bb3eae,Tablet,10,5,Houston,USA,TX,1987 Main St,23896,"limited,sale",2024-10-11 05:32:40,5776f4c3-4184-4f10-9b89-52a994ae6ed7
+Clothing,42977e5b,True,Cash,726.66,62d324f9,Shoes,3,2,Los Angeles,USA,CA,779 Main St,51790,sale,2024-05-19 01:58:40,17146e0d-c29e-440a-a897-be46f6165911
+Electronics,e69cd637,True,Gift Card,389.89,b71cd8a6,TV,7,4,Houston,USA,IL,9603 Maple St,55053,limited,2025-03-11 14:15:40,600d1f67-7d66-4aab-8aac-43aacf04fe7c
+Grocery,cc2b0247,True,Credit Card,989.85,9de2b84b,Canned Goods,4,1,Houston,USA,TX,9354 Cedar St,53788,trending,2025-02-18 09:03:40,27acf342-002e-4c74-b726-ab5f517d5f86
+Clothing,69b753a1,True,Cash,595.14,64ab162b,Jacket,1,,Houston,USA,AZ,6783 Oak St,66702,"new,limited",2024-04-21 00:39:40,bc4fb45f-41ff-4a78-b810-47d99f6d99cf
+Sports,afc919e8,False,Debit Card,941.39,bdb74e57,Running Shoes,7,3,Phoenix,USA,AZ,8096 Main St,74892,"exclusive,trending,sale",2025-02-18 06:13:40,fc6eb078-458a-49e0-94e4-d468482b3a12
+Toys,df2eeb58,True,Credit Card,329.58,4c69fab0,Stuffed Animal,9,,Chicago,USA,AZ,5550 Pine St,81571,"new,sale",2024-04-07 02:58:40,e1fd065b-0e2e-442a-9147-9f6cff6881b1
+Sports,21966d33,True,Debit Card,335.25,fddea994,Running Shoes,1,3,Phoenix,USA,AZ,9631 Oak St,31389,,2024-04-05 19:59:40,1ef34488-2b42-4f78-91e8-b069134380ab
+Toys,a9cda1ed,True,Cash,315.45,02663dc3,Doll,8,,Chicago,USA,IL,7771 Main St,72566,"trending,exclusive",2024-08-08 11:30:40,dc38b969-0d23-42df-978c-7b57d252b017
+Health,5b17b190,True,Cash,871.64,2b648217,First Aid Kit,7,3,New York,USA,TX,8358 Pine St,23045,"trending,limited,new",2024-09-04 18:02:40,40dbe33d-24db-410f-a28d-c8b14c8ba0a8
+Toys,eac4a049,False,Bank Transfer,242.71,fd0a44c7,Puzzle,6,4,New York,USA,NY,1084 Cedar St,62969,,2024-04-28 18:23:40,cfa474f2-8528-4821-8723-e014a7e1fe9a
+Home & Kitchen,5b5ea078,False,Bank Transfer,69.84,268d51ac,Blender,2,,Phoenix,USA,TX,7344 Oak St,59996,sale,2024-04-29 11:18:40,c700a9a6-5e7d-4bc7-a615-251c5b4a39db
+Home & Kitchen,92b0cf48,True,Debit Card,502.67,efe700be,Knife Set,5,,Chicago,USA,TX,9900 Main St,52090,"limited,trending,sale",2024-05-22 03:04:40,7b24fdb7-7943-45bb-87f0-f372bf02c4b4
+Electronics,95d4f072,False,PayPal,406.27,36af1b24,Smart Watch,6,,New York,USA,TX,4471 Pine St,54466,"limited,sale,trending",2024-06-28 13:53:40,11222faf-636a-4c3d-8a64-97f56a0f55d0
+Automotive,f054b35a,False,Debit Card,971.81,1d95657d,Jump Starter,3,,New York,USA,NY,7337 Pine St,17607,"sale,limited,exclusive",2025-03-05 06:34:40,be2a4b3a-d521-4818-ba1c-d6ab9b8cfdaf
+Home & Kitchen,c3a3f3ac,True,PayPal,227.87,519326d6,Coffee Maker,7,3,Chicago,USA,IL,1443 Maple St,24910,"new,exclusive,limited",2024-10-23 10:24:40,84651319-a19e-482d-9b18-c4ba857535f9
+Clothing,311b2eb4,True,Gift Card,615.32,498413be,Jacket,1,,Houston,USA,TX,4718 Main St,64689,sale,2024-11-30 06:46:40,97116603-50c6-4e3e-b773-7c8520cf7383
+Toys,37fe5c69,True,Debit Card,945.1,cf56f454,Stuffed Animal,2,1,New York,USA,TX,4633 Maple St,70158,"new,trending",2024-07-11 18:03:40,c5f3ed5e-439e-4e34-8753-01ecb0be5037
+Beauty,e9e71733,False,Bank Transfer,150.34,22f0fd7f,Face Cream,7,4,Chicago,USA,AZ,589 Oak St,74865,exclusive,2024-07-20 23:13:40,a4ec4343-6f0c-4a23-a306-92cd06f805ad
+Electronics,9c044493,False,Cash,226.85,6e4ad373,Tablet,9,4,New York,USA,NY,3414 Cedar St,12948,,2024-05-05 12:26:40,9edf0d61-abfe-4a20-b7cb-220fe5d9a451
+Home & Kitchen,0150adfe,True,Credit Card,954.83,38e5e4b3,Blender,10,2,New York,USA,IL,5172 Main St,80090,"exclusive,trending",2024-11-15 23:50:40,59d2f3e8-fa30-4855-8bb9-a18aebbfe1b6
+Home & Kitchen,255e560e,False,Gift Card,131.51,d8be5007,Plates,2,,Phoenix,USA,NY,6079 Pine St,52990,"exclusive,limited,trending",2024-04-24 04:08:40,0c646463-64f9-48d4-974c-b9fb0c40b6c7
+Electronics,3656281d,False,PayPal,327.53,319494e5,TV,9,5,New York,USA,TX,8755 Oak St,88060,,2025-02-24 18:44:40,66153e7c-008a-4cfe-9b94-da4715eebba1
+Clothing,0b241286,True,Gift Card,650.81,ec6614c6,T-shirt,2,5,Houston,USA,NY,3063 Main St,47440,,2024-03-30 10:05:40,e64e5b1b-44d5-4086-96d3-79c73b88db24
+Toys,2564f1af,False,Credit Card,774.5,7ec1612d,Building Blocks,7,4,Houston,USA,IL,3533 Main St,83282,,2024-05-20 06:27:40,8bd622d2-519b-4efe-b7e6-2444a7fc1746
+Beauty,2e079f86,False,Credit Card,197.7,171ad65c,Lipstick,1,5,Phoenix,USA,AZ,251 Maple St,13064,"limited,sale,new",2025-01-06 11:06:40,f1bdf46f-f10c-4b43-8b3a-50467297b301
+Clothing,4d9a42f2,True,Credit Card,810.64,a594b88b,Dress,5,,New York,USA,AZ,5236 Oak St,81102,limited,2024-12-16 21:01:40,e9b120ce-0fca-48be-aa11-03558bdbc5f9
+Health,280a3a14,True,Debit Card,877.8,e7c6d355,Pain Reliever,7,2,Chicago,USA,TX,6006 Pine St,43290,"limited,new,sale",2025-02-10 21:44:40,a9654af9-8cbb-4f2e-a880-e731077cfa1e
+Home & Kitchen,ffd214ba,False,Cash,508.44,e8823089,Microwave,6,2,Phoenix,USA,CA,8305 Maple St,67594,"new,trending,sale",2025-01-29 20:36:40,d44d3396-c4dc-423c-9a1c-8f14161dae66
+Sports,e90e834f,False,Debit Card,987.57,54911a70,Running Shoes,5,5,New York,USA,TX,3854 Pine St,52972,new,2024-12-12 05:28:40,6fedd6ad-20c5-4cd8-9bcc-560509092d74
+Beauty,a303ac6a,True,Debit Card,303.39,4c6894dc,Hair Dryer,6,1,Houston,USA,CA,1094 Main St,56999,"new,limited,trending",2025-02-04 09:31:40,5a629b3c-2502-48d4-a40d-1992266334be
+Electronics,36b319a4,False,PayPal,178.35,b327ff60,Laptop,10,,Chicago,USA,AZ,3149 Cedar St,95751,,2024-11-27 09:48:40,015281e6-1788-47d4-958f-035e0c76d715
+Toys,5326de5c,True,Debit Card,489.68,21bb4704,Board Game,10,2,New York,USA,TX,1309 Maple St,95500,exclusive,2024-09-05 22:03:40,709f46c9-a496-4e3d-b1af-de95e5c2f104
+Toys,37bcb36e,False,PayPal,545.91,a79c8bfd,Action Figure,6,4,Houston,USA,IL,9300 Maple St,18154,exclusive,2024-08-03 10:55:40,4af7497f-04e1-417b-a6aa-5cfea7af30bb
+Sports,66239ad4,True,Cash,760.07,c10ecd51,Tennis Racket,2,,Houston,USA,NY,7662 Main St,27952,"exclusive,limited,trending",2025-02-20 21:07:40,34eae4bf-bee9-4fa9-b27f-62752c592308
+Clothing,14ccbccc,False,Cash,408.75,6132133f,Socks,7,5,New York,USA,IL,6359 Cedar St,95716,"limited,exclusive,new",2024-05-22 11:54:40,351aa6e5-6a10-4541-8492-7bc25f14ca6a
+Health,dfbbe337,True,Cash,638.8,5e78a64c,Vitamins,9,,Chicago,USA,CA,3871 Maple St,55198,"new,exclusive,sale",2025-01-05 23:10:40,78934460-d52b-4f52-aa1c-8ffe382a2f03
+Grocery,86a1b734,False,PayPal,400.32,c1152dbc,Snacks,8,4,Phoenix,USA,CA,2223 Pine St,12194,exclusive,2024-11-24 05:36:40,b6464d96-df98-4e4b-af95-3e8e104334a5
+Books,dba8ed0d,False,Credit Card,324.49,9cc5d4e6,Biography,10,,Los Angeles,USA,NY,547 Maple St,33840,"exclusive,trending,new",2024-11-25 10:35:40,b1651517-fbb7-4f44-98b2-328ffff143bf
+Electronics,7ccd0722,True,Bank Transfer,959.38,641878b0,Smart Watch,3,,New York,USA,CA,7756 Cedar St,82305,"limited,sale",2024-09-12 18:44:40,8ff53dbb-297f-46f5-ae45-e2e15f279cb4
+Electronics,da700f5b,False,Gift Card,387.93,212bcce4,Headphones,5,4,Chicago,USA,IL,1064 Maple St,88935,,2024-06-18 02:29:40,eb13a9c8-f686-4bac-a8df-df3d0c51a47a
+Books,f5abae7b,False,Credit Card,739.04,e99f9bfc,Cookbook,5,,New York,USA,NY,3363 Cedar St,87419,limited,2024-09-18 07:37:40,504eb095-6ce3-41ae-91a0-82a25bd640a0
+Grocery,e1975e94,True,Cash,709.38,47183dfe,Coffee,9,4,Los Angeles,USA,IL,2955 Main St,34263,"exclusive,trending",2025-01-12 16:00:40,024f79a6-c6da-4176-81c6-1fece6bf4035
+Health,ae803346,True,PayPal,396.83,7888b0c2,First Aid Kit,10,,Chicago,USA,NY,5732 Maple St,99623,,2024-05-11 21:20:40,4058e4b0-8415-4e47-ad7d-d3b1b8fb1532
+Health,3b2b5f39,False,Credit Card,399.35,3bb1c188,Thermometer,2,1,Chicago,USA,NY,5974 Main St,37969,,2024-05-08 15:45:40,793fd149-0cf0-46c9-a4dd-732bbd0faa9e
+Automotive,5b6d46a8,False,Gift Card,984.26,658c85ff,Air Freshener,1,5,Los Angeles,USA,TX,2587 Main St,43317,"limited,new,sale",2024-08-05 16:09:40,1e48663f-16de-4b52-a073-9cba1253ff5f
+Electronics,49f2304b,False,PayPal,752.75,cdca4aec,Headphones,10,3,Houston,USA,TX,5330 Oak St,95252,new,2024-09-26 05:10:40,9e530af6-21cc-4cf6-a3fe-c4eda9e85300
+Clothing,a804876d,False,Debit Card,756.81,a64444cf,Jeans,2,,Houston,USA,AZ,3994 Maple St,76185,new,2024-06-01 18:04:40,e29d008f-7dd4-42de-9fdd-87d45ac7e579
+Automotive,c5ff4779,True,Gift Card,979.47,2c1ec4ba,Air Freshener,2,2,Phoenix,USA,CA,4920 Pine St,17784,"exclusive,sale,trending",2024-05-04 07:05:40,7aefbc3e-529e-4b37-b453-77bf34a23053
+Electronics,05454273,False,PayPal,299.32,8c0048d6,Smartphone,6,,Houston,USA,IL,5600 Maple St,98707,,2024-05-07 15:40:40,9847e8e4-14f8-4519-aae2-002c984bf6fe
+Home & Kitchen,d3b3c1bf,False,Cash,534.54,01a42f37,Knife Set,9,,Los Angeles,USA,CA,1799 Pine St,41749,"exclusive,new",2024-10-09 20:33:40,6d693f2a-2811-40b3-8aab-72b10a4eff4d
+Sports,7dd24dbe,True,Credit Card,21.77,5f04b853,Basketball,1,3,New York,USA,CA,8781 Pine St,35793,,2024-11-17 18:44:40,13ec6e65-8d7a-4200-be13-f023bd5bed99
+Electronics,688aab48,False,Cash,915.59,36711945,Smartphone,8,5,Phoenix,USA,TX,4529 Maple St,76055,,2024-09-05 04:34:40,45c6fe61-5bd5-4a9e-9f72-72de9a151b57
+Electronics,90bf7e3b,True,Cash,844.72,7a184d38,Smart Watch,7,4,New York,USA,AZ,3376 Maple St,44373,"sale,new,limited",2024-10-11 11:32:40,5c42fe19-12ce-4ed0-bc01-500017ef0dc7
+Books,5607d076,False,Credit Card,673.86,a00dbaf9,Science Fiction,6,3,Houston,USA,IL,1025 Maple St,25031,,2024-10-16 10:46:40,85b59f5f-bd99-455a-a827-9eb7d1cc236e
+Books,c821270e,True,Cash,900.49,e07f3288,History,6,4,Houston,USA,NY,5760 Maple St,78928,"sale,trending,limited",2024-05-16 02:14:40,e0c5b850-20ae-4e53-9ad9-3731836d29f6
+Beauty,97d65e49,False,Debit Card,567.45,abc08113,Lipstick,6,4,Chicago,USA,NY,3579 Main St,79755,,2024-04-22 21:19:40,41d926a9-73d9-47a3-a577-56b321373a3b
+Clothing,548f1aaa,False,Cash,798.72,de89db56,T-shirt,7,5,Phoenix,USA,CA,6453 Cedar St,76343,"limited,sale,new",2025-03-18 05:28:40,f66f70f4-1794-494a-ad13-c04395533364
+Clothing,e335c4eb,True,Cash,58.76,30e6ebaa,Socks,3,2,Houston,USA,CA,9979 Pine St,45167,"exclusive,limited,trending",2024-06-03 16:37:40,98ef1cd3-7e42-4db7-a6da-7814b6370b35
+Beauty,d840b14f,True,Credit Card,192.34,44b64910,Nail Polish,2,4,Los Angeles,USA,TX,5944 Cedar St,17362,"trending,new",2025-02-22 05:53:40,af3ce3b0-0ead-4d70-a953-0182dce1e7c3
+Home & Kitchen,eaf0e68f,False,Gift Card,965.8,a1d9e477,Toaster,7,,New York,USA,TX,5738 Cedar St,93057,exclusive,2024-11-17 00:29:40,0b4ac758-3f5a-45ba-9c69-08bdd85ece02
+Beauty,d4925041,False,Cash,195.29,87c90bbf,Shampoo,8,4,New York,USA,CA,7503 Main St,92452,"limited,trending",2024-09-07 21:09:40,825efd5e-6c46-481c-bb96-c5b8232743da
+Books,c368df45,False,Gift Card,136.47,f7ebdc20,Science Fiction,3,,Los Angeles,USA,AZ,9852 Cedar St,19874,"limited,new",2025-02-01 12:48:40,0666f03d-a0bf-48d8-a5f8-cf292314c21d
+Electronics,443d7698,True,Credit Card,610.34,ebf5dae7,Camera,4,3,New York,USA,NY,3552 Cedar St,96184,new,2024-10-10 10:14:40,33e3ba7d-a244-4cfd-b62c-8cef01b0ae65
+Sports,4fa77377,False,PayPal,522.2,f4d7cdc0,Yoga Mat,4,,Chicago,USA,IL,3354 Main St,17279,exclusive,2024-08-14 17:05:40,caba4bd8-ec5f-4342-b1ce-218df9c0a3f2
+Toys,02488a09,True,Credit Card,328.61,129b35ea,Board Game,7,,Chicago,USA,TX,1074 Maple St,99402,"new,exclusive,trending",2024-10-22 17:26:40,1342b28e-0e1e-4fe6-8c8e-0620df45ce3e
+Health,21542609,False,Bank Transfer,629.1,10d475dd,Vitamins,4,5,Los Angeles,USA,AZ,8542 Cedar St,66658,"exclusive,new",2024-06-28 15:35:40,c671cf68-50e9-47ae-ac18-42d0e67c6067
+Toys,4405f6b2,True,Debit Card,112.8,83b02d92,Building Blocks,5,4,New York,USA,AZ,6442 Oak St,10593,"trending,limited",2024-03-20 20:35:40,611aeed0-8a3c-4164-83a5-c31edf321f23
+Books,fc0d0c8e,True,Credit Card,291.14,3febe9c2,Fiction Novel,10,,Phoenix,USA,AZ,9499 Main St,68467,sale,2025-01-21 19:52:40,14c481c7-a086-498b-9da5-ef4387e77508
+Automotive,d895752f,False,Gift Card,729.84,0227e284,Car Wax,1,,Los Angeles,USA,IL,418 Cedar St,29106,"limited,exclusive",2024-12-23 00:16:40,8ba6fd22-7743-4baa-9cad-78dd9f0f9e62
+Sports,013df11b,True,Gift Card,305.43,a0ff3756,Basketball,6,4,New York,USA,CA,2347 Maple St,52609,"new,trending",2024-04-03 20:49:40,11745e59-2b3d-4186-a4c7-03e4d96cf22f
+Beauty,34086a57,False,Credit Card,248.2,0e26a182,Shampoo,9,3,Los Angeles,USA,IL,2606 Oak St,63949,"trending,new,limited",2025-02-17 15:29:40,8a895fa8-2bd1-41d0-bd9a-b72dcb7c5ec9
+Beauty,b588b8f3,True,Debit Card,470.93,ecf600ef,Hair Dryer,9,3,Los Angeles,USA,IL,1305 Pine St,57148,,2024-08-11 07:09:40,7eea132b-5848-4ed3-82c7-f896f499402c
+Automotive,d59e2614,True,Bank Transfer,855.08,03a98d90,Car Wax,7,3,Los Angeles,USA,TX,9490 Maple St,37954,"sale,limited,trending",2024-06-22 16:24:40,986f38d0-6f6b-4037-b857-61bfba90a239
+Sports,f993b08c,False,PayPal,502.19,cb4155ef,Tennis Racket,10,1,New York,USA,TX,2439 Pine St,65572,"trending,limited",2024-08-16 16:44:40,f30ca3c4-c764-4fd9-bbda-688b9afa8166
+Beauty,06382177,False,Bank Transfer,959.94,50350391,Lipstick,5,2,Houston,USA,CA,9844 Oak St,99070,,2024-08-27 20:07:40,2b5eac9c-0958-41b1-a7f4-c4415227a213
+Sports,1343f333,False,Cash,40.13,19316808,Running Shoes,6,4,Chicago,USA,NY,928 Pine St,79345,sale,2025-01-09 19:45:40,308a9ea0-e879-43d9-9c85-62aa204bb665
+Automotive,55991b20,False,Credit Card,841.49,4ea9e725,Car Wax,2,,Los Angeles,USA,NY,4494 Pine St,32385,limited,2024-08-19 01:13:40,1ba7e359-a226-433d-886a-8d895bfca0cc
+Clothing,b185e103,True,Gift Card,121.3,58aea74b,Jacket,4,3,New York,USA,NY,7240 Maple St,16738,,2024-07-24 14:37:40,b8005adc-de6e-404b-8a2b-f04b7e11d08e
+Home & Kitchen,404a1be5,True,Credit Card,84.89,01bcb931,Microwave,3,1,Chicago,USA,IL,463 Cedar St,51054,exclusive,2024-10-09 15:31:40,0922c112-9b84-4f02-8685-edbfb2269960
+Sports,bb0c0ea1,False,Credit Card,160.41,a4457eac,Basketball,6,4,Phoenix,USA,TX,2529 Cedar St,32128,new,2024-10-17 13:07:40,560b0424-330b-4ccb-bb03-ee4a829946a3
+Beauty,334858bd,True,Bank Transfer,87.0,9e2f5d9d,Nail Polish,1,5,Phoenix,USA,CA,7309 Main St,39664,"new,exclusive",2025-01-14 17:34:40,2c866693-292c-43f2-af8f-4fa04654df50
+Toys,792f0d62,False,Gift Card,539.48,efaa247b,Building Blocks,9,,New York,USA,TX,7712 Main St,83753,"limited,exclusive,new",2024-07-29 04:26:40,b875ac08-a454-41b5-9ab7-371efdaad2bd
+Health,9e4c431c,False,PayPal,193.9,e3bd76ce,First Aid Kit,3,5,Houston,USA,IL,8936 Pine St,12418,"sale,new",2025-03-09 12:49:40,0a9eb48b-266f-4d19-9495-518bd02d4737
+Home & Kitchen,1eb11f28,False,Gift Card,878.32,0ece0c3c,Microwave,1,1,New York,USA,NY,7514 Cedar St,77615,,2024-06-29 05:38:40,d4a1bc1e-93ed-42c8-a2b1-19c6921c9175
+Beauty,0273c743,True,Debit Card,203.7,4dc48042,Nail Polish,7,2,Phoenix,USA,IL,9730 Oak St,71208,exclusive,2024-09-17 23:36:40,66369810-5b91-444f-9796-5b9aea01e5e3
+Home & Kitchen,6ce5eea3,True,PayPal,867.4,89421e84,Microwave,3,1,Houston,USA,CA,7851 Main St,84160,"exclusive,sale,trending",2024-06-02 01:55:40,6fd9b14c-862e-4263-98ef-a211ab6befb6
+Automotive,1d1343f6,True,PayPal,884.03,6fab4202,Tire Gauge,6,,Phoenix,USA,AZ,3709 Pine St,28874,new,2024-08-01 01:25:40,926a76de-467c-48dd-9849-dd131a0a4329
+Automotive,0f512946,True,Debit Card,11.5,394807aa,Floor Mats,8,4,Houston,USA,NY,1998 Maple St,50572,exclusive,2024-06-17 00:20:40,d63f16ca-36d7-4340-b3b7-2487bbd99513
+Home & Kitchen,ff064de6,False,Cash,341.05,9cce9102,Plates,8,,Houston,USA,NY,8037 Cedar St,74957,,2024-06-23 15:52:40,659b8fb1-a1e3-462d-965a-220d3ff19067
+Automotive,60a4aa4f,True,Cash,493.9,ed8f8d38,Air Freshener,5,,Houston,USA,IL,9449 Pine St,11662,trending,2024-03-31 11:06:40,9ea825a1-8a5a-4158-8d3e-226cc1a6d3bb
+Electronics,968fd189,False,PayPal,575.48,eec2fa5a,Smartphone,2,4,Los Angeles,USA,TX,8128 Pine St,64118,new,2024-10-05 07:30:40,b16aee9f-8012-4ee2-a870-337fdb805c13
+Health,30cd93ae,False,PayPal,131.74,55fdc89a,First Aid Kit,8,5,Phoenix,USA,AZ,2512 Pine St,40398,,2025-02-15 18:45:40,ee818faf-dbe2-4b3b-9be5-fd1b2a22b65a
+Electronics,bbed64ac,False,Cash,402.23,a3c7b225,Headphones,9,4,Chicago,USA,IL,6843 Oak St,89899,trending,2024-05-17 04:53:40,0e5c1a86-e3e6-47d5-a4ea-a3a5111ec7b2
+Toys,bf4dbc4d,True,Bank Transfer,117.02,fd0e15c2,Board Game,8,3,Chicago,USA,IL,6900 Main St,32271,trending,2024-08-23 05:39:40,18a9f972-017f-407d-801b-bd804ed41927
+Beauty,c5921835,True,Debit Card,642.35,c5856fb5,Nail Polish,9,5,Los Angeles,USA,CA,1402 Oak St,27011,"new,limited,sale",2024-04-24 07:22:40,d9fa2786-6ac8-4ecc-92d6-f9420fdaa123
+Health,d55b0ce1,False,Bank Transfer,508.76,4fc03695,Vitamins,4,,Chicago,USA,IL,6750 Cedar St,90593,limited,2024-11-07 10:46:40,1ca99137-9b5e-45ec-92ef-0b05b7d101ab
+Clothing,d0cacc69,False,Bank Transfer,498.38,44760f30,Jacket,1,5,Los Angeles,USA,AZ,3528 Cedar St,19494,"new,trending,exclusive",2025-03-15 08:55:40,0cf0903f-cf24-4158-8c90-8f25aedb569c
+Home & Kitchen,e557587f,True,Debit Card,139.54,7101a436,Coffee Maker,3,4,Los Angeles,USA,CA,3289 Pine St,50824,"sale,new",2025-01-30 10:14:40,e18ab182-ca9c-44ef-b69a-02b5dbab662f
+Home & Kitchen,acb58254,True,PayPal,359.56,4194f7ca,Toaster,8,3,Chicago,USA,IL,6679 Pine St,33323,"exclusive,sale",2024-07-12 03:04:40,af467f52-ceef-4b62-bf26-f7eff8d69ef0
+Home & Kitchen,7c00baa5,True,PayPal,17.77,ece8223b,Coffee Maker,3,1,Houston,USA,NY,7437 Cedar St,94306,sale,2024-06-12 04:59:40,ec7fde95-35f6-4968-82e2-a4e7ee453260
+Health,f8a1870e,False,Gift Card,18.64,93326ceb,Bandages,8,,New York,USA,IL,8946 Maple St,23396,"trending,new",2025-03-15 06:23:40,584caa5c-e478-46e8-a1a1-8580232ccf7b
+Sports,688a0ae2,False,Gift Card,629.05,2e4982b4,Running Shoes,5,2,New York,USA,CA,1431 Maple St,73506,"trending,exclusive",2024-07-17 09:34:40,0ed75d3b-892f-48a5-992f-54f3e6a335e0
+Home & Kitchen,0628e877,False,Bank Transfer,117.53,7477d194,Toaster,7,2,Los Angeles,USA,TX,903 Cedar St,17403,"new,exclusive,limited",2024-07-27 01:21:40,8436a2e0-7c54-4a9e-b610-b36eddb33883
+Health,64bc9c62,False,Bank Transfer,535.74,9095db6e,Thermometer,2,3,Los Angeles,USA,AZ,4846 Main St,93394,,2024-07-12 16:10:40,4ebc43b4-687a-44fe-8707-9054c0c1927b
+Books,289a6b01,False,Credit Card,387.55,e7ce5e6d,Science Fiction,4,2,Chicago,USA,NY,2132 Main St,72343,"new,sale,limited",2024-04-06 06:39:40,df9f1c66-d3a7-4931-8425-4914d02cc2af
+Electronics,8f0f0dac,True,Cash,500.74,fab22bc9,Headphones,5,4,Los Angeles,USA,IL,2802 Oak St,36682,limited,2024-12-10 16:48:40,d354f075-03cf-4982-85fd-540ca139414b
+Books,bb3e403e,True,Bank Transfer,323.41,a2f9b87f,Science Fiction,5,4,Phoenix,USA,IL,7535 Cedar St,67715,,2024-10-22 19:42:40,41b26bfc-bc4a-41b9-ae9a-5bc8327aa887
+Electronics,d94b90ea,False,Gift Card,357.12,91a5935d,Headphones,6,,Phoenix,USA,CA,1312 Pine St,44834,limited,2024-12-03 10:59:40,6fbefd31-c25a-4a02-8448-c5debc63fa1b
+Sports,0f181f62,False,PayPal,355.76,9d783b9b,Running Shoes,7,,Houston,USA,CA,2063 Oak St,93980,"new,sale",2024-05-20 18:34:40,468e0283-e0cd-4cd9-944f-e46adf374f03
+Toys,023d4226,True,Debit Card,32.73,c7d67bc1,Action Figure,10,2,Houston,USA,TX,6989 Cedar St,11084,trending,2024-05-27 19:35:40,61943d03-707d-47db-bcf2-1e43b0c5c395
+Sports,5d17c28a,True,PayPal,666.8,0e6a4dd4,Dumbbells,1,1,Phoenix,USA,CA,3474 Maple St,79892,limited,2024-05-25 00:09:40,b6daf33c-3685-43c1-ab93-dfc33d767f4a
+Books,96f7725f,True,Debit Card,69.26,7912fd31,Cookbook,2,3,Los Angeles,USA,NY,1752 Main St,95765,,2025-03-01 12:17:40,740ea61e-e508-46bd-b321-ab718256b9c8
+Electronics,b5bb3766,False,Gift Card,608.75,76c6e27e,Camera,4,5,Houston,USA,TX,2463 Cedar St,50701,"limited,sale,exclusive",2024-05-17 20:01:40,41da54e1-b643-4c6d-aaec-a6bd222bd07c
+Sports,f95a0543,False,PayPal,468.32,0239246e,Running Shoes,8,2,Houston,USA,IL,8229 Pine St,32051,limited,2024-08-16 23:36:40,901acdd0-6bd8-4f82-adb8-6444d42695aa
+Grocery,8bc16859,False,Bank Transfer,444.0,9bf08eff,Cereal,5,,Houston,USA,IL,8133 Pine St,89611,"trending,sale,exclusive",2024-10-10 11:30:40,0850e257-bf4d-4211-bba4-1b8054bfe5de
+Clothing,51bfd0f1,True,Bank Transfer,810.23,d0cb64f5,Shoes,6,2,Phoenix,USA,IL,4838 Pine St,39548,"trending,sale",2024-12-13 06:01:40,7884a74d-7cca-410c-8c26-1fbb5f789cf6
+Clothing,aa341f64,False,PayPal,57.96,1c827242,Jeans,7,2,Houston,USA,AZ,7613 Oak St,66495,exclusive,2024-12-04 14:46:40,f896acdf-bcba-4c9b-8c60-66326a290fde
+Books,d34b887f,True,Gift Card,783.79,b0e3a09b,Self-Help,1,5,Houston,USA,CA,3244 Oak St,84373,"sale,trending,new",2024-04-30 08:54:40,c1714fd0-c671-4955-8f02-d62804ee7e5a
+Books,dcf90d4d,False,Credit Card,610.34,57957c13,Self-Help,2,,Phoenix,USA,IL,4021 Main St,66261,"sale,trending,exclusive",2024-04-09 21:27:40,36d8caaf-b98b-480b-a954-182f8f5e42fe
+Beauty,3a7c83c2,True,Bank Transfer,229.61,53fba275,Lipstick,2,1,Los Angeles,USA,IL,3062 Main St,37181,"sale,new,trending",2024-07-03 17:18:40,2e9af2fc-d219-4f1e-af65-1a0f503148a9
+Automotive,0789544d,False,Bank Transfer,212.58,c837eb12,Air Freshener,1,5,New York,USA,NY,7424 Main St,13774,limited,2025-02-13 17:52:40,78de9635-872f-4141-aae8-18fc3329b196
+Health,60f1d989,False,Bank Transfer,734.83,9b87199f,Pain Reliever,9,,Los Angeles,USA,IL,7936 Pine St,59494,"new,trending",2024-12-06 23:24:40,081a6cc8-8369-44cf-8530-5a11f0da2895
+Beauty,395e61c8,True,Cash,187.3,563f0a7a,Lipstick,7,,Phoenix,USA,TX,2819 Main St,55499,"new,exclusive,trending",2024-04-18 18:43:40,3dbc36b0-345e-4842-894a-a5637e565bb1
+Books,7793246c,True,Debit Card,784.08,79270950,Science Fiction,10,,Chicago,USA,NY,631 Maple St,75428,"limited,new",2024-09-01 22:04:40,43cf2953-edd1-4d9b-9216-fde108d8c497
+Electronics,bdbad4f8,False,Gift Card,993.86,af0eed69,Laptop,6,,Phoenix,USA,AZ,3523 Main St,83742,new,2024-03-30 02:06:40,d01886ec-3864-43a1-be7c-874bbed6e6ef
+Clothing,506d1aa7,True,Gift Card,86.0,a8e49596,Jeans,10,2,Phoenix,USA,CA,6018 Oak St,54983,exclusive,2024-03-26 04:42:40,b6068914-2070-4f82-bab4-974977e18b04
+Beauty,4ada3475,True,Credit Card,346.73,55005ff9,Face Cream,3,,Houston,USA,IL,9278 Maple St,22740,trending,2025-02-20 23:44:40,e9fcef13-f46e-442d-b10a-69b6bf35eb62
+Clothing,195888c0,False,Bank Transfer,812.74,2d4fd074,Shoes,9,4,Houston,USA,TX,7854 Main St,68949,"sale,new",2024-04-07 09:54:40,dd8c4fdc-03ff-4db9-94a2-46546947fc09
+Health,517e138c,True,Debit Card,647.38,8dad4d0d,Bandages,9,1,Phoenix,USA,IL,625 Maple St,54293,"trending,sale,new",2024-06-22 22:28:40,887a3314-4756-4c1c-9d82-1f8093ef168b
+Automotive,d4bdfb43,True,PayPal,210.08,f5e1e732,Car Wax,3,,New York,USA,IL,6498 Cedar St,69609,"trending,exclusive",2024-04-14 03:04:40,43c96aa6-e4dd-4c17-bfe3-af981726efb9
+Grocery,135c1f64,True,Cash,443.37,99dcf310,Coffee,1,1,New York,USA,NY,1995 Maple St,73556,limited,2025-01-26 04:54:40,e11ccb75-c1b5-438c-888f-48412bfa9b77
+Clothing,49cd337d,True,Debit Card,583.13,8ba22f33,Jeans,5,4,Los Angeles,USA,AZ,4414 Oak St,80027,"new,limited",2025-03-17 01:02:40,3c1de5a5-6441-4e2c-8a9f-a6cf3c58a47b
+Electronics,4bb54fed,True,Cash,311.29,fb1632a6,Camera,2,2,Chicago,USA,CA,8020 Cedar St,21712,"limited,exclusive,trending",2024-11-02 21:11:40,a1b866a0-48db-4548-ba31-c84a27d250d0
+Grocery,2947a014,True,Debit Card,835.49,a425610c,Frozen Meals,6,,Chicago,USA,IL,6927 Oak St,78644,"new,sale,limited",2024-12-21 18:28:40,5a65204f-c87e-4f04-842b-9883e1cfc402
+Clothing,f65ee2e4,False,Credit Card,734.99,b2f300b0,Jeans,5,,Los Angeles,USA,AZ,3003 Main St,38728,"trending,exclusive",2024-12-08 19:58:40,a24e16d0-d182-4a1e-8727-0b1718e10ee0
+Toys,3b5a030c,False,Gift Card,165.09,a434ccbb,Stuffed Animal,1,,Los Angeles,USA,CA,6734 Pine St,88098,"exclusive,new,trending",2025-01-16 07:11:40,bd77fa0a-e0df-4a94-bdb3-ec69ef180182
+Health,37b34d03,True,Cash,283.08,267872f0,Pain Reliever,1,4,Phoenix,USA,TX,9979 Pine St,35110,new,2025-02-11 17:48:40,df87ea02-0764-4659-8dae-5b2eeab64913
+Home & Kitchen,e7eb3472,True,Credit Card,779.02,2df8c423,Plates,5,4,Los Angeles,USA,NY,9329 Cedar St,11933,new,2024-08-21 13:11:40,82048ae3-1024-4065-9d23-c1786392250f
+Toys,9ae625aa,False,Credit Card,961.69,74fdc043,Puzzle,10,5,Chicago,USA,AZ,9191 Cedar St,48658,"new,trending,exclusive",2024-07-18 16:36:40,8cd96a5c-4e39-46c8-a614-4b38e467c8f3
+Toys,98a8fec2,True,PayPal,697.45,4f08b15c,Building Blocks,9,3,Los Angeles,USA,NY,5266 Cedar St,39550,,2024-06-29 07:28:40,20fa1e55-b843-4057-942e-9c9a24fba6fe
+Sports,738318eb,False,Gift Card,917.71,d5020429,Running Shoes,8,2,Los Angeles,USA,AZ,4767 Pine St,97459,"limited,exclusive,new",2024-11-30 01:02:40,60ef04e1-77d8-4540-9295-abde7b871a00
+Health,94ac833e,False,PayPal,640.26,969fc1dd,First Aid Kit,8,2,New York,USA,TX,4447 Oak St,84122,new,2024-08-25 16:30:40,08affe30-45ee-4bb8-a49b-26cac00e85eb
+Health,a84df508,False,Cash,787.92,7c601aeb,Thermometer,7,5,Chicago,USA,NY,4555 Cedar St,74893,,2024-09-25 05:04:40,8078538b-d628-4536-b6a1-1f8b43992651
+Automotive,43e9224b,False,Debit Card,518.72,5a73b55d,Floor Mats,8,2,Chicago,USA,IL,4124 Main St,98341,exclusive,2024-10-29 13:36:40,4c6cac30-10f3-41df-afef-f32abaeb41ae
+Books,91c4b55c,True,Bank Transfer,557.05,24f07ac6,History,6,2,Chicago,USA,NY,3150 Pine St,37771,"limited,exclusive,sale",2024-04-10 10:09:40,21b994e1-fdfc-4e66-a5ed-fbda3ba082b2
+Beauty,681d8c26,True,PayPal,798.84,e2809501,Hair Dryer,4,2,Chicago,USA,TX,9824 Pine St,55708,"exclusive,sale,trending",2024-09-26 02:45:40,8e116ec0-b1d8-4676-bce9-7e16a085cae2
+Toys,ce2067b4,False,Bank Transfer,770.06,83d632bd,Building Blocks,1,,Phoenix,USA,AZ,8686 Oak St,48927,sale,2024-03-19 12:17:40,384af5fe-5599-42a6-9e23-bd4f2442a657
+Books,75877371,False,PayPal,115.47,3eb1deae,Biography,3,3,Phoenix,USA,IL,5993 Maple St,44129,"new,sale",2024-12-16 17:18:40,26fbbcbe-43bd-4de3-bbf2-2c5f5237fc75
+Beauty,ecb1b139,True,Bank Transfer,74.04,d6d2d904,Face Cream,10,,Houston,USA,TX,2501 Main St,87836,"trending,limited",2024-07-10 06:29:40,be7184b0-6b49-47b4-b167-511acaccff3d
+Electronics,47a56c52,True,PayPal,634.38,24dcda89,Laptop,5,1,Phoenix,USA,AZ,2565 Maple St,56285,new,2024-07-07 00:11:40,83b68944-ae21-4608-83a4-7fd2989e0bc9
+Electronics,6c597847,False,Cash,514.87,614435e1,Tablet,6,4,Los Angeles,USA,CA,2180 Maple St,51273,limited,2024-05-30 13:45:40,2b88041a-316c-4dcc-ac78-e03c102d6678
+Beauty,2e6b72b9,False,Credit Card,930.58,573f6a7b,Lipstick,5,,New York,USA,TX,5282 Main St,61135,new,2024-11-09 22:20:40,c0950f38-29e8-4f30-b036-72090ab65d42
+Clothing,5be3ea9a,False,Bank Transfer,779.55,ae639eac,Dress,9,1,New York,USA,CA,9522 Maple St,56201,"sale,new,limited",2024-03-31 07:01:40,c86fd69e-f5c5-4915-88ba-02a4c27c87ea
+Sports,52b05be1,True,PayPal,168.6,3b31d3dd,Tennis Racket,8,,Houston,USA,CA,992 Pine St,69315,"exclusive,sale",2024-09-25 22:45:40,166b31db-30e0-4e84-a282-444db655e95d
+Health,80282419,False,Debit Card,156.41,d8bcca43,Bandages,8,1,Phoenix,USA,AZ,8898 Cedar St,41631,"limited,sale",2024-08-01 03:54:40,d51a8d2c-c1eb-4b02-81b0-95bcc872dba3
+Home & Kitchen,6cef7aad,False,Gift Card,85.99,fcc06f19,Blender,6,,Phoenix,USA,TX,7231 Main St,12274,sale,2024-12-11 14:29:40,5cd8937e-fef5-4c78-bd2e-c6a42cdc43bd
+Books,90837658,False,Cash,844.47,f798c68f,Fiction Novel,8,2,Chicago,USA,CA,815 Main St,23716,,2024-08-04 08:10:40,50641960-7968-439b-91e4-4d535dc7814f
+Home & Kitchen,14a030bc,True,PayPal,795.89,d8336f20,Blender,2,3,New York,USA,TX,9622 Pine St,96394,"exclusive,limited",2024-11-26 22:08:40,61281b53-3526-4ca3-848d-1a7669cdb71d
+Sports,ec7d8526,True,Bank Transfer,605.17,1415a379,Basketball,7,2,New York,USA,TX,1488 Oak St,75282,,2024-09-10 05:38:40,c23889a6-ff19-444d-91cf-ced888d1c39a
+Beauty,5691cc58,False,Debit Card,168.6,6ee4aa6c,Nail Polish,7,5,Los Angeles,USA,TX,3426 Main St,85475,"sale,exclusive",2024-04-09 11:13:40,992f3fa1-0030-4f4c-a4ec-fd17cef92477
+Electronics,226fb054,True,Cash,930.02,c0710087,TV,7,4,Phoenix,USA,IL,6961 Pine St,48056,"exclusive,new,limited",2024-11-27 02:58:40,d9d50c64-cede-4f05-bb66-c7dd89ee8e80
+Books,35411922,True,PayPal,108.9,86604d8a,Fiction Novel,1,4,Houston,USA,TX,599 Main St,22449,limited,2024-11-03 09:54:40,ca2db236-5b11-460e-9255-2abd443bca43
+Clothing,7bc96ec8,True,PayPal,805.82,096a91a9,Socks,9,3,Chicago,USA,IL,6502 Maple St,49060,"limited,new,sale",2024-10-05 04:12:40,fda33ac2-8c49-4047-b6ce-ec1e111384e8
+Electronics,1f00ad88,False,PayPal,117.03,2e98c8e6,Laptop,3,2,Houston,USA,NY,7842 Maple St,90418,limited,2024-05-20 20:00:40,884e9a8c-13b4-4733-b5ab-b311a116439c
+Clothing,d92eba4e,True,Cash,388.22,0168935a,Dress,3,4,New York,USA,AZ,492 Pine St,93583,"exclusive,sale",2024-05-01 07:02:40,37a24972-14f6-4337-b228-95defb0eb4d9
+Electronics,9d93279b,True,Credit Card,916.55,b45e1e96,Smartphone,5,,Phoenix,USA,IL,5752 Pine St,31557,,2024-07-09 20:43:40,c39aa011-c5fc-4cba-9b48-ea44ba1e391f
+Home & Kitchen,a85c7c64,True,Debit Card,738.61,6f37b02d,Toaster,9,1,New York,USA,AZ,3499 Main St,50781,"trending,exclusive",2024-08-07 05:01:40,36d28857-571a-4a34-8654-050981631b22
+Grocery,ac28ea55,False,Cash,543.82,4bc5f844,Frozen Meals,10,3,Phoenix,USA,AZ,5966 Oak St,35451,new,2024-06-25 07:16:40,dee5e190-b923-4fb9-ae6b-145f204ae56e
+Automotive,5f614ddd,True,Gift Card,357.93,d9d2bd2b,Jump Starter,7,3,Phoenix,USA,AZ,8638 Maple St,56840,exclusive,2024-04-17 06:36:40,f0c4e6d3-9288-4cc8-a0a7-7f5c0b9013ee
+Electronics,60cfeb56,False,Gift Card,412.53,87bcefb4,Smartphone,2,5,Chicago,USA,NY,3448 Cedar St,34175,,2024-07-25 06:38:40,d7d3a313-48f0-4352-9013-ca906c669689
+Sports,da49ca30,True,Credit Card,126.98,a1c77548,Basketball,10,,Houston,USA,AZ,499 Cedar St,82356,"trending,sale,new",2024-04-03 07:28:40,5475688f-864f-462b-a66f-b37497972c2d
+Toys,a5cec6d8,False,Gift Card,56.64,fc855e67,Action Figure,8,1,Phoenix,USA,CA,8423 Main St,94022,"exclusive,sale",2024-10-02 08:58:40,2fa6ee69-965a-49d8-a277-fb02562827e8
+Beauty,6df5e4df,False,Debit Card,565.38,1d972a02,Nail Polish,3,,Houston,USA,NY,6015 Oak St,32701,"limited,exclusive",2024-11-21 01:08:40,e1da0321-17d3-491c-bf19-ea676a0fee9e
+Toys,19435377,False,Cash,96.29,15a13ee5,Doll,6,,Phoenix,USA,IL,2645 Main St,13815,new,2024-12-14 08:18:40,e7da4018-8855-4d3f-9cb2-a688c7cd1332
+Electronics,0ea824e7,True,Credit Card,446.22,b5aa266b,Smart Watch,4,2,Phoenix,USA,NY,738 Cedar St,77638,"sale,limited",2024-04-07 07:57:40,617b2062-a982-47e4-b6c2-92c71a31cc6d
+Clothing,5c6d72aa,True,Debit Card,334.66,756955d3,Hat,2,1,Houston,USA,NY,2661 Oak St,16541,sale,2025-01-13 03:17:40,6434240c-b401-4082-84c6-eeb4852d7ede
+Health,9611dd5f,True,Credit Card,234.43,7c1bfe20,Vitamins,7,3,Chicago,USA,IL,9159 Main St,72123,"sale,limited",2024-11-03 02:34:40,6e512904-260d-4617-8a3f-aa39dfae20a2
+Electronics,0a90673e,False,Credit Card,478.84,d902a3f6,Smartphone,6,4,Houston,USA,CA,4894 Oak St,41180,,2024-12-11 11:56:40,dd58de37-b989-48dd-b8c8-82be616a6f3c
+Home & Kitchen,bb562e9f,True,Debit Card,781.73,8390441b,Plates,4,5,New York,USA,AZ,8104 Main St,95030,"trending,sale,exclusive",2025-01-06 11:17:40,ef7dae26-9081-47a4-ab05-83c54cf46198
+Sports,09a9deb2,True,Gift Card,617.45,415609e1,Yoga Mat,9,,Los Angeles,USA,IL,5476 Cedar St,70621,new,2024-08-02 03:01:40,969aa67d-979e-4b70-83ad-8f2df70302b5
+Health,54fdfce3,False,PayPal,730.04,3f962830,Pain Reliever,10,2,Houston,USA,TX,4515 Cedar St,41507,"trending,sale",2024-10-28 13:00:40,402303c6-9645-4cee-ab0f-3ee7a8ce6344
+Clothing,b244961e,False,Bank Transfer,683.91,f921c4cb,Hat,6,1,New York,USA,AZ,4765 Cedar St,93930,limited,2025-02-16 11:56:40,a3705633-6e33-4791-b0aa-d6ab5b277cf0
+Home & Kitchen,3c85e41e,True,Credit Card,27.47,88a86d57,Microwave,10,1,Los Angeles,USA,NY,1205 Oak St,20250,"exclusive,trending",2024-08-03 07:39:40,a2e250eb-4003-40d2-b6b7-3d976046bd6a
+Grocery,49248e21,False,Debit Card,276.53,385a01d4,Canned Goods,10,,Phoenix,USA,IL,7381 Cedar St,32559,"exclusive,limited,sale",2024-12-23 13:13:40,a6899079-b703-424b-908c-4a9a3b644da2
+Sports,9ea90384,True,Debit Card,867.26,93a80c13,Basketball,2,5,New York,USA,IL,2340 Oak St,53920,"exclusive,limited,new",2024-11-23 05:07:40,4744cd15-51a6-4c65-95cc-1742115e0ba5
+Grocery,9cdee638,True,Credit Card,797.96,3555d2d0,Pasta,1,3,Phoenix,USA,AZ,7369 Oak St,49285,"sale,new,exclusive",2024-03-31 02:52:40,56749e0b-9d93-4953-925a-8c3c5d5f6736
+Automotive,a951d5bc,True,Debit Card,961.41,985904ef,Floor Mats,9,2,Chicago,USA,TX,6878 Maple St,83982,"limited,exclusive",2024-10-29 03:28:40,4f32009d-4abf-4535-a640-22d71127944b
+Home & Kitchen,b81dd838,False,Bank Transfer,573.57,3a964e87,Microwave,8,4,Los Angeles,USA,TX,1149 Main St,56621,"trending,new",2024-12-14 18:36:40,9fd38df5-f1bf-40ac-b98b-f6279dc23fd0
+Home & Kitchen,257a3587,True,Credit Card,370.25,813d6db4,Coffee Maker,3,,Los Angeles,USA,IL,715 Pine St,26758,"sale,trending,limited",2024-06-08 23:54:40,67932d34-7c55-4de1-a9b1-d56385ca6a22
+Beauty,bf7c9881,False,Gift Card,575.18,21c30409,Face Cream,7,,Phoenix,USA,CA,4173 Cedar St,33521,,2024-04-20 03:21:40,344e2f8f-bd69-41f8-93ff-dfa53d235a01
+Electronics,564332f9,False,Cash,671.24,652d116a,TV,1,3,New York,USA,AZ,5241 Main St,63768,"new,limited,trending",2024-08-04 13:38:40,580954cc-b720-47c5-b7b3-a69362698c9e
+Beauty,175f04ea,False,Bank Transfer,210.8,6543ffe5,Hair Dryer,9,,Chicago,USA,IL,6699 Pine St,48188,"trending,new",2024-08-12 15:18:40,923d4640-eae1-459b-9314-88c815cde8e4
+Automotive,bdc36363,True,Gift Card,719.64,42192e4f,Car Wax,7,,New York,USA,AZ,6141 Oak St,78920,new,2024-12-04 14:55:40,86cb6c1a-1406-4b33-b85c-4c886870a6ef
+Electronics,c6a86ac8,True,Credit Card,629.91,87e7810d,Tablet,5,,Houston,USA,NY,8395 Maple St,85667,limited,2024-07-03 18:29:40,0bb77451-5b7b-4d7d-ade7-47dfc0402442
+Sports,868521e0,False,Gift Card,186.31,dc599a3e,Running Shoes,4,4,Chicago,USA,IL,2209 Main St,28025,sale,2025-01-31 11:41:40,94060b51-6431-432d-ab6f-aaf9af8db27f
+Toys,4495f9bb,True,PayPal,399.93,6ebd4b15,Stuffed Animal,7,,New York,USA,NY,8152 Oak St,88710,,2024-08-27 05:00:40,b09e60aa-330c-4802-8343-e8f7cc0462f9
+Sports,50f84109,True,Bank Transfer,550.2,8fa81a79,Dumbbells,10,2,New York,USA,TX,7455 Oak St,64583,"trending,sale,limited",2024-04-04 18:55:40,1cd95114-2652-4be6-b3f5-dae22b2c2694
+Electronics,d2ecf116,True,Debit Card,928.55,915a1244,Laptop,4,1,Chicago,USA,AZ,8962 Oak St,20458,new,2024-08-02 13:09:40,5c208ea5-7441-4488-b4ac-d151c22f8d36
+Clothing,6f7df9bb,True,Credit Card,486.36,65ab82d5,Hat,3,5,Los Angeles,USA,NY,4169 Maple St,42592,,2024-05-01 14:07:40,c7299f4d-949a-4569-97a4-972b88fc40ca
+Automotive,786076d2,False,Cash,279.96,8f98acc6,Car Wax,8,5,Phoenix,USA,TX,2113 Main St,50843,"trending,sale",2025-02-23 00:25:40,1ad2f89c-261d-4489-9079-b389d079e4f4
+Sports,f3be41d7,True,Bank Transfer,25.72,5a4b368d,Running Shoes,2,1,Houston,USA,AZ,3585 Main St,64248,sale,2024-10-15 16:36:40,89b9975b-505a-4214-a7c0-520ca5e61c7a
+Home & Kitchen,323cd982,False,Credit Card,47.19,170e6c79,Blender,6,,Chicago,USA,TX,5830 Cedar St,41463,,2024-08-16 19:33:40,c98b981b-60f0-4594-9aee-419e0b9fb435
+Sports,9a030609,True,Credit Card,951.88,4d12645f,Dumbbells,4,2,Los Angeles,USA,CA,6198 Cedar St,89424,"exclusive,new",2025-03-03 06:58:40,ef514dd8-5ada-4a1d-9d07-d058d553cfbd
+Beauty,f06f6cf5,True,Bank Transfer,607.19,ad61f962,Face Cream,6,3,Houston,USA,NY,4240 Main St,77248,"sale,limited",2024-10-14 02:24:40,6b39230a-b4fe-4b8d-804d-cf3226842e05
+Clothing,894ea281,False,Cash,973.18,79b68c33,Shoes,8,4,New York,USA,CA,9331 Pine St,95911,,2024-11-16 09:28:40,a770e707-e1a5-4115-a62c-f91f4974d35a
+Automotive,17e736b5,False,Credit Card,707.54,c1eb0a37,Car Wax,6,4,Phoenix,USA,NY,6862 Main St,39848,limited,2024-12-22 21:42:40,9f81e874-bb75-4049-9dc1-9d6338dda1c4
+Grocery,c72ab7e0,True,Bank Transfer,726.74,26dbf9ce,Frozen Meals,1,2,Los Angeles,USA,AZ,6282 Main St,35094,"trending,sale,new",2024-07-21 00:35:40,c3a7aabe-a01f-43e9-9830-93c244167b81
+Automotive,1f0d8e22,False,PayPal,651.06,10ef523c,Car Wax,5,2,New York,USA,TX,6429 Cedar St,81311,"sale,trending",2024-04-22 14:18:40,b09daffb-9fa2-4efd-bed0-fb8e28c5b116
+Electronics,32aef3a0,True,Bank Transfer,487.23,9bb975d5,Laptop,5,3,Houston,USA,AZ,4207 Oak St,58971,"sale,limited",2024-08-06 17:07:40,0e4968ed-2756-4d21-95ea-5ee94ffd121d
+Books,865f7dbe,True,Gift Card,979.59,2184463b,Fiction Novel,3,4,New York,USA,IL,4212 Maple St,85949,new,2024-11-15 16:29:40,0627e398-0de4-49ac-90c2-c19b227d7bd2
+Beauty,fdc8d539,True,Debit Card,538.64,95caf3d5,Face Cream,6,1,Los Angeles,USA,TX,5075 Main St,88880,,2024-09-26 21:16:40,1b07c52f-f777-4759-9088-4925c5d984cc
+Sports,8382d230,True,Gift Card,275.92,431f52bc,Dumbbells,3,,Houston,USA,NY,2183 Maple St,46468,,2024-04-02 18:41:40,35f78ecf-7fdb-42d6-ac81-e626ae383b91
+Beauty,10bc22e7,False,Cash,898.11,b6e6553b,Hair Dryer,3,,Los Angeles,USA,NY,4250 Cedar St,74491,"limited,trending,exclusive",2024-12-31 07:03:40,5d1ba412-8a9f-4814-89ea-9eef55f44363
+Electronics,8cc1926f,True,PayPal,637.95,5fade15a,Tablet,2,1,Chicago,USA,IL,7360 Oak St,84420,,2024-12-18 03:59:40,f13282df-afdb-4b53-906b-ce57a33a53a1
+Toys,489b4dba,False,Bank Transfer,305.62,1c103ca1,Action Figure,9,2,Chicago,USA,IL,124 Cedar St,36160,new,2024-04-15 14:13:40,49f389a8-6769-4738-85b6-ec9e374c2391
+Grocery,351bb909,False,Cash,706.32,d101bc68,Snacks,9,4,Los Angeles,USA,CA,9601 Pine St,50423,trending,2024-03-18 08:03:40,ff8d384d-db28-4c45-b080-5c4dbdb60175
+Grocery,b507a887,True,Debit Card,490.44,6b2029b1,Coffee,7,5,Houston,USA,NY,3016 Maple St,23522,,2025-02-02 13:09:40,b268d75a-b094-42b0-88b6-114469054fc4
+Sports,c71d7a30,False,Gift Card,918.52,61a66f63,Dumbbells,8,3,Chicago,USA,TX,988 Maple St,95434,"sale,exclusive",2025-02-06 05:53:40,078faea2-ea66-4377-8864-06df48f14457
+Health,790822c0,False,Gift Card,652.03,b37c1c78,Bandages,9,2,Phoenix,USA,TX,6472 Oak St,46240,,2024-05-05 14:06:40,df81d389-ab3d-461e-93c4-366b0418b528
+Clothing,69d2ce5d,True,Cash,769.0,d906e84f,Jacket,7,5,Chicago,USA,IL,6858 Cedar St,26311,"trending,limited",2024-11-11 23:28:40,d0f2d180-645c-4387-a6c9-5c8b337c73c3
+Beauty,00192c34,True,Cash,663.79,b8095563,Hair Dryer,1,1,Los Angeles,USA,CA,3375 Cedar St,39534,"new,trending,exclusive",2024-10-08 23:57:40,42a606d4-9452-46f3-9d6b-1c6d301ef49e
+Beauty,b5d7be23,False,Bank Transfer,569.64,9a3f69bb,Face Cream,6,1,New York,USA,NY,8310 Pine St,31976,"new,exclusive,limited",2024-08-02 02:19:40,86ca1e83-31b5-4290-b9b3-1a2141c0fb29
+Home & Kitchen,1edd0009,True,Credit Card,173.6,fe98eba6,Microwave,4,,Houston,USA,NY,8122 Pine St,98748,new,2024-12-21 07:28:40,a34d4459-fdf8-420d-bb9c-c20c86667439
+Grocery,990eeac9,False,Cash,508.73,028c2f13,Frozen Meals,2,,New York,USA,TX,1746 Maple St,65394,"sale,new,exclusive",2024-08-30 20:49:40,b0a95add-6394-4aac-83b7-14cfcc07fa2b
+Books,939dd6fc,True,Credit Card,846.07,cc78dfbd,Biography,1,,Houston,USA,NY,9439 Oak St,64284,"trending,sale",2024-09-23 06:33:40,709a6f48-376d-4b89-8501-2b71aa258f77
+Clothing,67e5ed67,False,Cash,997.75,c01c7429,Socks,8,2,Los Angeles,USA,CA,6282 Main St,95099,"exclusive,sale",2025-01-08 05:47:40,a40f1702-7645-42c8-809e-a7d322c13ef5
+Home & Kitchen,bec5a09d,False,Debit Card,189.68,d948b5e7,Toaster,9,3,Los Angeles,USA,AZ,245 Maple St,43583,"new,sale,exclusive",2025-01-29 23:53:40,fb21b1b9-0e31-4e25-9d64-c5c41697dad6
+Books,262cd032,True,PayPal,439.51,fdc72b1b,History,9,3,Chicago,USA,CA,1858 Main St,17972,"new,limited",2024-07-26 20:28:40,85274558-4653-4da5-ae38-f43b2ac01aae
+Clothing,f79792da,True,Bank Transfer,795.72,a834e5e9,Socks,9,2,Phoenix,USA,NY,6038 Cedar St,69111,trending,2024-03-30 17:05:40,c210e4e4-a9a4-42df-8699-d7c6ead852bf
+Health,0545a2d6,True,Cash,352.44,041a7df5,Vitamins,9,2,New York,USA,IL,6938 Pine St,67873,"sale,limited,exclusive",2024-11-23 18:06:40,1d3ad158-b5bd-4111-a42f-2a817e2e2d3e
+Sports,1b566f74,True,Debit Card,382.76,08a7ad97,Running Shoes,1,,Phoenix,USA,TX,2780 Cedar St,63009,"new,exclusive,sale",2024-04-24 07:57:40,b2a71070-1926-4f9f-8fc5-52be38db5e85
+Home & Kitchen,441c22e3,False,Gift Card,226.44,6ad5ba93,Knife Set,5,3,Houston,USA,NY,3395 Oak St,63553,"exclusive,new,trending",2024-07-15 00:26:40,5274183d-9a1c-4af6-b74c-4a8983a16bc4
+Sports,198812e3,False,Credit Card,270.3,fcb2a2bd,Dumbbells,8,4,Phoenix,USA,IL,3381 Main St,94239,,2024-05-13 10:16:40,9eeab18a-5d6f-4958-a49c-c9fe87305644
+Automotive,46d5402b,False,Credit Card,327.24,d8428f9e,Jump Starter,1,3,Los Angeles,USA,CA,7686 Oak St,84394,"exclusive,sale",2024-06-02 20:59:40,20f0225a-0524-4436-88c6-75eb9dd823dc
+Health,4f5f1d29,True,Cash,992.38,fa5e4d77,Bandages,1,,Houston,USA,NY,6109 Main St,62724,exclusive,2024-05-07 17:57:40,1ea1d952-b7fc-4c8e-ac99-7cbadcc26d8a
+Sports,bf0ee926,True,Bank Transfer,436.06,f38c8210,Yoga Mat,2,4,Chicago,USA,NY,5374 Main St,75901,"exclusive,new,limited",2024-11-29 14:06:40,4818c086-56a2-463a-b510-9cdc760ae963
+Grocery,26323bd0,False,Bank Transfer,574.29,a2dc01c8,Coffee,7,1,Los Angeles,USA,AZ,5678 Main St,18717,"limited,new,trending",2024-07-05 15:11:40,1488eac1-d7fb-43ac-8546-97b76894110b
+Health,e01f4808,False,Credit Card,340.84,3d8ff9cf,Bandages,7,4,New York,USA,AZ,9440 Oak St,13832,"trending,sale,exclusive",2025-02-19 12:21:40,2833a77b-c6ad-442a-87b3-f50bf04d3b7c
+Books,ad9de6b2,True,PayPal,444.07,eb6783f8,Self-Help,9,,Chicago,USA,TX,5722 Main St,69417,"new,sale",2024-06-16 18:19:40,fd853189-63f2-414f-8d6e-2664bf576195
+Beauty,28ad9331,False,Cash,795.13,82e5de6a,Hair Dryer,2,4,Los Angeles,USA,AZ,2915 Pine St,14222,"new,limited",2024-12-20 14:17:40,49a5f56a-f5d5-4bb3-912b-d08e54cbd5d4
+Clothing,9adeadbe,False,PayPal,724.32,a8fd85d0,T-shirt,2,3,Houston,USA,TX,3995 Main St,94396,"trending,sale",2024-07-11 03:23:40,6eeec63d-575c-4fc9-a096-9cb5829e55e9
+Sports,ad3d578e,True,Credit Card,734.55,b876b62c,Running Shoes,8,,Los Angeles,USA,IL,4701 Main St,98591,"trending,limited,new",2024-04-13 12:45:40,fb4eeb47-49d5-45ef-b5d6-4949523217ab
+Beauty,5b19e8fa,True,PayPal,61.33,60bf4434,Hair Dryer,5,,Chicago,USA,IL,7837 Oak St,80760,exclusive,2024-06-07 14:35:40,253c0d83-c2e3-4060-bc3c-3f9b09a9171b
+Clothing,896e7165,True,Gift Card,925.21,30c5891c,Socks,10,,Phoenix,USA,NY,4772 Cedar St,58404,new,2024-11-17 17:18:40,2c01eddf-aa68-4507-974b-0dcb4f973990
+Clothing,404ec0ee,False,PayPal,191.23,dd077d05,Dress,1,1,Chicago,USA,CA,2226 Cedar St,24411,,2025-02-12 18:44:40,f6cd562b-c6a1-4531-aa0f-dc801df8d22a
+Sports,66458895,True,Debit Card,443.38,48080336,Yoga Mat,3,4,Los Angeles,USA,AZ,1990 Cedar St,34888,limited,2024-06-10 15:05:40,697b591a-6d9e-4b21-ac82-33b6f6139480
+Automotive,37307fcd,False,Gift Card,768.57,b1d831f0,Tire Gauge,3,3,Los Angeles,USA,AZ,4816 Pine St,60064,"sale,trending",2024-05-31 21:29:40,6921fdb7-133a-4c12-8e53-3dd18d3a4a80
+Clothing,78b30b51,False,Bank Transfer,751.78,45a480a7,Jeans,3,,Phoenix,USA,TX,771 Oak St,72507,"sale,exclusive,new",2025-01-14 02:28:40,9b6b6cc9-45ea-4744-98a4-14b651cd9a6b
+Health,ad1f0812,False,Debit Card,874.72,2b4aef38,Bandages,5,5,Phoenix,USA,AZ,9907 Cedar St,60955,"limited,trending",2024-05-29 05:04:40,15f94952-f080-4d9e-9b1c-492bf6a4d99a
+Automotive,0ada0dfc,True,Debit Card,915.96,f815d30c,Jump Starter,4,1,Phoenix,USA,AZ,1293 Cedar St,74390,limited,2024-11-14 19:52:40,9624dc93-23e3-4fee-a53a-4f00a2792d40
+Toys,d717320a,False,Bank Transfer,888.59,a757ad7d,Stuffed Animal,10,1,New York,USA,AZ,6208 Main St,13033,"sale,trending,exclusive",2024-06-02 17:00:40,5799996d-6611-49ac-93cc-ae135fac7f6e
+Clothing,7262259d,False,Cash,41.5,ff72b2d0,T-shirt,9,4,Phoenix,USA,TX,4077 Maple St,13943,,2025-02-01 07:23:40,12227322-e333-41ba-b2a1-fc450f98e3f2
+Health,9205f564,True,Debit Card,289.6,3cd1701c,Bandages,6,2,Houston,USA,IL,442 Maple St,33709,"new,exclusive",2025-03-07 03:34:40,40c78203-9717-48d4-8b61-35bb20524836
+Grocery,d8c0652e,True,PayPal,260.91,15399d96,Canned Goods,9,2,Los Angeles,USA,AZ,5306 Maple St,36900,"new,sale,trending",2025-02-26 15:53:40,351e0a0a-cd15-405f-ae64-ba05010e22d0
+Health,9baf4302,False,PayPal,267.7,ed8f5875,First Aid Kit,6,5,Los Angeles,USA,TX,487 Pine St,72959,exclusive,2025-01-22 01:03:40,ba74722c-742b-48a0-9d11-3d6896d2b842
+Electronics,e4fdad00,True,Bank Transfer,407.66,912ce511,Camera,5,1,Chicago,USA,CA,769 Main St,12830,,2024-04-28 08:30:40,40d8beb0-ff93-4409-9e9e-9348eac1f9b4
+Sports,fb258d5e,True,PayPal,689.48,4fb78ec8,Dumbbells,10,2,Los Angeles,USA,CA,2788 Cedar St,60748,trending,2024-03-21 22:32:40,6c2f6ffd-1293-4426-bd61-7104160df74f
+Health,5a3e2e7c,True,Bank Transfer,471.99,9aa1b27b,First Aid Kit,10,3,Los Angeles,USA,IL,2158 Oak St,10314,"trending,sale,exclusive",2024-10-13 02:05:40,a75598f3-91f5-422e-8a2e-976f6e17ffbd
+Clothing,e0c1b1e2,False,Credit Card,950.97,3c7343d2,T-shirt,4,3,Phoenix,USA,CA,2922 Maple St,75297,"trending,limited,new",2024-10-16 06:45:40,ad052276-ad35-404f-b90a-dda32b84cab2
+Clothing,4f9f7c48,True,Bank Transfer,294.51,bae29e73,Socks,7,2,Los Angeles,USA,NY,993 Pine St,88106,"new,sale,limited",2024-12-03 22:28:40,60b58223-c496-48be-9b1c-e67dd2327495
+Home & Kitchen,4e09014a,True,Gift Card,565.13,185a05ff,Toaster,1,2,Chicago,USA,NY,1977 Maple St,14658,"exclusive,new,limited",2025-03-03 03:59:40,3cd7a9f7-c41a-4af0-90c4-114be2735a57
+Sports,5611dc99,False,Cash,806.35,29410bea,Dumbbells,2,1,Houston,USA,NY,8885 Oak St,44134,"sale,limited,trending",2024-07-11 18:18:40,b985351f-eb51-43bb-b592-f92fc7a76cce
+Beauty,5f1c8b9c,True,Bank Transfer,171.87,ec9348d3,Hair Dryer,5,2,Phoenix,USA,CA,4031 Main St,80011,exclusive,2024-08-02 04:20:40,92148540-4b13-422b-8735-5ce436b00cef
+Grocery,d5674ade,False,Cash,387.95,296f39a9,Frozen Meals,7,2,Phoenix,USA,AZ,6641 Oak St,24118,"limited,exclusive",2024-06-20 17:44:40,df759308-4f9e-4cae-87de-8834e77e6305
+Grocery,4812e9c1,False,PayPal,83.0,e54482d2,Frozen Meals,6,3,Houston,USA,NY,4647 Maple St,47020,"new,sale",2024-08-27 07:19:40,9510b64d-e285-419f-8b3a-bc713a57acf6
+Beauty,53b9744b,True,Debit Card,781.44,c342fbca,Lipstick,2,,Phoenix,USA,CA,3457 Pine St,68623,,2024-12-13 23:35:40,8cbc316f-269f-48dc-b2e5-07540db6de20
+Health,b5f163fc,True,Bank Transfer,816.89,df95e490,Pain Reliever,2,4,Chicago,USA,IL,4396 Cedar St,12859,"new,exclusive",2024-08-14 01:31:40,7b2be674-d00d-47a1-9f8c-13717d61b52c
+Beauty,ab363085,False,Gift Card,261.45,9b230481,Hair Dryer,2,2,Houston,USA,NY,5428 Oak St,47964,,2024-09-29 13:43:40,e2229abd-8a20-486e-9cfd-1295082563ef
+Toys,54d98eb0,True,Credit Card,725.72,35a0f6d9,Board Game,6,5,Phoenix,USA,AZ,7223 Cedar St,85906,"exclusive,limited",2024-10-12 16:29:40,2cc78702-abb6-4fb4-b526-717195d884fb
+Automotive,b1f94167,True,Debit Card,344.21,005acc76,Tire Gauge,8,,Houston,USA,AZ,3206 Main St,74341,exclusive,2024-09-21 19:25:40,a9f83c8e-8a96-497c-8ff4-e2ff93a588a5
+Beauty,5d73e65a,True,Cash,554.15,91f7f2b6,Face Cream,3,1,Los Angeles,USA,AZ,997 Main St,81519,,2024-04-16 04:38:40,1c0584a4-a8f5-4458-80ef-c49d41f884d3
+Beauty,0b5dd31c,False,Gift Card,591.06,3b877d1f,Nail Polish,3,,Phoenix,USA,CA,2429 Maple St,53576,"exclusive,sale",2024-09-07 07:35:40,3ebdec47-872c-4b1a-8a2f-3fa579beff08
+Automotive,91a00d07,False,Credit Card,397.48,429cdf5d,Air Freshener,6,,New York,USA,CA,168 Oak St,48937,"new,trending",2024-12-04 03:55:40,c7de3b62-5f49-4871-93ae-af5f26334a4c
+Beauty,02a76b91,False,Cash,355.47,7198166c,Perfume,10,2,Phoenix,USA,IL,1348 Main St,40875,,2024-04-08 17:59:40,0f1b4878-543d-4f12-bfc0-3cafafb37622
+Home & Kitchen,bdc80b7b,True,Credit Card,56.23,e7e8fb3c,Microwave,7,5,New York,USA,NY,1183 Oak St,19849,limited,2024-10-13 19:33:40,14fe0628-0532-4061-bd5e-79195575cb83
+Toys,aef301c0,False,Credit Card,430.28,db488158,Doll,7,1,Phoenix,USA,AZ,8887 Oak St,13533,limited,2024-04-27 18:36:40,4dc0fb4c-a17d-42f4-b4a6-0a40865abe31
+Automotive,106f6a37,True,Bank Transfer,208.58,323700dd,Air Freshener,10,5,New York,USA,NY,9174 Main St,22587,,2025-02-09 13:29:40,f94aff12-931d-4c01-8c40-f7bcba4eaaed
+Grocery,3350eadd,True,PayPal,629.79,e4e4958f,Pasta,3,,Los Angeles,USA,NY,8610 Pine St,79057,new,2024-06-23 09:35:40,d7578408-e319-42a4-9c75-284eef6fb0f8
+Sports,ec228a67,False,Gift Card,560.24,e9e08285,Basketball,2,,New York,USA,NY,6693 Cedar St,94383,,2024-06-06 07:16:40,4dacb37f-548b-4f1a-b4e9-1adb38cfb4d8
+Automotive,fddd5d85,False,Debit Card,287.05,f5b5016e,Floor Mats,8,,Chicago,USA,TX,2350 Main St,22582,new,2024-05-14 20:35:40,fe2a4229-2584-49a9-8995-a49493de5ce6
+Toys,3ee67bf6,True,Cash,881.17,97d4cb7d,Doll,3,,New York,USA,NY,2401 Cedar St,81942,sale,2024-04-29 05:26:40,ea086c1e-a9c6-4be7-96cf-8eba5eb3c5c8
+Books,f25433ad,True,Bank Transfer,115.56,102cac80,History,5,5,Los Angeles,USA,NY,5223 Cedar St,52389,"limited,sale,trending",2024-04-15 02:17:40,cc5815b0-5ce1-4214-9253-60f483e2ae13
+Electronics,9b6e8ba8,False,PayPal,823.01,93afaa24,Laptop,8,,Chicago,USA,IL,2940 Oak St,66239,exclusive,2025-01-24 21:53:40,a34f560e-f7e5-4b86-8af0-0d5d03f6e4e1
+Electronics,1940d046,False,Cash,624.43,1babc600,Smartphone,4,4,Phoenix,USA,IL,3053 Pine St,64582,"trending,sale",2024-08-07 20:03:40,06a1d1e7-fea4-4337-a6d1-a6e447d9c74c
+Clothing,ca707717,False,Bank Transfer,324.45,b9d56392,Shoes,5,2,New York,USA,TX,7760 Main St,44033,limited,2025-02-22 21:24:40,c7cfd14e-efb8-4c44-92cc-ca349462a8a4
+Health,559d4df6,False,Gift Card,598.89,a33395f2,Bandages,3,2,New York,USA,IL,2764 Pine St,93864,new,2024-04-28 15:19:40,00f04170-8d1a-4b63-b826-3005a60b537b
+Toys,fcb05f96,True,Debit Card,57.33,3af2d8a3,Action Figure,10,,Houston,USA,NY,3566 Cedar St,47046,,2024-09-24 15:31:40,d6780a45-b103-485c-8afd-f5dcee22bd64
+Grocery,31cda19a,True,Bank Transfer,941.35,bf0e4544,Coffee,3,3,Chicago,USA,AZ,9134 Pine St,33073,,2024-06-11 01:54:40,a7d18728-f217-42ea-b603-0b9aaed21c8c
+Sports,0f11ba91,True,Bank Transfer,290.83,58ab3382,Yoga Mat,9,5,Phoenix,USA,CA,6829 Cedar St,99141,"exclusive,sale",2024-11-24 06:56:40,d69b8675-bf77-4d03-8634-dae43ac9351f
+Books,9498919e,False,Debit Card,822.85,2e7fd0af,Fiction Novel,4,,Phoenix,USA,IL,8836 Pine St,11147,"limited,new",2024-04-11 17:46:40,56540315-51a6-4d23-ae0f-70c52aab5a36
+Books,e55d77dd,True,PayPal,223.58,904ad0ac,Biography,1,2,Chicago,USA,AZ,8406 Pine St,59059,"exclusive,sale",2024-04-15 06:16:40,03e982bd-b1e9-4ce3-b458-5fa989881c3a
+Automotive,6a5ab7d1,True,PayPal,549.41,9ee6a606,Tire Gauge,5,4,Chicago,USA,IL,4120 Pine St,84611,"exclusive,limited,trending",2024-03-19 08:04:40,02ae67d5-c39a-4fa9-8013-51a62ce7456b
+Electronics,d600f053,False,Bank Transfer,350.28,08f88ca1,Camera,4,2,Chicago,USA,CA,9876 Main St,32993,exclusive,2024-06-19 15:17:40,6eca22ff-8b28-49a6-a5d6-17a114e53032
+Home & Kitchen,cb8a90a2,True,Cash,983.63,2cb75006,Plates,4,,Phoenix,USA,CA,3276 Pine St,91113,,2024-03-26 07:14:40,856d8850-5b9a-4c88-be3b-581cd2cff403
+Toys,748230e5,True,Bank Transfer,287.09,dc0ec75b,Board Game,1,2,Los Angeles,USA,TX,2957 Maple St,66371,exclusive,2025-01-17 12:20:40,2260963e-89a0-4ef2-8725-42ec690effe1
+Clothing,a6cff31d,False,Gift Card,471.61,73c46a18,Hat,7,,Phoenix,USA,CA,2863 Pine St,72442,new,2024-08-10 18:01:40,886ea67b-5f14-42a1-8be0-a655251fffee
+Grocery,d43e054c,True,Cash,745.24,382eb684,Coffee,3,,Los Angeles,USA,CA,6675 Pine St,84353,new,2024-08-16 03:26:40,9245087d-9378-4ef0-92de-8b48df3defd5
+Home & Kitchen,37de9707,True,Cash,758.11,362f6d74,Coffee Maker,3,3,Chicago,USA,AZ,5963 Maple St,90321,"new,limited",2024-12-28 23:00:40,c9a17b9b-b8e8-45b6-9b34-58444098ac9b
+Clothing,e2c315d6,False,Gift Card,722.27,9659b128,Dress,6,3,Los Angeles,USA,TX,3415 Maple St,66133,,2024-10-21 21:08:40,d5923994-db47-4734-9a56-85d98d3b0180
+Clothing,7b9c9003,True,Debit Card,772.0,c25507a0,Shoes,4,5,Chicago,USA,AZ,895 Main St,74736,"exclusive,new,sale",2024-06-13 11:10:40,012f2f14-6c20-470c-b884-2c4fba0bb90b
+Clothing,29c01886,False,Gift Card,894.39,b1079d50,Jacket,5,4,New York,USA,AZ,4313 Pine St,86654,"sale,trending,limited",2024-06-15 12:49:40,8c1a54ee-a3fa-4d50-bbf3-3567a08d817d
+Health,05bd7796,True,Bank Transfer,224.37,28edb08d,Pain Reliever,8,1,Chicago,USA,IL,2880 Oak St,59256,"limited,new",2024-09-08 07:38:40,f561baae-1fd8-4ce3-8199-4ad99d466889
+Toys,d839cd9b,False,Gift Card,872.36,657be809,Stuffed Animal,10,3,Houston,USA,CA,3331 Oak St,79403,,2024-05-29 16:25:40,0237b2de-d1a6-4fed-a297-1494e1c4227c
+Sports,0d4d2221,False,Gift Card,839.63,6c52afc0,Tennis Racket,5,4,Los Angeles,USA,TX,3279 Maple St,17660,"exclusive,new",2024-12-26 19:07:40,2939ca68-69bd-4ddd-a862-f65e1aa882b8
+Home & Kitchen,bb682587,True,PayPal,782.3,11afcbbb,Blender,7,,Houston,USA,AZ,3857 Main St,78133,"trending,exclusive",2024-06-17 13:17:40,f9fd0b53-33bf-443b-80db-4e77e30acb13
+Electronics,2349a50e,False,Debit Card,768.88,19d145bb,Laptop,9,3,Chicago,USA,CA,2736 Cedar St,97270,"exclusive,sale",2024-06-27 21:18:40,0d770f15-18b9-4ce2-9e35-d9ff01a1ba50
+Automotive,e67727f0,True,Gift Card,640.45,085fc23c,Tire Gauge,1,4,Houston,USA,IL,6585 Main St,26541,,2024-10-28 22:46:40,66b398dd-234b-400b-8f75-91109fe05023
+Toys,fd1179ba,False,PayPal,675.08,70983408,Action Figure,3,1,New York,USA,TX,6429 Pine St,84159,"sale,exclusive,trending",2024-09-13 15:02:40,9df57744-6c2d-47e1-b8cb-7f7040cbb0a2
+Grocery,4ecb120f,False,Gift Card,633.7,e22c6289,Pasta,1,4,Los Angeles,USA,CA,8416 Cedar St,13445,"sale,new,limited",2025-03-04 13:26:40,504be34e-a949-4989-bfa7-8918786d18f2
+Home & Kitchen,15c67e77,True,Gift Card,946.3,013636df,Microwave,9,2,New York,USA,TX,8383 Main St,78731,sale,2024-08-10 15:21:40,55a19095-48df-4c91-a220-255b99929ab1
+Sports,c39f6a1d,True,Gift Card,237.13,58bbadbb,Basketball,6,4,New York,USA,CA,2883 Main St,47565,,2024-11-10 10:28:40,731c9d25-1cdc-4aa4-b94e-ef3b719b1fe6
+Automotive,4a422b6e,False,Bank Transfer,584.34,be01c3ad,Air Freshener,9,4,Phoenix,USA,NY,5821 Main St,89539,"trending,exclusive,limited",2024-08-18 06:46:40,c1e43e46-7dbd-484e-8b61-3ab77f98c5e2
+Beauty,eb37bf1b,False,Cash,887.3,da9fab3d,Hair Dryer,2,2,Los Angeles,USA,CA,7558 Maple St,61714,"exclusive,limited",2024-09-09 13:05:40,34b1d220-e56b-4d4b-9ab1-d1de574e135c
+Toys,f22ece27,False,Credit Card,283.13,51f91f0a,Action Figure,4,,Chicago,USA,NY,8496 Pine St,87023,"trending,sale,limited",2025-02-09 07:10:40,655982ac-06ae-40c6-8be4-381bd5730ded
+Toys,fc523e23,True,PayPal,760.49,acc564f9,Doll,7,,Los Angeles,USA,NY,8077 Cedar St,40543,,2025-01-04 21:01:40,d407ec42-2f32-4175-bc24-528fc1a3f841
+Clothing,ebf071bb,True,Debit Card,85.33,bd9fa1c6,Jacket,7,2,Chicago,USA,TX,5833 Maple St,49972,trending,2024-12-24 14:06:40,3f54cc51-966a-4b86-a10b-ba296481ccde
+Electronics,60f54234,False,Credit Card,151.66,4b5375ac,Smart Watch,10,5,New York,USA,AZ,7476 Oak St,83960,"sale,limited",2024-05-31 03:32:40,c41794e2-3c00-4b8f-9511-0042d7bd5a37
+Health,7a9ac314,True,Bank Transfer,967.34,d76a066c,Bandages,8,,Chicago,USA,CA,8296 Main St,30669,"new,limited,trending",2024-12-16 06:06:40,80addc02-e43d-4bca-bc16-307ecdd0e559
+Sports,2bfcbb47,True,Cash,234.52,844cd759,Bicycle,3,1,Phoenix,USA,CA,2329 Pine St,99921,exclusive,2024-12-02 16:39:40,da34005b-c7bd-48be-a119-3854db21a13f
+Electronics,29b901ae,False,Cash,699.42,04262224,Headphones,9,4,Houston,USA,NY,2836 Maple St,25180,limited,2024-10-05 04:06:40,74bda969-e0be-4fe9-ab8e-26496feb1398
+Grocery,ff56e62a,False,Cash,752.54,7d75b836,Canned Goods,10,2,Chicago,USA,IL,700 Main St,23101,trending,2024-08-25 09:24:40,2d8a92f9-76cd-4a1f-8a40-4edc49404684
+Home & Kitchen,839ca063,False,PayPal,225.68,1e00c71d,Toaster,4,1,Chicago,USA,CA,1678 Oak St,21257,"exclusive,trending",2025-01-19 07:58:40,2d5324df-4267-4c20-af57-f975df0eac19
+Toys,43ac021f,False,Credit Card,862.33,4d04421a,Building Blocks,9,,Chicago,USA,CA,4478 Cedar St,80855,"exclusive,limited,new",2025-02-26 14:05:40,870ca100-735b-4a88-a8c1-43174bd4dfa0
+Toys,0ce98539,False,Bank Transfer,861.14,1d8ad242,Board Game,4,5,Phoenix,USA,AZ,6968 Maple St,11416,trending,2025-03-02 06:27:40,2273d04c-7681-42bc-8261-a341c3503ee9
+Grocery,611cc16f,False,Credit Card,357.96,4e2a2211,Pasta,2,1,Phoenix,USA,TX,1656 Maple St,23904,,2025-02-22 16:52:40,0d3a20a5-e0ae-4201-a1be-37cb07aaf9a3
+Books,4a526b9c,False,Bank Transfer,889.97,0f881404,History,10,2,New York,USA,IL,1957 Pine St,83965,,2024-12-20 11:22:40,205a6046-2780-4bc6-b0e5-e7f8a30cfaf2
+Health,464e1839,True,Debit Card,174.64,fa069069,First Aid Kit,5,5,Los Angeles,USA,IL,6603 Pine St,90779,"new,exclusive",2024-08-18 11:37:40,b73bd604-00f6-4bca-b817-b0087e048843
+Beauty,bad84615,True,Gift Card,880.98,f185e1cd,Shampoo,7,1,New York,USA,IL,9594 Oak St,38422,,2024-10-29 13:24:40,fccfd0d3-13d3-448a-a9b4-e61cf3d0ed56
+Books,071b873f,True,Debit Card,98.12,268254c5,History,1,3,Los Angeles,USA,CA,7274 Maple St,61014,"trending,exclusive",2024-12-31 22:40:40,26dd7ba2-ee07-4528-bade-3992f4f280b1
+Books,b831cffa,False,Cash,357.61,f63a5dc6,Fiction Novel,8,5,New York,USA,AZ,8641 Oak St,87288,,2025-01-07 11:22:40,7cf5799b-7cd0-4a7d-8111-49a452fa407b
+Clothing,2fac24b9,True,Gift Card,158.48,2c2dbdd0,Jeans,7,2,New York,USA,AZ,7620 Pine St,40090,,2024-06-23 10:20:40,98cba396-9471-42b2-ad80-a537eab4d0da
+Sports,08b45720,False,Credit Card,809.37,47d3e535,Bicycle,9,5,Los Angeles,USA,CA,4555 Pine St,86884,"exclusive,new,limited",2025-02-23 22:13:40,d6ea5974-b594-4fc9-87d2-c899e03ef94d
+Automotive,8da5c666,False,Credit Card,473.61,19e2d3be,Air Freshener,9,3,Los Angeles,USA,CA,8036 Oak St,17822,sale,2024-12-06 07:46:40,bb6bc4d7-b4fc-40d0-a2f0-eacfddb7cdec
+Automotive,f792cb6c,False,Cash,28.63,807f8c09,Floor Mats,1,,Chicago,USA,CA,8402 Maple St,16301,"new,trending,exclusive",2025-02-15 06:01:40,d248735c-7a47-442e-aa5a-186273d9195b
+Home & Kitchen,76b39ddc,False,Credit Card,666.96,7d63508f,Microwave,5,1,Los Angeles,USA,CA,554 Main St,87353,trending,2024-05-18 18:59:40,0463da7e-a711-42f0-9f89-022107bdc9c9
+Books,21930f44,True,Bank Transfer,298.22,d37a5daf,Science Fiction,7,,Phoenix,USA,AZ,6616 Pine St,26742,,2024-10-28 07:53:40,b5de0999-3d16-4eae-b76b-5dfa4269e81d
+Toys,3e534196,False,Cash,689.95,4a22cb1a,Stuffed Animal,5,3,Phoenix,USA,NY,7643 Cedar St,38620,"limited,exclusive",2025-03-19 01:06:40,0e00420b-2e45-4e66-8c77-34c408cb3a05
+Health,bf71f1f2,False,Gift Card,485.98,27cc9221,Pain Reliever,8,5,Phoenix,USA,IL,3055 Oak St,70489,sale,2024-07-28 21:50:40,9ea7d5d2-7ab5-49f6-b205-bdb75910935a
+Automotive,1328c40d,False,Credit Card,273.03,bee0f2bd,Jump Starter,7,,Phoenix,USA,TX,2304 Oak St,31677,"sale,exclusive",2024-09-16 09:39:40,49f10028-a84d-4e7c-9e96-4e76381f3a96
+Grocery,b7d4a959,True,Bank Transfer,902.51,e555744b,Cereal,1,4,Phoenix,USA,AZ,2389 Cedar St,67508,new,2024-12-29 08:58:40,a0eb6a93-336d-4655-be1e-72ef5d2b9376
+Health,a65287fb,True,Debit Card,587.72,2075fa21,Thermometer,4,1,Chicago,USA,IL,8951 Maple St,61713,exclusive,2024-07-28 01:57:40,3f836ffe-c01a-42d9-9185-6c126d387169
+Books,e43863e4,True,Credit Card,963.3,6504b992,Science Fiction,9,,New York,USA,CA,1801 Main St,51035,exclusive,2025-01-24 13:46:40,aa603961-e44f-4e68-b65f-49fae47cf4be
+Electronics,b2d39f65,True,Cash,15.23,f887fb32,Camera,8,4,Chicago,USA,CA,5497 Pine St,68212,"exclusive,trending",2024-06-06 11:37:40,75c77dc6-dc67-4c39-9d87-e81a3aef01d2
+Health,c1b4429c,False,Debit Card,386.67,ada734ff,Bandages,2,1,Chicago,USA,NY,7486 Pine St,44422,new,2025-03-05 19:58:40,5f17485a-2e3f-4e76-8b4a-91204dff755a
+Grocery,4c320197,False,Debit Card,687.6,315f8a2d,Pasta,10,2,Houston,USA,AZ,663 Oak St,98024,sale,2024-06-26 23:49:40,7bde33ef-b1e9-48ca-9b60-3344c1b0a447
+Health,6a4877a2,True,Bank Transfer,853.0,86c5f8dd,Thermometer,5,5,Houston,USA,TX,7872 Pine St,73163,"limited,new,exclusive",2024-07-02 09:05:40,cadbd13a-138f-4983-a416-d820bc4b6996
+Grocery,fa136d08,False,Cash,122.25,5366d21e,Snacks,10,5,Houston,USA,AZ,2559 Oak St,13770,trending,2024-06-11 02:55:40,e6a0bdeb-ca3a-4684-a2c6-08f7e1993a2a
+Books,89a668e6,True,Debit Card,868.33,198daee1,History,2,3,Chicago,USA,CA,801 Maple St,24053,"new,sale,exclusive",2024-06-03 21:01:40,3b54f626-4ddc-4ce3-bbff-1c1fd9a9199e
+Home & Kitchen,3d431c48,True,Bank Transfer,133.04,4c7ce1be,Knife Set,10,5,Houston,USA,CA,9195 Maple St,37394,"sale,new",2024-06-15 19:07:40,0bd85cad-77d5-4995-8dd5-356b036b9c80
+Grocery,2d45d118,True,Debit Card,92.59,0d808f06,Coffee,2,2,New York,USA,IL,900 Main St,39174,limited,2025-01-11 06:10:40,9f8568bf-4fcd-4350-85b3-28f97abcba4a
+Home & Kitchen,77ce3c3f,False,PayPal,281.28,f28d09cd,Coffee Maker,6,,New York,USA,AZ,9761 Maple St,81192,"new,limited",2024-03-24 20:17:40,01a5ce2c-cb51-46d9-b735-6d6f95248744
+Toys,7c9746f9,True,Gift Card,884.49,fee89aec,Stuffed Animal,4,1,New York,USA,TX,9281 Oak St,77451,trending,2024-04-12 12:57:40,fec93cb4-d553-4e58-a15a-3bfeb087b484
+Health,65f15f71,False,Gift Card,735.32,9ee00729,Vitamins,9,2,Chicago,USA,AZ,8541 Maple St,78764,,2024-07-30 04:57:40,8ed8e359-bee3-4482-bba5-3faf245b8ec4
+Health,c55541d5,True,Credit Card,50.75,a151727b,First Aid Kit,10,,Houston,USA,TX,189 Cedar St,61381,"new,exclusive,sale",2024-12-27 13:51:40,a2e6aeb8-8341-4497-a9dd-985b1953c816
+Beauty,16d9d296,False,Gift Card,63.28,626aee40,Face Cream,10,4,Chicago,USA,NY,7183 Pine St,34383,sale,2024-11-24 19:54:40,432c239c-5572-4456-9553-2f37d4093705
+Clothing,0c63f3d3,True,Debit Card,868.8,3efa8717,T-shirt,2,3,Los Angeles,USA,TX,9351 Cedar St,58214,"limited,sale",2024-12-14 16:01:40,72ce6da3-2c02-474e-b495-fbb7a19bdca5
+Toys,8fed0e77,False,Credit Card,955.18,f2f3eea5,Action Figure,9,2,Phoenix,USA,AZ,9105 Cedar St,52030,"new,sale",2025-03-13 12:58:40,5b575492-37a9-4f9e-9891-6ea861e8ac62
+Toys,6d7d5b9a,False,Cash,808.58,70cb3e47,Building Blocks,5,,Chicago,USA,TX,1511 Oak St,50877,,2024-05-29 07:46:40,8b445eb2-f0e8-4301-a52b-2ebc23bb72f4
+Electronics,7d919a8b,False,Debit Card,578.98,74e483ba,TV,7,,New York,USA,AZ,9276 Oak St,18871,"exclusive,sale",2024-10-04 17:42:40,4b864155-5e93-4eb8-a773-9379a43b235e
+Books,a8f00578,False,Bank Transfer,588.59,f296bcda,Biography,9,,Phoenix,USA,CA,4047 Cedar St,87465,"sale,new,exclusive",2024-04-19 14:09:40,0a21bbd9-c9ff-4753-b696-228002f91adc
+Toys,3b512d52,True,Gift Card,481.84,b431ac9d,Board Game,1,5,Phoenix,USA,TX,9518 Cedar St,65202,"limited,new,exclusive",2024-06-14 08:57:40,e4c6965d-2ea1-46d2-ba7d-feac1d5b5919
+Books,97560bdf,False,Credit Card,324.98,59ca6d04,Biography,7,,Chicago,USA,TX,3160 Main St,81135,"sale,exclusive,new",2024-08-02 03:11:40,1de8ee2d-ce64-4a30-a87e-464d89a47399
+Home & Kitchen,a905e628,True,Cash,258.5,97b94bdf,Coffee Maker,3,,New York,USA,NY,5692 Cedar St,90701,"trending,limited",2024-10-06 04:40:40,db4fdcaf-d7b4-4ef0-bcc5-3803720d799f
+Electronics,34616dba,False,Credit Card,99.34,2b1e987a,Laptop,3,,Phoenix,USA,AZ,2683 Pine St,18597,"new,sale",2024-08-23 03:32:40,6fcc82e8-b11d-41a7-849a-335aa1836cc8
+Beauty,e27141df,True,Cash,381.56,7a5612d1,Face Cream,5,4,New York,USA,CA,5954 Cedar St,26380,"sale,trending",2024-12-09 01:42:40,1e2c52b5-5e15-4bb2-be47-c1e2b10d614e
+Clothing,5ca9b3e9,True,Gift Card,650.82,89408e34,Dress,6,1,Phoenix,USA,AZ,7941 Maple St,76781,"trending,sale,new",2025-01-27 06:34:40,24190e4c-feab-463e-aab1-f1fa3f5cf275
+Home & Kitchen,25ed07be,False,Debit Card,51.06,2f4edfb9,Knife Set,2,,Phoenix,USA,NY,3411 Oak St,52210,,2024-10-30 12:33:40,c62c363b-87f8-4f00-8853-2e4bf9296388
+Electronics,f9348d38,False,PayPal,642.15,0b2352fa,Smart Watch,7,3,Phoenix,USA,NY,6770 Oak St,52582,"trending,limited,sale",2024-10-14 14:56:40,02f96c60-743d-4d4d-bf3e-f47b2fe504e4
+Home & Kitchen,6c214107,False,Debit Card,235.9,45f0fbab,Microwave,7,1,Phoenix,USA,NY,1741 Pine St,63531,exclusive,2025-02-28 14:42:40,a4963bca-a776-4d80-a31d-6ab062055147
+Books,3397c327,True,Cash,63.04,3153b062,Cookbook,10,2,Los Angeles,USA,IL,317 Oak St,29811,,2024-08-10 14:58:40,63e4f9e4-34be-4654-adb9-4a6edd0fa8e5
+Health,0f9f8a06,False,Bank Transfer,877.8,52d3ed3a,Vitamins,4,,Houston,USA,CA,3271 Pine St,80823,"limited,sale",2024-12-20 02:07:40,bbf6443c-5de6-4f78-989b-00f7d5de656c
+Sports,ea01dc5f,False,Bank Transfer,726.73,633fd5a2,Dumbbells,3,5,Chicago,USA,AZ,900 Pine St,84042,,2024-05-30 21:15:40,70ee39d9-14a7-4c56-be14-c01733341435
+Books,7283716c,True,PayPal,569.09,934665d4,Biography,8,,Houston,USA,CA,6221 Cedar St,58324,,2024-09-18 21:03:40,ae5c3257-2971-413a-817b-35415ca98a55
+Automotive,4a67733a,True,PayPal,240.85,b1a1fcca,Air Freshener,1,3,Los Angeles,USA,TX,9479 Oak St,43257,"sale,exclusive,new",2024-12-13 17:08:40,0546be9d-7ee8-4979-a7fe-ab6d6756f538
+Grocery,4f218be5,True,Debit Card,695.52,61a50ca5,Snacks,10,,Chicago,USA,TX,2891 Cedar St,46128,limited,2025-01-05 07:28:40,5994f951-e074-48d3-98e4-36bf5a046e6d
+Electronics,e8e132fe,True,Bank Transfer,72.53,fff958fc,Laptop,6,,Los Angeles,USA,IL,2057 Cedar St,78428,,2024-07-14 11:37:40,6b6a7410-cf72-4615-896a-45924d62f3c0
+Sports,3653eff5,False,Debit Card,146.09,ad256fe0,Basketball,6,3,Phoenix,USA,IL,2166 Maple St,91684,,2024-12-04 16:18:40,0b12bf5c-f69b-46aa-be65-790513e14a2d
+Clothing,c8747f63,False,Debit Card,575.66,82e9207e,Dress,1,,Chicago,USA,AZ,768 Oak St,81078,"sale,limited",2025-03-13 18:18:40,759b2225-5beb-4720-a0bf-b5db8e1833a1
+Automotive,ff2e2001,True,Credit Card,337.98,02177987,Car Wax,1,4,New York,USA,AZ,4742 Pine St,38986,"exclusive,limited",2025-01-22 22:07:40,b2ba911d-539f-4681-9373-996874bea5e5
+Automotive,d8ae1f40,True,Credit Card,769.52,32b36e76,Air Freshener,3,1,Phoenix,USA,IL,6463 Maple St,81144,,2024-07-08 06:57:40,aa9d201b-395f-4a14-8845-c76454652b0c
+Beauty,94ce028e,False,PayPal,559.93,bd3f7bab,Perfume,2,5,New York,USA,NY,365 Maple St,83295,,2024-04-06 16:45:40,53dd186d-175d-4d09-bfd5-aae3cc8edb78
+Electronics,7ae02295,True,Gift Card,916.11,32a448e7,Headphones,7,,New York,USA,NY,7456 Maple St,19629,"limited,new",2024-10-14 00:16:40,3a3d4e5e-ca5e-460f-8a70-1bc1e188a474
+Health,de73f9c7,True,Gift Card,866.21,94adf2e0,Pain Reliever,10,,New York,USA,TX,5821 Oak St,39942,"sale,trending",2024-10-04 23:21:40,c397e9c7-9cb5-472c-b98b-76f3c7f7cc22
+Health,54d7a682,True,Debit Card,213.49,c13b5df5,Vitamins,10,4,Houston,USA,TX,5976 Main St,83376,,2024-04-09 13:02:40,e29f0884-cb02-40e2-ab9f-8e5c31bbae2a
+Home & Kitchen,bf1752c0,False,Cash,825.01,33a82a3b,Microwave,2,,Chicago,USA,IL,9981 Oak St,77691,,2024-09-14 02:25:40,af2d5802-db2c-4a6d-ad4f-99b9bdd3f10d
+Health,f0957ba9,False,Debit Card,655.36,0d7bcb61,Vitamins,5,3,Chicago,USA,CA,9103 Main St,78140,,2024-08-21 17:10:40,7aba0485-1fa4-49f9-a334-929080bb1e32
+Beauty,9c35999d,True,Gift Card,236.21,9d638bfd,Perfume,1,,New York,USA,CA,1864 Pine St,84161,,2024-11-10 07:15:40,bfa5007a-7f73-466a-a634-a5909265ffb1
+Home & Kitchen,24fc949f,True,Bank Transfer,859.16,ce4e0b88,Coffee Maker,10,,New York,USA,IL,2512 Pine St,62883,"sale,exclusive",2024-07-24 04:46:40,1215ecfd-6fc3-4ab0-8f22-e605847843c7
+Electronics,9a9c8f92,True,PayPal,722.67,a6ee2cb1,Headphones,8,2,Chicago,USA,IL,3244 Maple St,62000,,2024-09-01 07:06:40,69a742f9-fa5e-4c6f-a18c-0e13566ed9da
+Books,3c7501e4,False,Credit Card,927.24,39e07241,History,1,,Phoenix,USA,CA,9234 Main St,37908,new,2024-12-15 00:47:40,f1395886-9c2f-4fac-b8b7-adfb145eec11
+Toys,0a456a8c,False,Cash,560.85,f6e6d05a,Doll,2,,New York,USA,NY,1699 Main St,26274,"new,limited",2024-10-18 23:29:40,842ff3bf-69c7-4b20-936f-63321836808c
+Toys,b3d12b98,False,Bank Transfer,54.86,7c4ed760,Puzzle,8,,Los Angeles,USA,IL,2575 Oak St,76124,,2024-09-30 21:28:40,33842da1-fd15-47bd-a80e-56539c7b1c6d
+Home & Kitchen,b9f65da2,True,PayPal,601.37,d74b0ffb,Knife Set,2,3,Phoenix,USA,NY,7602 Oak St,64186,"limited,exclusive,sale",2025-01-21 06:27:40,b04ac88b-6864-4daa-b957-aa07c22a3c3e
+Clothing,84c61992,False,Bank Transfer,538.58,e315e0aa,Socks,3,3,Los Angeles,USA,TX,645 Main St,72159,"limited,trending",2024-05-15 06:18:40,c4fee7ad-ead4-4e8a-af2e-497a28b86fc4
+Beauty,0dd6143a,True,Bank Transfer,652.39,7fd550ad,Face Cream,7,4,New York,USA,TX,5633 Cedar St,66595,"trending,new",2024-03-30 03:16:40,e45d10f4-f8e2-4c93-a150-97809bff7c1e
+Sports,765c1b8d,True,PayPal,80.44,df6f6739,Tennis Racket,4,4,Los Angeles,USA,NY,7398 Main St,30112,"limited,trending,sale",2024-10-01 16:47:40,6b37dfff-7bff-4ee5-bb21-de53f8955e39
+Automotive,8d5406b9,True,Credit Card,83.12,c966e4af,Floor Mats,8,2,Houston,USA,CA,3284 Oak St,54785,"new,sale",2025-02-10 16:15:40,03439fc0-9a95-44df-802b-2bb01a6b848f
+Automotive,7df9a801,True,Gift Card,313.4,175b0e96,Air Freshener,3,,New York,USA,AZ,7688 Pine St,52551,,2025-02-02 09:01:40,5820d44e-ebcf-4b90-acef-b99bd4f4aa67
+Clothing,5d7b57a7,False,Credit Card,106.22,b5f42ff6,Jacket,2,5,Houston,USA,TX,8664 Cedar St,17782,exclusive,2024-04-28 06:57:40,86b88806-418b-4d55-97ca-9ff5fdc43300
+Toys,b89076f7,True,Cash,691.88,1c5199b6,Stuffed Animal,9,1,Los Angeles,USA,CA,4965 Pine St,10764,,2024-07-20 09:52:40,827fba33-0275-47fd-89a3-cfdaff243051
+Beauty,f4ecac0a,True,PayPal,30.06,61108ed0,Nail Polish,3,1,Chicago,USA,NY,9807 Cedar St,65879,"sale,exclusive,limited",2024-07-31 05:17:40,29b8a1f3-1e35-41df-a7ca-b71e15615165
+Books,016ee38f,False,PayPal,726.89,a5d6ebf2,Fiction Novel,4,3,Houston,USA,AZ,4580 Oak St,26771,"limited,trending",2024-05-13 11:09:40,2e55a479-61b5-4154-8b0b-3dac29c6721d
+Clothing,da4dd207,True,Bank Transfer,272.9,613402d5,Socks,9,2,New York,USA,TX,5113 Oak St,83849,"sale,limited",2024-08-03 11:31:40,1207c85e-3429-47c3-86de-a2dee9c7f9d3
+Grocery,1d01595d,True,Bank Transfer,961.26,1ff0aa65,Pasta,3,5,Los Angeles,USA,CA,6239 Pine St,64941,,2025-03-15 05:57:40,8d5477bb-fa07-4ac0-93c3-8b5e4b6d0cff
+Books,46dcda62,True,PayPal,726.07,a0d4f7e6,Fiction Novel,2,4,Chicago,USA,AZ,443 Cedar St,83631,"exclusive,trending",2024-07-04 14:13:40,5c69a448-ddb4-47c7-a43a-d52727c515be
+Beauty,9493a842,True,Gift Card,842.59,b86d45f1,Perfume,2,4,Chicago,USA,AZ,2162 Pine St,96826,,2025-01-30 17:59:40,232bda1d-f77f-46aa-a1cb-24939b6cc1cd
+Books,30c101e9,True,Cash,470.26,3cdac412,Self-Help,4,3,Phoenix,USA,AZ,5379 Main St,15978,,2024-06-26 14:09:40,514d7df9-11c8-4d80-b375-d133246b8fef
+Health,e6452bab,True,Debit Card,159.37,391939e4,Bandages,7,2,Phoenix,USA,CA,4515 Cedar St,77991,,2024-05-16 07:19:40,9fb3bce4-2f61-4e3a-8179-7c119e8ba198
+Clothing,ddb7d278,False,Debit Card,797.89,b0e7037f,Hat,5,2,Houston,USA,TX,4693 Cedar St,39443,,2025-02-07 12:58:40,689cb589-ddba-4cd8-8161-59f41393e3cf
+Beauty,8d2845ab,True,Credit Card,872.89,9da768f0,Lipstick,9,,Houston,USA,TX,3659 Pine St,35679,,2025-02-15 06:31:40,d8d0336a-17aa-4e42-83fb-08dae6bbffcd
+Electronics,ee132b72,False,Gift Card,651.52,f9bd6c71,Camera,6,5,New York,USA,AZ,8700 Main St,55488,"trending,new",2024-08-10 16:14:40,aba48386-a915-4a99-b8e5-30c09cd53c11
+Sports,88c523f2,False,Cash,348.34,420ceeb5,Tennis Racket,7,1,New York,USA,CA,9137 Maple St,27984,"new,exclusive",2024-05-25 14:35:40,681b5ec7-7f17-4502-b393-b9f6010a460d
+Beauty,b34e79ea,False,PayPal,324.42,c6417a7b,Lipstick,9,,Chicago,USA,IL,4988 Maple St,73631,"exclusive,sale",2024-10-17 22:00:40,548cf959-6dc9-484c-88c4-766c440288eb
+Books,aa4b7104,False,Bank Transfer,742.06,399d2239,Self-Help,4,2,Los Angeles,USA,CA,8566 Oak St,65735,"limited,exclusive,sale",2025-01-27 13:51:40,8a7fa4d4-da37-4b9a-93a2-c22693ef4c56
+Books,f16b877e,True,Credit Card,260.91,b2f0cfe7,History,3,5,Los Angeles,USA,NY,2007 Main St,91002,,2024-07-07 18:01:40,db41d3e0-667f-4c67-9677-fce4587170d5
+Sports,51ab7224,True,Gift Card,804.49,b5afe594,Tennis Racket,2,3,Los Angeles,USA,AZ,6240 Main St,61323,"exclusive,limited,new",2024-06-17 07:41:40,5fccfb53-2273-4bb5-aa69-5e068e12c80f
+Books,da20ee7c,False,Gift Card,906.62,ef5abed5,Fiction Novel,4,,Houston,USA,TX,9924 Oak St,90216,trending,2024-05-02 04:53:40,a54937a2-a943-43c8-b439-bdaba5e94374
+Home & Kitchen,b01a98cc,False,Bank Transfer,58.39,086526ab,Blender,6,,Houston,USA,AZ,2583 Pine St,59174,limited,2024-12-23 09:54:40,336d5976-66e1-4723-9389-9cfc855c0461
+Toys,474307bc,True,Bank Transfer,583.31,3f54ae0d,Building Blocks,5,,New York,USA,IL,9577 Oak St,55050,limited,2024-12-15 10:48:40,85474261-457d-4ae3-8d36-3c872fcc1524
+Sports,6317710d,False,Credit Card,599.64,df11223b,Yoga Mat,1,,New York,USA,IL,8517 Cedar St,75405,"exclusive,sale",2025-02-23 04:07:40,8831e7fe-6fcc-41c8-b7aa-24107723b82b
+Electronics,39e2634a,False,Gift Card,837.43,e51ab314,Laptop,2,4,Houston,USA,TX,4735 Main St,68676,"limited,sale,trending",2024-04-07 16:44:40,6a36fefb-9bf8-4d88-9ef7-f8381bda9fa2
+Sports,54b1c0a5,False,Credit Card,146.0,7c2c4d57,Bicycle,7,5,Houston,USA,IL,8504 Maple St,43559,"limited,exclusive,new",2025-01-05 12:38:40,fcd514df-105b-4520-98a6-1e8f3689dcfe
+Home & Kitchen,1510dd94,False,PayPal,89.65,1f012c54,Coffee Maker,2,,Los Angeles,USA,AZ,9748 Pine St,22132,"trending,new",2024-09-09 00:37:40,69519748-1940-4007-b229-ef85230e7630
+Toys,8736a071,True,PayPal,708.04,cee7d16e,Puzzle,8,,Chicago,USA,TX,1141 Pine St,82675,,2024-07-18 02:05:40,e857e3a3-a883-4415-aafb-0dde860bc9a0
+Automotive,c56fc221,False,Credit Card,767.46,06360693,Tire Gauge,1,2,Houston,USA,IL,9012 Cedar St,21119,,2024-11-01 06:43:40,58f6ec2c-a2c5-4b01-abff-0ddc83373b52
+Toys,aecfa633,True,Debit Card,269.25,931e0227,Building Blocks,9,5,New York,USA,AZ,6839 Pine St,17893,new,2024-10-26 12:02:40,a2d5dacb-1e4c-4a6f-9ab5-a2f8be9f0dd3
+Clothing,a1930f90,True,Bank Transfer,204.19,bd8bb39a,Dress,1,,New York,USA,CA,8230 Maple St,30553,"trending,exclusive",2024-07-15 06:58:40,5ba36d92-0d4f-4f28-83e1-ae092c768f3d
+Automotive,ed7d7dfb,True,PayPal,345.68,39a4760f,Floor Mats,1,4,Phoenix,USA,IL,228 Main St,96537,"trending,sale",2024-09-20 07:28:40,5038d219-5be1-49a1-8dbb-01bbc43d3c02
+Sports,aa744a56,False,PayPal,374.4,6f3f6cb3,Basketball,8,3,Phoenix,USA,AZ,1566 Cedar St,29578,,2024-12-03 12:25:40,79b79610-92cf-4390-a24c-cb170c8b0835
+Home & Kitchen,6ef44b90,False,Debit Card,43.79,3ded3977,Toaster,9,,Houston,USA,NY,9510 Cedar St,92219,"exclusive,trending",2025-03-02 16:12:40,dae81c9d-70cd-4b07-8233-4fa568d3567a
+Clothing,ccb64dba,False,Credit Card,449.77,4d198d7f,Jacket,4,,New York,USA,AZ,8928 Oak St,48050,,2024-11-28 00:04:40,35a3f99d-bade-4c80-b8a6-7a7979aa3064
+Health,af64071a,True,Credit Card,280.32,5f770774,Pain Reliever,9,2,Phoenix,USA,IL,4925 Oak St,94177,"sale,limited",2024-10-12 00:12:40,9f80d5ab-cd2f-434a-8cb7-4cdc9bdf642e
+Toys,3cec8c51,True,Bank Transfer,697.24,1175e316,Stuffed Animal,3,,Phoenix,USA,NY,8161 Pine St,32869,"exclusive,trending,limited",2024-11-23 08:11:40,9cc1823c-e66f-4f74-beea-fd6124b64b9b
+Clothing,0e3ce8b9,False,PayPal,838.98,255a6f6f,Jacket,9,,New York,USA,CA,6161 Pine St,31545,,2024-05-31 03:35:40,544b1270-10fd-44a9-b34e-5f5d307a9153
+Sports,2254c1c3,False,Bank Transfer,935.31,1905d582,Running Shoes,10,3,Los Angeles,USA,TX,846 Main St,29466,,2024-08-27 08:39:40,07c29c26-2fbc-4d21-95a1-0b053a4d85b9
+Home & Kitchen,304eac4a,False,Credit Card,289.76,21a16c2d,Plates,3,1,Los Angeles,USA,AZ,2759 Main St,14957,"trending,sale",2024-07-01 07:56:40,ab56b2c5-aed4-41ae-beee-834a0b78587b
+Home & Kitchen,9a92cc29,False,Bank Transfer,924.82,6d8bfc65,Plates,3,,Phoenix,USA,CA,5426 Maple St,42481,,2024-11-17 09:46:40,119d177f-22a7-4007-b8cf-8b988d45429c
+Home & Kitchen,f5a4d444,True,Debit Card,530.32,5d26a18c,Knife Set,9,,New York,USA,CA,4392 Oak St,81681,"trending,new,limited",2024-04-14 01:11:40,9f4edd57-61a0-4135-a47b-92304eec4ffe
+Sports,f2049e6d,False,Debit Card,426.32,f732bc6a,Running Shoes,5,5,Chicago,USA,TX,7440 Pine St,27841,,2024-07-27 02:07:40,c13d643c-0ad4-4554-9ea4-b4583eb0b516
+Electronics,1ff19d80,False,Credit Card,167.48,d21802e4,Camera,7,4,New York,USA,CA,6859 Maple St,87035,new,2024-06-01 07:10:40,122438c9-4318-4a52-885c-af2b008302b8
+Toys,3fb6900b,False,Debit Card,56.41,19edd9da,Puzzle,7,,Phoenix,USA,IL,3424 Oak St,32858,trending,2024-07-08 11:38:40,fdabc1a9-bf58-4cff-84ea-1b2fd600373d
+Automotive,5c67a159,True,Gift Card,437.09,afcd14a2,Car Wax,9,3,Houston,USA,TX,6234 Maple St,26425,limited,2025-01-24 15:06:40,836a018a-2868-43b7-9065-c8bc05d77eb5
+Home & Kitchen,daade134,True,Debit Card,254.98,98672049,Plates,7,5,Houston,USA,NY,3068 Pine St,87711,"exclusive,trending",2024-12-07 07:51:40,3f23fbdb-e8e0-46a2-8a40-6d76566702f6
+Toys,8d13a10e,True,Credit Card,878.29,4d0fe18a,Board Game,8,,Phoenix,USA,CA,7555 Main St,74957,sale,2025-01-11 17:47:40,4abebc5a-14d3-4f75-8cf1-59d986bc4d9e
+Books,af2a059a,True,Gift Card,452.18,87a2785b,History,10,5,Phoenix,USA,TX,5632 Main St,37640,new,2024-08-23 06:28:40,4079be27-6b12-4f30-9fa7-32836e713c4f
+Automotive,59872bda,True,Cash,210.58,cb5eb7df,Tire Gauge,5,,Los Angeles,USA,TX,4359 Cedar St,64238,limited,2024-08-11 11:39:40,e201307a-f991-4a3e-b135-e08b4d1b2bce
+Home & Kitchen,79e5bb5c,True,Gift Card,165.5,6a9a2007,Toaster,8,1,Los Angeles,USA,IL,3738 Maple St,33099,,2024-07-06 23:50:40,de9052be-e740-4b03-8910-b1f408c29749
+Sports,bcf0e4d0,True,PayPal,719.88,3ed3fac6,Yoga Mat,7,,Chicago,USA,NY,6267 Main St,56795,exclusive,2024-11-03 02:35:40,c3aebc19-3a3b-44ab-bd28-77353d3e76c3
+Toys,d6c6b40e,False,Gift Card,470.81,241e6fb0,Action Figure,1,,Phoenix,USA,NY,5315 Oak St,41817,,2025-01-29 06:38:40,aa551047-4631-491f-b0a1-bbcc285f6b46
+Home & Kitchen,2e2cff8c,False,Bank Transfer,390.71,09499f3b,Toaster,1,,Houston,USA,TX,5978 Oak St,35167,"limited,sale,new",2025-03-08 05:14:40,76b4ac14-9ce7-417b-b673-29ac6e21177c
+Clothing,5e5b0f69,True,Bank Transfer,679.5,774a89c6,Socks,2,3,Chicago,USA,NY,7837 Cedar St,79849,"new,trending,sale",2024-10-04 02:38:40,eb8cc8d1-5e60-49cb-ab63-e012bff7d6b4
+Home & Kitchen,76be55cc,False,Gift Card,603.77,47c0b0bb,Blender,5,4,Phoenix,USA,AZ,1669 Main St,26057,"new,sale",2025-01-04 06:14:40,2b0a70ed-0d92-4514-ad2d-7b6e409591d2
+Clothing,bb9cb938,True,Gift Card,910.44,a50eaafc,Jacket,2,1,Chicago,USA,TX,8829 Cedar St,99268,"new,trending,sale",2025-03-10 03:55:40,0958a01e-183f-40ee-8408-612011d372b8
+Toys,d2d438e1,True,Debit Card,889.49,ab3e12dc,Building Blocks,10,3,New York,USA,AZ,4780 Maple St,48896,,2025-02-17 06:39:40,4505ff5e-6875-46ea-8aad-a545565ead7e
+Automotive,fc26216a,False,Gift Card,610.48,81958c97,Jump Starter,1,1,Phoenix,USA,TX,8462 Maple St,33901,"exclusive,limited",2024-07-25 10:17:40,1091b394-db5b-44cc-bbd7-28c9ee87f038
+Sports,81847835,False,Cash,582.97,0f261c4d,Tennis Racket,10,1,Los Angeles,USA,NY,3586 Pine St,69826,"new,limited",2024-06-16 00:09:40,62fd0262-5bea-45c4-8604-4dab6c3f086a
+Grocery,841fe101,True,Bank Transfer,924.6,8534d592,Snacks,1,2,Houston,USA,IL,3616 Main St,53457,"trending,exclusive",2024-11-30 04:34:40,65ebf1ca-414a-4c2f-9e05-361ee945e263
+Books,24a61a6d,True,Debit Card,856.4,6f05c611,History,1,,Chicago,USA,CA,1411 Maple St,15957,"sale,exclusive",2024-10-14 21:22:40,d91f5f91-af7b-4af4-98b7-8d4e2aafea07
+Automotive,ea6148ec,True,PayPal,838.42,ee76200f,Jump Starter,5,2,New York,USA,AZ,7574 Oak St,91958,,2024-05-07 04:43:40,d3a490f9-dd2e-4d1b-bc43-9dc234a3123f
+Toys,11b3946e,False,Credit Card,863.4,a1b7a4e0,Puzzle,8,,Houston,USA,IL,3283 Cedar St,47339,,2024-04-08 07:13:40,9b4e854e-90e3-4061-bb58-40375417bbb1
+Beauty,a977f3c0,True,PayPal,832.02,a614ca4b,Hair Dryer,6,5,Phoenix,USA,TX,4735 Maple St,39179,"new,sale",2025-03-05 19:25:40,5b8fd947-7aab-4bd9-b31b-3c53006a0ffc
+Home & Kitchen,e50dfbc3,False,Bank Transfer,951.55,a5a0d17f,Toaster,6,4,Los Angeles,USA,NY,6931 Oak St,32997,"sale,exclusive,limited",2024-05-15 21:34:40,6c306761-029e-42f1-b0e3-961d648cc172
+Sports,23f6ea05,False,Gift Card,150.78,97942921,Yoga Mat,7,2,Houston,USA,IL,3028 Main St,59290,"sale,trending",2024-06-05 06:31:40,4a43cdf3-9b10-42c8-90e6-e3d173cecceb
+Toys,a3e7289a,True,Bank Transfer,331.22,2a5dcce4,Action Figure,2,3,Phoenix,USA,IL,7906 Maple St,84645,"sale,limited,exclusive",2024-07-10 17:05:40,d8b39a9d-62d1-4714-8f4d-0f5542056d10
+Clothing,3884ae3e,True,Debit Card,660.75,4ae81046,Dress,1,2,New York,USA,IL,1238 Maple St,86310,,2024-07-27 20:17:40,18ed27b1-06e8-4253-ad9c-1c559c001881
+Clothing,4a33b93c,False,Cash,582.85,18c86868,Dress,7,2,Los Angeles,USA,CA,803 Oak St,90909,,2024-07-13 19:58:40,0dcfd379-554b-429b-b446-32d28062282a
+Automotive,e33b5da4,False,Credit Card,904.94,aefb4b9f,Jump Starter,1,1,Houston,USA,AZ,3439 Cedar St,73697,,2024-06-01 07:26:40,c7feae7c-40ff-406c-b4d5-c6ae7b9641d6
+Toys,72649d85,False,Credit Card,237.45,ca3e2d83,Puzzle,5,3,Los Angeles,USA,CA,7808 Cedar St,60321,,2024-11-14 06:50:40,0f6bbe4f-13e9-4b19-aa5e-7368f0ce1acd
+Health,6e0360d4,True,Credit Card,96.61,e4d0d0f8,Vitamins,6,,Chicago,USA,CA,5219 Main St,95608,,2024-06-13 06:25:40,aadd9f36-84fc-4649-a41c-24d07de66e83
+Clothing,f760705e,True,Cash,21.5,3ac8b570,Dress,5,2,Los Angeles,USA,TX,3642 Pine St,20111,new,2024-08-05 03:46:40,04727125-b425-4f3a-b08f-0cc313d48058
+Grocery,93b7189d,True,Bank Transfer,85.82,0392bd0f,Coffee,7,4,New York,USA,TX,1992 Pine St,73659,,2024-04-03 18:50:40,46d3be4e-d1c9-44f0-8d89-0149c3233653
+Health,e10fa3c5,False,Gift Card,823.7,e5b3121b,Thermometer,3,,Los Angeles,USA,NY,2610 Oak St,94139,,2024-08-17 13:13:40,db2000ce-d11d-4c88-a5bf-72b8adc0f62d
+Beauty,34995d32,True,Credit Card,131.19,7909ba0f,Shampoo,7,5,Los Angeles,USA,NY,7425 Cedar St,17949,"exclusive,new",2024-10-23 19:14:40,9c0161be-c430-4be9-a4a9-914fae951278
+Home & Kitchen,74f039cc,False,Gift Card,534.55,60bd0655,Blender,2,2,Houston,USA,AZ,6811 Oak St,10695,"sale,new,trending",2024-10-03 17:55:40,3051af59-96f1-4b7f-ba5d-fc710e6095b9
+Toys,53fb9673,True,PayPal,196.14,9eedcc9c,Action Figure,1,4,New York,USA,TX,7587 Cedar St,11026,,2024-10-17 07:49:40,230491e6-7883-47f0-89fb-9a18efdc7a90
+Automotive,86d6e332,False,Debit Card,38.0,1c14404a,Car Wax,9,2,Phoenix,USA,AZ,7232 Pine St,54019,"limited,new,trending",2024-08-25 19:03:40,3c0b5edf-bb56-40f6-867b-bc688a841389
+Sports,7f66ad1f,False,Cash,153.53,d6d0f153,Dumbbells,1,2,Houston,USA,TX,4667 Maple St,84013,"sale,trending",2024-11-06 07:53:40,eda1ef01-ce4f-47f3-97af-a12c97fd37fc
+Toys,7b18269f,False,Cash,401.31,57a1ea02,Stuffed Animal,8,,Los Angeles,USA,IL,8201 Oak St,30194,"sale,new,trending",2025-01-22 11:49:40,2f6638f8-5c9a-49c4-9d9b-021518c6b86f
+Sports,d73f3bbe,False,Gift Card,420.3,1bd71c26,Bicycle,1,,Phoenix,USA,NY,6731 Pine St,95233,,2024-03-23 19:51:40,c8ecaa85-f400-4ff8-9387-a65beffde8f4
+Automotive,1cd4bc7d,True,PayPal,967.52,0a6e4ce0,Air Freshener,8,1,Los Angeles,USA,TX,6893 Maple St,71139,"exclusive,sale",2024-04-15 11:53:40,46c54324-9707-4e49-b979-8cfcb3f037fd
+Electronics,8e4d3def,True,Bank Transfer,571.35,ff9d34f8,Camera,8,5,New York,USA,IL,4361 Maple St,26110,sale,2024-11-09 23:26:40,28fd073c-9305-450a-a652-50d6efd0a1ab
+Books,6a4f5c98,True,Debit Card,657.27,4cb6a5f5,Biography,8,,Phoenix,USA,NY,2912 Oak St,68897,trending,2024-10-24 06:52:40,ffbb0aa9-18bf-49f9-ae56-f020102c7525
+Clothing,85a52a9a,False,Cash,199.55,558a70c7,Socks,8,3,Houston,USA,TX,4006 Main St,29751,,2024-05-01 09:17:40,19acdbe9-4821-49ef-b987-495d813c61db
+Automotive,e93b2cc7,True,Credit Card,457.63,3a860c90,Car Wax,2,5,New York,USA,AZ,1410 Cedar St,23515,,2024-09-07 15:37:40,4cff6f02-e12b-4da8-acd4-2e08982713d8
+Grocery,a68394f2,True,Bank Transfer,958.6,96ba6e8f,Snacks,2,3,Chicago,USA,AZ,9600 Oak St,98168,"trending,limited,sale",2024-10-17 03:21:40,06548aae-c8ba-41be-922f-f2bebadfdedf
+Health,4b382185,True,Gift Card,903.81,fb1e4d96,Bandages,9,2,Chicago,USA,TX,7960 Maple St,98820,,2024-12-14 06:47:40,6b56a1af-4169-45fd-8a3b-a52347687fab
+Automotive,ae938ef8,False,Bank Transfer,263.6,d8000807,Car Wax,10,1,New York,USA,CA,2021 Cedar St,64453,new,2024-12-30 07:34:40,e729af03-10d5-485a-87fa-d2bf121f5e75
+Clothing,c80f7147,False,Bank Transfer,631.59,b3383252,Hat,6,2,Los Angeles,USA,CA,2067 Main St,69628,sale,2024-06-05 19:28:40,00243c50-fc9d-49e8-9845-dbd6004d3030
+Sports,2b370634,False,Bank Transfer,201.59,ec7b7602,Yoga Mat,10,,Los Angeles,USA,TX,6847 Main St,62896,"trending,new",2025-01-03 07:36:40,14c6e106-26e7-41cf-beb2-4a021055821e
+Clothing,a26b3bb4,False,Gift Card,166.75,f7f75a90,Dress,5,,Houston,USA,NY,7803 Cedar St,16328,"trending,exclusive,sale",2024-10-22 01:28:40,9e1948a1-ab91-4eef-aecd-805b8a95255b
+Beauty,474262ba,False,Credit Card,361.41,fbc0f3dd,Lipstick,1,5,Phoenix,USA,CA,4622 Oak St,92636,limited,2025-01-19 08:55:40,dbe3ab15-d3bc-49ef-85f9-7c067d232c35
+Sports,4a933f4c,True,Credit Card,180.31,6dbd5955,Yoga Mat,6,5,Los Angeles,USA,TX,6470 Maple St,91818,,2024-12-19 10:07:40,6c82f72d-725b-4e77-8e02-e9cce908f21e
+Grocery,12e2099e,False,Bank Transfer,542.09,8dc2fab6,Cereal,3,,Los Angeles,USA,TX,9725 Main St,59368,,2024-12-07 04:56:40,b68b2305-28d8-4a2b-841e-a7d5ac4e8da4
+Health,59e8c4d9,True,Gift Card,192.06,c37b43ca,Bandages,6,3,New York,USA,AZ,7754 Oak St,98614,exclusive,2024-06-19 13:09:40,38422f84-cfc4-4611-9f9e-300c8fea5e1a
+Grocery,95172173,False,Bank Transfer,976.45,67ca509e,Canned Goods,5,,Phoenix,USA,IL,6179 Pine St,57763,"exclusive,sale,trending",2024-03-23 08:53:40,9caed9be-8078-41fc-9c7d-e4278e60791f
+Sports,c00b5210,True,Debit Card,283.35,3166c357,Running Shoes,10,,Los Angeles,USA,NY,421 Cedar St,47957,,2025-01-31 20:38:40,3320799c-1cb3-42fc-aa3d-5df5325ee8a1
+Automotive,9bad6d75,False,Cash,608.93,98740555,Tire Gauge,2,1,Houston,USA,TX,6439 Maple St,79012,sale,2025-03-02 23:28:40,0db85296-6ac4-4272-ab59-bd1500913c01
+Grocery,f757ebf6,True,Cash,737.26,a4bac784,Canned Goods,1,1,Los Angeles,USA,TX,3809 Maple St,71625,"sale,limited",2024-12-07 01:47:40,023c986f-52c4-46c6-b4c1-bb6b06d5be14
+Clothing,f3d78b7a,True,Credit Card,296.68,f2813ee9,Shoes,2,,Chicago,USA,TX,8354 Pine St,51911,exclusive,2024-05-25 11:47:40,6f6ee73b-0fa5-4d8d-9435-dc2e3a247dd0
+Health,7f152297,True,Cash,156.89,bfc22b09,Vitamins,9,1,Houston,USA,AZ,1355 Oak St,89264,"sale,limited,exclusive",2024-11-23 22:52:40,8fe26112-fc1b-40df-9321-6395fb0d5a57
+Home & Kitchen,08ff6764,True,Cash,155.72,00a12be9,Blender,7,,New York,USA,CA,2550 Pine St,68556,"limited,sale,new",2024-04-23 06:08:40,75505222-954b-4d81-b6c0-6ebd73ec8c63
+Health,a05b73d3,False,Debit Card,833.7,f0b1e043,Bandages,10,5,Phoenix,USA,TX,3136 Oak St,26738,"new,trending",2024-05-28 05:50:40,c126b627-44c2-4279-9828-1038a1c22230
+Grocery,18a17550,False,Credit Card,619.28,41001952,Snacks,4,1,Los Angeles,USA,IL,6161 Pine St,63709,,2024-05-18 16:52:40,070dbf7f-e546-4f47-90f5-1a8740fe9ca9
+Sports,19bfca3e,True,Credit Card,409.79,9914ef23,Yoga Mat,7,2,New York,USA,CA,6122 Maple St,16412,"exclusive,new,sale",2024-05-19 05:51:40,3da6a7d9-d887-4afc-8e33-1c479439664d
+Health,7146d17d,True,Cash,536.21,07417cce,First Aid Kit,9,,Phoenix,USA,CA,9495 Cedar St,89401,,2024-04-03 17:52:40,558e869d-9d3a-4985-bb5e-524343b3ac6e
+Grocery,d70eb465,True,Credit Card,614.93,8417336a,Cereal,6,2,New York,USA,CA,1519 Oak St,60148,,2025-03-13 14:25:40,e3102434-8859-4d0c-8f7a-83d49976dd92
+Grocery,cda266b9,False,Debit Card,79.15,48f82623,Pasta,4,,New York,USA,CA,511 Cedar St,76479,"sale,limited",2024-10-07 23:39:40,b7fe833c-bdbf-4ee7-aa55-a27e06b4b1ed
+Automotive,eddb3007,True,Cash,643.9,8536400c,Car Wax,5,1,Houston,USA,NY,9420 Pine St,53318,"trending,limited,exclusive",2024-05-01 07:10:40,ef04a923-5a38-4f99-acd2-4d092bc14c3a
+Grocery,a204bdbf,True,Bank Transfer,846.6,7e4dd9d8,Canned Goods,10,2,Los Angeles,USA,AZ,8505 Main St,95952,limited,2024-04-21 23:58:40,608828f7-73b4-4a92-a56d-596507c4ab62
+Sports,778220b6,True,Credit Card,581.21,0d833a26,Bicycle,3,,New York,USA,IL,5565 Main St,82818,"limited,new",2024-08-16 00:36:40,99637502-3fbf-4153-ad4e-1a23f7fa9c79
+Clothing,bb4b90b0,True,Gift Card,564.34,0e12170e,Dress,1,,Chicago,USA,IL,5067 Main St,96944,"limited,exclusive",2024-11-14 12:32:40,23002e14-b4aa-4175-a142-547117a26388
+Home & Kitchen,d7fcf35f,False,Credit Card,659.14,64f6b301,Plates,9,,Phoenix,USA,TX,1495 Pine St,54834,"limited,trending,sale",2024-09-13 04:13:40,33a6fc86-517a-43e1-aee6-f50cd4c1c5c8
+Health,73aa0273,True,Bank Transfer,568.16,80597295,Thermometer,2,,Chicago,USA,NY,6674 Pine St,62319,exclusive,2024-07-15 14:51:40,fae81869-45e9-4812-9d82-540c45331897
+Health,10173730,False,Debit Card,137.52,4572b9a8,Bandages,6,2,New York,USA,AZ,7505 Main St,82746,exclusive,2024-12-22 15:28:40,0f9d7a4a-f95a-47ea-975b-426b1a0060c0
+Automotive,088900f4,True,Credit Card,835.18,ca6c790c,Air Freshener,5,,Los Angeles,USA,TX,505 Pine St,59798,"new,exclusive,limited",2024-07-24 23:27:40,a99b79bb-90f7-4877-afb9-f2041fd4780b
+Clothing,979fd572,True,Debit Card,474.98,28ef35cb,Hat,6,5,New York,USA,TX,427 Oak St,15128,"new,sale",2024-05-09 22:34:40,efa5298d-138d-4fad-81d4-9d38576172f2
+Automotive,0018f0fa,False,PayPal,71.83,1139e5f5,Jump Starter,8,,Los Angeles,USA,TX,1247 Maple St,87562,"exclusive,new",2024-03-18 19:45:40,c2c7d428-1d3b-4040-b4e3-1f8fe138e9e5
+Clothing,70201c32,True,Cash,551.02,be629ed4,Jeans,5,4,Chicago,USA,IL,529 Pine St,58990,exclusive,2024-11-14 07:51:40,27fa9eb1-fcc7-40a5-b981-0abeec9447b8
+Health,06701865,False,Credit Card,664.98,7c97859d,First Aid Kit,8,3,Chicago,USA,AZ,2864 Maple St,85708,,2024-06-08 22:17:40,553cbade-fdee-45cb-9a4c-a0b73628856a
+Clothing,6891455c,True,Debit Card,565.92,e4f6b204,Dress,6,,Chicago,USA,AZ,8678 Oak St,38070,,2025-02-21 22:01:40,7ea6001f-c095-428b-964e-40d51907a491
+Clothing,2c82f45f,True,Cash,77.21,fd250cd5,Shoes,7,3,Chicago,USA,AZ,2121 Main St,13853,"trending,limited,new",2025-03-11 05:54:40,7cd799cd-bd01-4eb3-a63b-f02d01018bc3
+Health,3fac2dbc,False,Bank Transfer,127.49,4a07d799,Vitamins,1,,Chicago,USA,AZ,7676 Main St,93875,"limited,sale,exclusive",2024-12-04 10:41:40,99621e2a-cb0d-4831-9ecf-d03743833570
+Clothing,30746197,True,Credit Card,256.21,836a87d9,Hat,7,3,Phoenix,USA,AZ,2945 Main St,55511,sale,2024-04-14 20:25:40,66c299a2-abf3-48eb-b997-522437b50ddb
+Grocery,866bf7b2,False,Bank Transfer,297.64,862256eb,Cereal,7,3,Phoenix,USA,TX,2342 Oak St,10564,,2024-06-12 17:39:40,ef9a03fc-b00c-41cd-8f32-f60cea5ce84f
+Electronics,643cec3c,True,Debit Card,131.06,22ad5f19,Headphones,4,5,New York,USA,IL,5536 Main St,96753,new,2024-05-26 23:48:40,eb7928e3-6107-45a4-a56c-479f0d9b25cd
+Beauty,8e53f31c,False,PayPal,34.75,0bbfce44,Shampoo,8,5,New York,USA,NY,6225 Cedar St,94508,"sale,trending,new",2024-04-24 09:01:40,bcdf3d8b-c9c9-4247-8ab3-9310f704b267
+Beauty,0434028c,True,PayPal,859.2,3ad92a38,Face Cream,6,4,Los Angeles,USA,NY,2771 Oak St,46085,,2025-01-21 22:08:40,082ea70a-d6ee-4b17-92d9-240d70a79728
+Books,38934f2e,True,Gift Card,353.59,13db6bc7,Science Fiction,6,3,Los Angeles,USA,TX,1503 Maple St,80914,"limited,trending,new",2024-05-22 22:28:40,839d3014-2a15-450c-a4c6-da0dda212db8
+Clothing,c0f28d17,True,Gift Card,469.52,81d7f7c8,Dress,3,,New York,USA,CA,3499 Main St,65830,,2025-01-12 06:22:40,6dd50cb6-c599-4bb2-8114-ab146a2cbd6e
+Books,4ec6624b,False,Gift Card,718.06,88139b26,Science Fiction,1,,Los Angeles,USA,IL,913 Main St,65291,"trending,new",2024-12-18 13:45:40,0725330e-315d-4bd2-8f58-2b7605be8ac9
+Electronics,5f96ffb8,False,Cash,136.23,2ac62a3e,Camera,6,5,New York,USA,AZ,3169 Oak St,32211,exclusive,2025-01-07 22:54:40,427e82ab-228a-4269-937f-a8addd750513
+Clothing,79c1ceaa,True,Credit Card,115.09,c084f46a,T-shirt,9,2,New York,USA,IL,1031 Oak St,41553,new,2024-08-10 20:21:40,4b8e1936-cf93-4e6d-9a8e-2bc344441337
+Health,2bae0271,False,Credit Card,606.06,05846075,Bandages,6,4,Chicago,USA,IL,9230 Maple St,37507,new,2025-01-23 03:12:40,a780f318-37fb-4c32-bdf0-ca1167a05ca4
+Toys,9dc03309,True,Gift Card,525.02,2fd22a02,Action Figure,8,4,Los Angeles,USA,CA,1611 Oak St,29117,"limited,new,trending",2024-05-07 07:09:40,a516495d-3485-49ef-8906-d654ea7f02de
+Home & Kitchen,afcab7f3,True,Credit Card,887.2,588ee878,Knife Set,9,2,Chicago,USA,AZ,1974 Pine St,35414,new,2024-06-19 15:57:40,c8d0395a-432b-4f7f-b8d6-4f4310a93834
+Beauty,60198ca3,True,Cash,996.85,576ab386,Face Cream,4,,Houston,USA,IL,3981 Cedar St,61027,,2024-12-01 06:01:40,54906a19-84e9-4110-a817-4aeb90389d64
+Clothing,5e1ccfe2,True,Gift Card,40.64,7b001edb,Jacket,10,5,Phoenix,USA,IL,6032 Main St,12928,trending,2024-12-07 13:09:40,58b11dfd-92db-4fd5-a647-525a0bc325aa
+Automotive,07e98c2e,True,Gift Card,923.17,c8c88163,Jump Starter,7,,New York,USA,AZ,6171 Main St,15746,,2024-10-01 22:13:40,42cf8a4f-82a2-43f0-b2b1-936217c6595f
+Clothing,19ed52fe,False,Bank Transfer,989.05,ef309038,T-shirt,8,,Chicago,USA,NY,3730 Cedar St,72148,,2025-01-12 08:58:40,bbebf208-93ec-49bf-847d-cbfd2fef0dca
+Sports,132bba33,False,Debit Card,680.67,481f1f2e,Basketball,8,,Houston,USA,AZ,1755 Cedar St,69860,sale,2024-07-22 11:38:40,0c52c0a0-14a3-4ae4-9699-3e3169cb74be
+Grocery,ba849b4e,False,Debit Card,508.92,21705d07,Frozen Meals,4,5,Houston,USA,IL,3578 Pine St,82640,,2024-08-10 23:20:40,f7062c36-7166-438c-9237-094894adf7f5
+Home & Kitchen,c0d1b7ed,True,PayPal,246.01,94452386,Knife Set,3,3,Chicago,USA,NY,6904 Oak St,77608,"exclusive,sale",2024-03-21 02:49:40,6741c48a-753d-40d7-bbcd-3f5705a34cfa
+Clothing,3ffcb940,False,Debit Card,970.65,04e002ec,T-shirt,6,3,Los Angeles,USA,CA,835 Main St,24725,sale,2024-08-11 17:57:40,9e66f1a6-9ec8-412c-ae30-877cfc888a06
+Clothing,008099b2,False,Bank Transfer,201.06,b4dd75f2,Jacket,4,2,Houston,USA,NY,3841 Maple St,42697,,2024-05-28 19:51:40,f48890d6-5e62-44fb-a6ce-aeaeb66aaf72
+Toys,d55d6eda,True,Gift Card,365.81,1e02e10d,Stuffed Animal,9,,Chicago,USA,CA,4758 Cedar St,16624,sale,2024-05-23 14:13:40,a2b97f03-0b9f-4844-9064-b3a273da3521
+Grocery,5f692007,True,Gift Card,804.57,26be446a,Coffee,4,2,Chicago,USA,AZ,4352 Main St,55479,"exclusive,limited,trending",2024-10-09 09:44:40,f8906f27-55d7-45a6-9512-903ef3bdd6d1
+Sports,23c2631d,True,Cash,392.79,fae46736,Yoga Mat,10,,Houston,USA,NY,2961 Oak St,49017,,2024-07-14 07:27:40,023c053e-61ec-4530-8f91-8c9b166133d5
+Home & Kitchen,440ee22d,False,Cash,395.17,488bcbc9,Toaster,9,,Phoenix,USA,IL,2880 Main St,96861,"exclusive,new,trending",2024-12-30 16:05:40,8eb712f8-55a6-41e3-a137-605465d6d770
+Health,2b2f0f5b,True,PayPal,630.17,1d63d0fb,Thermometer,1,2,Chicago,USA,AZ,2738 Oak St,11481,"exclusive,sale",2024-10-27 07:55:40,141ec148-ebb9-4cba-a4cd-ad56e7faee9d
+Toys,47454f3c,True,Debit Card,817.36,c810bef5,Stuffed Animal,2,,Los Angeles,USA,TX,3788 Pine St,63095,,2024-12-23 06:43:40,bbc453f3-4039-49a4-b8e8-74048310bd6c
+Electronics,99668218,True,Credit Card,200.73,64f80459,Smartphone,7,4,Los Angeles,USA,TX,9009 Cedar St,40166,,2024-04-29 01:01:40,b5efe230-35eb-475d-9996-e04b6ea52d16
+Books,ec588515,False,PayPal,178.35,11a0180b,Self-Help,6,5,Chicago,USA,AZ,465 Cedar St,54097,"trending,sale",2024-06-27 11:51:40,8e7ae4f8-8002-451a-97ca-52650b12dab9
+Grocery,191ec120,False,Gift Card,100.56,7f0713f6,Cereal,7,4,New York,USA,AZ,4199 Maple St,25784,"new,sale",2024-08-08 11:53:40,918147b6-0a82-4655-8703-279c5419ecde
+Beauty,f62f007c,False,Cash,574.5,3da09129,Face Cream,6,,Los Angeles,USA,CA,6040 Pine St,60633,,2024-07-30 01:37:40,21f1bee6-9ee5-4e82-a535-9d143904e417
+Electronics,71c229bc,False,Debit Card,874.45,ca2c98e6,Laptop,3,5,Houston,USA,AZ,7881 Maple St,51270,"exclusive,limited",2024-12-13 10:05:40,8df9fe5f-15fc-4da5-9c94-501cf08383cc
+Grocery,a9b83d2f,True,Cash,47.95,146361f6,Canned Goods,1,,Chicago,USA,IL,9954 Main St,46864,,2024-09-13 12:16:40,47558064-85ea-442e-839d-fbf200e80487
+Electronics,00967f18,False,Cash,894.5,25e09b52,TV,7,,Houston,USA,TX,3819 Cedar St,20622,"new,exclusive,trending",2024-06-16 07:53:40,70cc10df-e9ac-4f8d-b215-0c7f3efe1e62
+Home & Kitchen,c3b538a4,True,Debit Card,508.83,daec6bb7,Plates,7,,Chicago,USA,CA,8677 Main St,37723,,2024-04-17 13:14:40,7b528081-2070-4af8-bfbb-3372c9e6c817
+Home & Kitchen,d3bad0f9,True,Credit Card,781.04,83a622d3,Toaster,2,,New York,USA,CA,3480 Main St,77446,"exclusive,new,trending",2024-04-06 23:51:40,2254d9bf-d386-4ce9-b8a8-7659217419ab
+Health,bce4916f,True,Cash,428.83,bf4a4b6f,Vitamins,9,2,Houston,USA,IL,9764 Oak St,10560,"sale,new",2024-06-22 23:42:40,c3c6b2ed-3c89-4aba-9503-58285e44089d
+Grocery,2aed0161,False,Bank Transfer,975.11,213e8940,Snacks,9,2,Houston,USA,TX,4324 Main St,61568,,2024-04-17 22:20:40,d00d99aa-2688-48ef-9da8-832b4f061475
+Toys,30498ca4,False,Credit Card,491.59,f9a71c1b,Puzzle,10,1,Phoenix,USA,AZ,1312 Pine St,60410,"new,limited",2024-07-17 05:54:40,f6eaf293-ddd3-4c34-83d6-83fe7a110144
+Sports,cf563b74,True,Credit Card,572.17,db85e76a,Running Shoes,1,,Houston,USA,IL,1568 Main St,80876,,2024-03-30 06:52:40,83fe12cc-d803-424b-bbe2-f1814d908915
+Sports,f490eada,False,Gift Card,359.99,2c2573db,Bicycle,6,3,Los Angeles,USA,TX,2985 Oak St,82645,"trending,sale,limited",2025-01-28 01:39:40,5f8197cd-7bb3-4177-8a6d-61d124e85130
+Sports,108e5216,False,Gift Card,676.65,b909b238,Basketball,5,,Los Angeles,USA,NY,1389 Main St,85306,"trending,sale",2024-05-11 17:42:40,7b59373b-7ea0-455b-b948-9fec1a195d68
+Health,50cc5aca,False,Gift Card,326.21,652c3f93,Thermometer,9,2,Houston,USA,CA,8857 Cedar St,59058,"new,trending",2024-08-24 19:55:40,2fd146a1-02b5-4ff1-8631-b6ab793bacb3
+Health,6b098a85,False,PayPal,231.04,e47ccc59,First Aid Kit,1,5,Los Angeles,USA,AZ,2444 Pine St,59820,"new,sale",2024-08-02 05:05:40,a6f034a4-c007-4855-9c49-632eff63778a
+Sports,ed864074,True,Debit Card,309.19,63b61285,Dumbbells,3,4,New York,USA,TX,1234 Maple St,31468,,2024-03-31 16:36:40,6a006c13-58b8-40fb-9399-f88b2fcecf73
+Health,72d20ccf,False,Gift Card,58.48,f6b9ed50,Pain Reliever,7,2,Phoenix,USA,IL,7025 Main St,64400,limited,2024-05-31 19:21:40,03f9611a-9ec7-4d1d-add5-0f45b738129f
+Books,411d8c0c,True,Bank Transfer,754.73,3194156d,Biography,10,4,Los Angeles,USA,AZ,327 Pine St,63781,,2024-11-09 17:24:40,1f383ce2-c0cd-4f4c-a1aa-c5c3faee92dd
+Grocery,7c07b5bd,False,Credit Card,727.75,c30129bd,Pasta,9,5,Phoenix,USA,TX,9159 Maple St,21265,"exclusive,sale",2024-06-23 02:26:40,0d32326f-e057-4c08-b557-354748edb635
+Beauty,52b00d44,False,Cash,990.89,68c4548b,Shampoo,9,4,New York,USA,TX,1932 Cedar St,53374,limited,2025-02-19 21:37:40,d602d24c-7bd1-45bc-8303-3f1dd42d800b
+Books,8b6952c1,True,Gift Card,772.47,12f85acf,Fiction Novel,2,,New York,USA,IL,4677 Oak St,88774,,2024-12-08 18:59:40,29f92211-be5f-46e4-a2e8-283738d7a3f9
+Home & Kitchen,569f1cc5,True,Debit Card,976.34,7b53a35e,Knife Set,1,1,Los Angeles,USA,IL,2065 Pine St,66646,sale,2024-07-31 07:39:40,01852fe8-b60c-4cbe-b9a5-3b5fb7288bb0
+Sports,9ae90c08,False,Debit Card,975.56,7f2151a4,Running Shoes,1,2,New York,USA,IL,2552 Maple St,88189,,2024-09-09 06:58:40,8a677ea1-e44f-425c-b230-612245b8f890
+Sports,f4da02ce,True,PayPal,851.81,9439b184,Tennis Racket,6,5,Chicago,USA,NY,508 Cedar St,83797,trending,2024-06-06 02:35:40,4be7d82c-1a42-4e7d-a21f-3c3235ea8f46
+Toys,14aaa83f,False,PayPal,39.9,bc669d8c,Doll,8,,Chicago,USA,NY,5636 Cedar St,41130,"exclusive,new,sale",2025-02-14 10:39:40,edc1b2fa-9a98-49f8-a60f-6df5d220a452
+Books,bf15efd0,False,Debit Card,813.33,d5788450,Self-Help,6,1,Los Angeles,USA,CA,7062 Pine St,55375,,2024-10-29 02:30:40,84bf7cdf-930e-461f-b033-938ff9188ac1
+Beauty,cbdad77e,True,Cash,125.53,e6b3bd1c,Face Cream,6,,Houston,USA,NY,7355 Pine St,78582,"exclusive,trending,new",2024-11-25 10:19:40,442222ab-ebfe-4a8a-8f07-2492b40a9e1d
+Toys,f898b5a2,True,Bank Transfer,118.22,dd46767c,Doll,2,3,Phoenix,USA,TX,4594 Maple St,13960,"trending,new,exclusive",2024-08-28 15:55:40,ccca6e86-dede-4c06-8c8e-4ae4b94f3d62
+Grocery,532c9cf2,True,PayPal,886.39,9e841570,Coffee,3,4,Houston,USA,CA,7131 Maple St,97942,sale,2024-05-30 17:59:40,c73ffdd9-f9b3-4c52-a9b4-f061ce263c70
+Clothing,3c8eb856,True,PayPal,681.65,29dd46f9,Socks,5,4,Houston,USA,TX,8179 Main St,49678,,2024-10-17 14:25:40,5227f584-6060-4516-ad7c-79429fa39029
+Grocery,89ad348c,True,Gift Card,588.27,b63e5269,Snacks,10,5,Chicago,USA,AZ,9299 Cedar St,29489,"trending,exclusive",2024-12-26 06:08:40,dca2eded-6356-44fd-ac03-6aed67eea236
+Sports,ad4d3b24,True,Gift Card,456.97,aee75ef8,Basketball,4,3,Phoenix,USA,NY,7677 Cedar St,12251,trending,2024-12-27 07:57:40,77d865a7-b050-400f-bdf1-115fe426655c
+Beauty,1e46f712,False,PayPal,210.9,fe049648,Shampoo,2,3,Phoenix,USA,NY,9610 Pine St,77338,new,2025-02-05 10:45:40,cf644681-5694-40e3-aeae-bbb540440748
+Grocery,149291c5,False,Credit Card,443.31,3adc2117,Snacks,2,2,Chicago,USA,IL,1877 Cedar St,47229,,2025-02-21 22:27:40,aaf25516-a372-436b-8354-cd4c19523042
+Health,f016f0ca,True,Credit Card,266.6,a82b8f63,Thermometer,1,,Chicago,USA,IL,7934 Main St,21045,,2024-06-22 12:38:40,618f4a89-a30c-4108-8dbd-7d093aecbc2d
+Clothing,ed738917,False,PayPal,944.44,f7dd5501,Jeans,5,3,Los Angeles,USA,CA,9775 Main St,65991,"new,trending,limited",2024-10-16 19:03:40,96855387-1e88-454c-b18b-06cae7b50920
+Clothing,bbad81b0,True,PayPal,436.37,dfe3f37e,Socks,5,3,Houston,USA,TX,4404 Main St,49813,"exclusive,new,sale",2024-08-23 00:52:40,a4f5d45c-a2ab-4d8a-b3cd-3abb4aee4a09
+Sports,707944ca,False,Credit Card,878.71,2d37f35b,Basketball,7,5,Houston,USA,CA,6688 Cedar St,54824,trending,2024-12-24 12:41:40,bf375286-b69c-446d-9582-8321bcdbf809
+Books,b9dd3e75,False,Cash,845.76,7782e39f,Science Fiction,3,5,Phoenix,USA,AZ,858 Pine St,70991,trending,2024-03-28 15:41:40,8e0fac81-48be-4622-aa7c-b6ad3700bd0b
+Clothing,4006a352,True,Credit Card,871.54,e3e5367d,Jacket,4,5,New York,USA,AZ,6652 Main St,29248,"new,trending,limited",2024-04-14 07:26:40,3aade60d-81ca-4e78-8b00-4887675419ba
+Grocery,3dc70166,True,Credit Card,510.92,d62d7eaa,Coffee,5,,Los Angeles,USA,TX,5111 Maple St,70656,sale,2024-08-21 19:39:40,1dee7bdb-49ea-48bf-82a5-71442371aefe
+Beauty,328d75d9,True,Bank Transfer,847.1,503228bf,Lipstick,8,4,Los Angeles,USA,AZ,7710 Pine St,93324,,2025-01-11 09:20:40,ec78a965-12db-403c-88a5-8f4aa033d825
+Books,7004f57e,False,Debit Card,16.35,5c753a98,Self-Help,6,4,New York,USA,IL,3176 Pine St,71630,exclusive,2024-05-08 19:58:40,148ec33e-9090-4f81-8415-03ae3ff78d65
+Electronics,783be01d,False,Cash,611.23,9516380f,Smartphone,4,5,Chicago,USA,AZ,2124 Main St,27422,,2024-05-01 19:39:40,8305e811-2b12-44a1-818d-749873898a10
+Health,c08c55a8,False,PayPal,359.85,0aa280b5,Pain Reliever,2,5,Houston,USA,NY,7425 Pine St,77452,,2024-04-24 12:31:40,89935cc8-b5b7-4641-a555-f878479d0906
+Automotive,15be3920,True,PayPal,742.41,ee4e3ffe,Tire Gauge,6,2,Chicago,USA,IL,7073 Oak St,79746,"trending,limited,exclusive",2024-08-30 11:46:40,9d579cb1-9b9c-4792-9f49-b23a16cb39df
+Automotive,e67ec269,False,Cash,873.1,927e4cde,Floor Mats,8,1,Phoenix,USA,CA,8814 Maple St,11270,,2024-12-13 04:18:40,4dc55bff-e029-449d-83b0-5fbf91345408
+Books,8178cecb,True,Debit Card,46.39,174e1487,Biography,9,,Houston,USA,IL,1692 Cedar St,68134,new,2024-06-18 01:48:40,0ccfc4bc-648f-4e24-966c-80aa26382bde
+Grocery,ff051b1b,False,PayPal,886.45,930b6dbd,Frozen Meals,7,5,Houston,USA,IL,2415 Maple St,20987,"new,sale,trending",2024-04-25 01:27:40,b6e454c8-aec2-4845-ac51-a42ffecfa072
+Clothing,3e6036f9,False,Debit Card,24.68,adea4b40,Jacket,7,2,Houston,USA,IL,5714 Maple St,64963,trending,2024-12-18 04:38:40,ebe8bf18-54c6-4d9f-a168-1020255d91d4
+Sports,6584b8f1,False,Cash,623.32,2db51cb5,Yoga Mat,8,,Phoenix,USA,NY,7358 Pine St,96706,"new,trending,limited",2024-05-26 01:13:40,b52817e9-3bf8-44b4-8c4f-81fea3a19b21
+Automotive,99ab050d,True,PayPal,501.25,b811f7d9,Car Wax,9,,Phoenix,USA,NY,5733 Pine St,86479,exclusive,2024-07-07 21:01:40,0731db3d-0c94-4969-b137-8dd892539e45
+Toys,e61c65fd,False,PayPal,488.38,44f84e67,Action Figure,2,4,Phoenix,USA,TX,6318 Maple St,54739,"exclusive,new",2024-05-14 05:40:40,fa9c99f7-a609-4901-9b7e-ac6c64c54167
+Grocery,ae161c68,False,Bank Transfer,255.58,99a9acfd,Coffee,8,,Houston,USA,AZ,3024 Cedar St,73067,limited,2024-05-16 00:50:40,b34ae843-b0a8-4649-8648-73c9236c705b
+Sports,9c6b0717,False,Credit Card,930.39,2aa353dd,Yoga Mat,3,,New York,USA,TX,4419 Cedar St,94533,"exclusive,sale,new",2025-02-22 22:51:40,bca779a3-3ec5-427a-b555-213d85c16e38
+Grocery,a35e3910,True,Gift Card,37.49,a40dda03,Cereal,10,1,New York,USA,CA,8900 Oak St,69731,"new,sale,exclusive",2024-05-10 01:17:40,8c07eab8-6808-4292-9fd7-382bbdc77239
+Health,a6df4c95,False,Debit Card,102.24,88bb7fde,Vitamins,9,4,Houston,USA,NY,5783 Maple St,89984,,2024-11-14 12:15:40,0d87395f-e07b-4b66-8bce-934933c1360f
+Grocery,b658d119,True,Bank Transfer,52.07,9b1c9415,Coffee,1,3,Phoenix,USA,IL,1461 Oak St,95789,,2025-01-02 14:34:40,3c546eb3-9275-4e4a-9a66-690fa5399f3c
+Books,c4076463,False,PayPal,874.25,00638ff1,Self-Help,2,,Phoenix,USA,CA,4308 Oak St,22715,"sale,trending",2025-01-01 09:34:40,db42f9c2-910b-4cf7-b143-9ec8e2445c56
+Electronics,fad96acb,False,Debit Card,135.35,5f23db4f,Smart Watch,2,5,New York,USA,TX,8670 Cedar St,84784,"trending,limited",2025-01-23 12:46:40,4582d520-9965-4c8c-bcdd-b0e01fa30982
+Electronics,29abf4f5,False,Gift Card,684.53,9017fd7e,Headphones,10,,Houston,USA,CA,9031 Pine St,77366,"limited,new,exclusive",2025-01-26 08:19:40,b1beb04d-1490-407e-a480-62c7b792f0fd
+Grocery,9f1c89cc,False,Cash,920.58,fc5d9622,Canned Goods,10,2,Phoenix,USA,AZ,2667 Maple St,58768,"limited,exclusive",2024-11-24 00:12:40,443933df-40f9-4bb8-b6ca-af35bf0ad92e
+Beauty,77266178,False,Cash,30.82,d5ecd02c,Shampoo,7,4,Los Angeles,USA,CA,3307 Pine St,35695,,2025-02-02 09:12:40,79518ef9-cf8e-452a-a8c6-7fa04dbfb32f
+Books,1ca0c79e,False,Credit Card,407.59,8cf6100b,Cookbook,3,,Houston,USA,CA,179 Main St,71203,"new,sale,exclusive",2024-09-10 06:43:40,e1da2e9e-292e-46cd-a8ae-b5ae8234eda6
+Home & Kitchen,b2f1d841,False,Debit Card,952.5,dcfa9bc9,Toaster,1,1,Houston,USA,NY,9612 Maple St,65530,"exclusive,sale,limited",2024-07-17 05:08:40,64a91534-1add-4bce-8679-7fb34b7904a9
+Beauty,4b3bef8f,True,Debit Card,838.22,c58a299a,Perfume,10,1,New York,USA,AZ,2262 Maple St,54073,"trending,sale,new",2024-10-13 09:19:40,58b11909-1cff-44ba-9f23-53e1ccc4905b
+Electronics,ac145919,False,Credit Card,78.34,364cefa9,Camera,4,4,Phoenix,USA,TX,8859 Cedar St,21869,,2024-07-21 07:01:40,3cb60856-10e3-4408-b10c-d81a44374858
+Clothing,78cc2ec2,False,Gift Card,199.03,52c45919,Dress,5,5,New York,USA,NY,7401 Pine St,59715,"trending,sale,new",2024-10-06 04:19:40,d2e7f4ff-9b34-4f3a-8444-f081dd42e757
+Beauty,8e3305e3,False,PayPal,486.6,6ada4e0b,Nail Polish,10,4,Houston,USA,CA,456 Pine St,26970,"trending,new",2024-07-23 14:54:40,0cc8e4f7-9797-482d-bbdf-19073631337f
+Automotive,edefbfdf,True,Debit Card,673.66,04a5b60e,Air Freshener,5,1,Los Angeles,USA,TX,2393 Cedar St,31976,new,2024-09-05 23:32:40,9aa4b0b3-f869-4cde-bd03-ad632c6476fc
+Automotive,539b01b5,False,Cash,104.95,9bfb739a,Jump Starter,10,3,Los Angeles,USA,NY,1277 Pine St,42016,"trending,exclusive",2024-10-08 06:33:40,05a2fde8-28f3-421e-96f6-07ca482cd012
+Toys,2a0f4a53,True,Bank Transfer,180.41,185560ff,Puzzle,6,3,Phoenix,USA,CA,1604 Pine St,12329,,2024-07-16 11:12:40,e9e3b31f-4148-4508-b4ca-c8755fa4a230
+Clothing,5928fe3e,False,Cash,976.41,5bc08a15,Dress,8,2,Phoenix,USA,IL,8814 Main St,47253,"limited,trending,sale",2024-08-19 01:35:40,360801b0-a1ad-402d-9c93-db64f7ae8bdc
+Clothing,b99fc92c,True,Gift Card,817.06,d9ba77c2,Shoes,9,1,Phoenix,USA,AZ,1066 Maple St,66348,,2024-06-22 15:46:40,1db8af2a-379c-417a-8735-7729a38e93f0
+Health,0d1c479d,True,Bank Transfer,263.71,96ca9658,Thermometer,7,,Phoenix,USA,IL,5134 Oak St,72179,sale,2024-04-11 21:37:40,8aaf15fa-887c-460a-a264-8010e26d02f9
+Sports,63e9cb84,True,Gift Card,552.86,a55248c0,Bicycle,8,1,Phoenix,USA,IL,3029 Oak St,45461,exclusive,2024-06-04 12:23:40,23dd5af9-494c-4c4e-b1d3-7d693e8eb3da
+Automotive,cf348220,True,Gift Card,151.97,50fce269,Tire Gauge,8,3,Houston,USA,TX,762 Oak St,83389,"exclusive,limited,sale",2025-03-03 14:22:40,b37eb0df-ff81-4a8e-b7ca-3b9b2497234c
+Sports,c97b4e91,False,PayPal,969.88,82902728,Yoga Mat,8,4,Chicago,USA,CA,4915 Cedar St,88655,limited,2024-09-23 06:28:40,e2e8a3de-58e8-4b5d-a9fb-16f5c13d434e
+Grocery,34d48d88,False,Debit Card,361.42,2e5ddf68,Pasta,6,4,New York,USA,AZ,3736 Cedar St,69919,"limited,sale",2025-01-23 10:11:40,818d55fa-2c55-4cbf-a615-4111ed17543f
+Electronics,c08e117d,True,Cash,130.04,877eddf0,Laptop,8,4,Houston,USA,NY,8099 Maple St,20721,"limited,sale,exclusive",2024-05-05 16:17:40,eeff0a58-c398-4283-8b34-49bf7a0f154d
+Electronics,b44032ea,False,Gift Card,36.35,d8610266,Smartphone,7,4,New York,USA,CA,6494 Main St,68630,"sale,exclusive",2024-06-26 23:14:40,8f5f3f15-8179-4164-a289-f56ece72602e
+Automotive,8f468263,False,Debit Card,724.13,d5d144a8,Floor Mats,9,,Phoenix,USA,IL,1228 Oak St,12390,,2024-12-25 03:45:40,9d974d08-5a36-421c-908e-09c8b1cf77e3
+Books,483fe36d,True,Credit Card,24.71,d78324d1,Science Fiction,5,5,New York,USA,TX,7493 Cedar St,15939,"sale,trending,limited",2025-01-03 11:49:40,cc92976d-a7da-40f0-8954-c4584c3872ac
+Sports,8e5830c7,True,Cash,97.8,f79b5f62,Yoga Mat,2,4,New York,USA,AZ,9628 Pine St,82298,"limited,trending",2024-10-28 19:36:40,460e0d6b-3d2d-4ffb-a5ca-b22260dff7de
+Books,7c3306f9,False,Debit Card,309.36,53d8772d,Self-Help,4,1,Los Angeles,USA,TX,9972 Pine St,45054,"new,sale",2024-04-12 22:19:40,0042e348-9ed3-4862-b93f-f3c02efb7f32
+Clothing,a8216001,False,Bank Transfer,476.71,c2a72cbe,Socks,4,5,Phoenix,USA,TX,4950 Maple St,26102,sale,2025-02-20 09:08:40,8d82ae22-ddb0-49b7-b46b-731428ca1f53
+Sports,e63a2d79,False,Credit Card,904.39,58195e56,Yoga Mat,2,5,Los Angeles,USA,AZ,4774 Cedar St,89789,,2024-03-26 10:54:40,52532755-6c6e-4cc7-80ba-a8220ae97c75
+Home & Kitchen,e9ef2022,False,PayPal,97.52,47039a1c,Microwave,9,1,Houston,USA,IL,2462 Cedar St,39573,"new,sale",2025-03-18 00:21:40,30bf999d-fe3e-4b32-bdd1-dd1041263222
+Books,3df976c0,True,Cash,863.47,2e9976a3,Self-Help,3,2,New York,USA,AZ,2168 Oak St,51003,"new,trending",2024-05-29 03:07:40,5ba0bed8-137d-4580-b4a2-3d885106f5cf
+Toys,bf1ee1ac,True,Bank Transfer,487.2,574fc2b4,Doll,1,1,Houston,USA,NY,6511 Cedar St,96313,"exclusive,trending,limited",2024-12-06 10:43:40,2b30a043-dff0-44de-a031-d8a6228e137b
+Health,9183b85c,False,Credit Card,287.42,7a9d7251,Thermometer,7,,Houston,USA,AZ,1751 Main St,50843,,2025-01-09 22:54:40,7933a118-bef0-44e0-9bb0-8dacf17884fe
+Books,1f2a0b53,True,PayPal,638.92,cd298b0b,Fiction Novel,8,,Los Angeles,USA,CA,6857 Maple St,47226,"trending,limited",2024-12-07 14:04:40,396ae139-32e0-4ba5-bb07-9b13df61e61f
+Health,ed5de052,False,Gift Card,814.96,704aea51,Thermometer,8,3,Houston,USA,TX,2356 Main St,92899,exclusive,2024-09-12 21:30:40,120f1036-ad2a-4236-9227-8b9ec1decaa3
+Sports,852a1ca3,True,Cash,419.81,7a3c9ede,Running Shoes,1,,Houston,USA,CA,1319 Main St,25489,"limited,trending,exclusive",2024-12-31 11:50:40,56c3e443-a6b3-4b97-9f54-8a6269353d71
+Automotive,f2e8e5f1,True,Debit Card,725.71,9e88c21f,Floor Mats,2,2,New York,USA,NY,2901 Pine St,53691,,2024-10-02 12:20:40,548f63ea-4523-42cf-aab7-11e21cd171ce
+Electronics,5c63608b,True,Cash,583.5,4cc2065c,Smart Watch,6,3,Houston,USA,NY,6383 Oak St,90422,"new,trending,limited",2025-03-01 04:43:40,8dce6489-1bbe-406b-8f85-2f612ae05186
+Books,b9c94e62,False,Debit Card,986.55,bbca31bb,Science Fiction,9,1,Chicago,USA,IL,8151 Pine St,99117,,2024-12-12 15:49:40,6e06fea8-4d96-445c-9475-a4ca68c43a4a
+Books,f3aac42c,True,Gift Card,809.87,7deee273,Cookbook,5,,Houston,USA,AZ,4899 Pine St,47913,,2025-02-09 01:02:40,f3ae6c7c-768c-4b08-958e-47bf2ca8acdf
+Electronics,a75b4843,False,Bank Transfer,994.22,31fe3351,Smartphone,4,,Los Angeles,USA,TX,3155 Main St,58082,,2025-03-02 21:52:40,0940360a-27e2-4019-b77b-3ac5c3d3942b
+Clothing,ce4956e1,True,PayPal,794.55,c066db89,Dress,3,1,Los Angeles,USA,IL,6514 Maple St,72960,,2025-02-24 17:21:40,c1f7b1b8-b59e-4a36-a325-c58abfd2012d
+Sports,743d9c79,False,PayPal,307.54,f7c81eae,Running Shoes,1,,Phoenix,USA,CA,9311 Cedar St,10117,"sale,trending,new",2024-09-17 15:58:40,e4ad3b64-32d2-48b6-967d-9ef648b62ac4
+Electronics,78ecf64c,False,Bank Transfer,998.93,a5e0833b,Laptop,7,4,Los Angeles,USA,TX,4288 Oak St,35601,exclusive,2024-10-15 06:37:40,1edc624f-bad6-4bc0-898b-984bd48ebefe
+Toys,02ff6d21,True,Credit Card,751.94,518c46c6,Building Blocks,9,,Phoenix,USA,CA,2013 Maple St,89453,exclusive,2024-10-23 06:48:40,a5f81ad1-c927-4a90-a1ea-ac283665e165
+Automotive,2f5f8cc6,True,Cash,332.42,efff899d,Air Freshener,7,1,Phoenix,USA,IL,6396 Maple St,25992,,2024-04-19 18:34:40,369d5daf-232d-41f2-8c8c-e0bcf554bf84
+Clothing,a8eab621,True,PayPal,553.18,31a12027,Socks,2,,Chicago,USA,AZ,2887 Main St,26027,,2024-08-17 21:42:40,9bb24a60-a01f-4333-aadf-1b05163d4461
+Books,cd9e9453,True,Cash,500.48,3a80e2c2,Cookbook,8,5,Phoenix,USA,CA,5718 Maple St,46807,"limited,exclusive",2025-03-11 10:20:40,582149de-3b44-4c59-a6eb-aa886b27dd1c
+Sports,58e639a4,False,Debit Card,713.09,386dff82,Bicycle,10,3,Phoenix,USA,AZ,287 Pine St,48273,,2024-10-07 06:40:40,ad48b7b6-a294-49d4-8c0a-5f87207e2e10
+Sports,93141e16,False,Bank Transfer,604.09,6902d295,Dumbbells,9,,Chicago,USA,NY,8077 Main St,32601,"new,trending,limited",2024-05-17 12:02:40,9e1d668d-89c1-401e-8f4e-f7089efe9807
+Sports,219ffce7,False,Cash,848.79,49d987f6,Tennis Racket,5,1,Houston,USA,AZ,7239 Cedar St,85465,,2024-08-10 13:37:40,91834aca-ec27-4ed8-b8d7-750ca1b90957
+Grocery,0f848990,True,Gift Card,707.42,058cdd23,Snacks,8,3,Chicago,USA,CA,8763 Pine St,88293,,2025-02-09 05:53:40,fb4e377e-95f3-4b03-a844-66ee01eb4c4a
+Automotive,7f6803a5,True,PayPal,229.48,788101d5,Car Wax,4,1,Houston,USA,TX,2544 Cedar St,50969,,2024-06-29 23:05:40,ba9fa85b-2abb-4aae-be7b-de697585aeed
+Clothing,806d5585,False,Credit Card,78.47,8babcedb,Dress,5,1,Los Angeles,USA,AZ,5649 Maple St,96341,exclusive,2024-08-15 16:24:40,13397b09-d403-4d36-bb56-5133c81afbe8
+Home & Kitchen,bd04812c,False,Credit Card,918.62,ebd6865b,Blender,6,1,Chicago,USA,TX,6776 Maple St,36548,,2025-03-10 12:12:40,362e7ccc-216f-465a-ae0c-31598d65d2fa
+Books,bc11fd89,False,Cash,438.43,3bb8bf38,Biography,4,,New York,USA,CA,4982 Main St,97490,trending,2024-09-22 19:44:40,cceff809-0866-4639-bf35-4efc6c0bb69e
+Automotive,051ae103,True,Bank Transfer,942.42,81a19911,Tire Gauge,6,,Chicago,USA,IL,6862 Pine St,12570,,2025-02-03 18:16:40,982d9033-9429-4187-b7dc-54514b75b355
+Books,d01df33d,False,PayPal,892.76,39d1fa7a,Cookbook,3,1,Los Angeles,USA,AZ,1116 Main St,88125,sale,2025-01-22 03:14:40,857c4dab-dbf8-4e6a-8eb5-e0dcc1857fd1
+Sports,f921e2e0,True,PayPal,821.03,9a98c54c,Dumbbells,9,,Chicago,USA,CA,6964 Main St,17948,"exclusive,sale",2024-08-13 16:27:40,eff3ee4e-a71d-46c3-915d-ef62798f7acd
+Sports,b0d9c727,True,PayPal,766.8,7706a393,Dumbbells,2,5,New York,USA,IL,6379 Main St,81127,,2024-07-06 07:26:40,d09a4133-0919-414f-abf0-8ffa726d5cf6
+Sports,fdd0efad,False,Bank Transfer,665.89,d52366e7,Basketball,6,,Los Angeles,USA,IL,4222 Oak St,86025,"limited,exclusive",2025-02-14 04:22:40,45d33b6b-edb5-4954-9baf-68ae6524fb06
+Sports,24ae322c,False,Credit Card,147.44,0831c4dc,Bicycle,7,4,Chicago,USA,CA,5181 Cedar St,91288,"sale,limited,exclusive",2024-10-13 17:09:40,a855fdc9-6b41-4bd6-a59a-2c254a6d2de6
+Toys,f82a89c4,False,PayPal,502.04,95e152c9,Board Game,1,,Los Angeles,USA,CA,1840 Pine St,43769,sale,2024-08-05 10:04:40,f589f8c5-ac81-4cd2-8300-cc9bba0faf4d
+Toys,feba3738,True,Credit Card,378.11,a4bf5062,Puzzle,10,3,Houston,USA,CA,6615 Pine St,36964,sale,2024-10-22 11:28:40,8cd728e0-a3a8-4534-9054-0592a75adb41
+Beauty,ee37e1fd,False,Credit Card,665.9,cce6aedf,Face Cream,10,2,Los Angeles,USA,IL,4092 Pine St,37659,trending,2024-07-02 11:27:40,d6225c29-5c63-4520-a340-513c557eaf38
+Toys,a6cd0247,False,PayPal,730.4,bb7212b3,Action Figure,5,5,Chicago,USA,AZ,8083 Maple St,59384,,2025-01-07 00:05:40,263b40f6-ed2c-4154-a189-fd6c82d46390
+Automotive,9891c58f,False,Gift Card,498.57,80dfe740,Car Wax,2,5,Phoenix,USA,TX,5733 Pine St,53807,,2024-10-09 13:51:40,f15505c6-0e02-4e98-ad18-09df1f1b763c
+Electronics,940b78d5,True,Credit Card,443.58,6a18d5dd,TV,10,2,Houston,USA,AZ,9693 Oak St,34707,,2024-04-20 08:48:40,6b77b5d0-4b9a-40b9-a2bf-50070b1bcde4
+Grocery,f2f95d6f,True,Credit Card,776.55,7595a6d9,Cereal,3,1,Houston,USA,TX,4686 Pine St,87989,trending,2024-11-26 23:05:40,ad8dced2-3745-415c-a457-7924fb44082f
+Electronics,ab5b1631,False,Debit Card,167.4,5a34e33b,Smart Watch,3,,Phoenix,USA,TX,7539 Oak St,72761,,2024-05-23 07:37:40,448adc95-d595-47eb-94cf-d179a1710018
+Home & Kitchen,bdb52459,False,PayPal,504.05,71e1475a,Coffee Maker,1,,Los Angeles,USA,AZ,2278 Cedar St,80996,"limited,exclusive,new",2024-09-02 06:19:40,ea2819ae-da9d-43ae-8bdf-d2c5c58d31f8
+Home & Kitchen,52baf2b6,False,Cash,418.81,b21f24dc,Blender,2,,New York,USA,TX,585 Main St,63409,"exclusive,limited,sale",2024-04-16 18:28:40,10996caf-9603-4fde-aaab-677d89f48b3f
+Grocery,8e69fd20,True,Credit Card,503.58,e1258ba0,Coffee,10,2,Los Angeles,USA,AZ,2371 Cedar St,45868,,2024-06-04 10:02:40,26d3dce1-3012-453e-929e-e07d41b686a5
+Electronics,797a24e8,True,Gift Card,212.29,bff62ac8,TV,8,5,Los Angeles,USA,AZ,453 Cedar St,40750,"new,limited,sale",2024-07-06 20:51:40,9121e776-8f27-4b71-ba04-367e68fad803
+Sports,3b7b7b1f,True,PayPal,819.56,0ff61785,Dumbbells,3,4,Houston,USA,TX,3633 Main St,92189,"new,exclusive,trending",2025-02-24 19:50:40,198cc195-64d4-455a-81a8-4c870c2e4f30
+Books,570db125,True,PayPal,444.48,6245d6e7,History,7,2,Los Angeles,USA,AZ,1930 Main St,70296,,2024-08-24 12:43:40,c1110bd7-b1d5-483e-b398-06fda4f7d542
+Clothing,90f33f6a,False,Credit Card,946.74,7c317489,Jeans,2,3,Los Angeles,USA,TX,7865 Pine St,49395,"exclusive,sale",2025-02-18 16:32:40,9dc45de5-3065-4c7b-8634-96b8e5899648
+Sports,96a92c84,True,Gift Card,279.15,1bfe4cd9,Basketball,9,1,Phoenix,USA,IL,3127 Pine St,62315,new,2024-09-11 05:15:40,b426c9af-f2a8-4849-9952-12346783cf57
+Toys,dc2a406c,False,Debit Card,885.61,10d35738,Building Blocks,1,2,New York,USA,TX,2949 Maple St,32301,"exclusive,trending",2024-05-24 00:06:40,e270fbc8-a95c-43ae-8e39-dc717ba49d80
+Clothing,1c206933,True,Cash,266.76,722b6fcb,Shoes,1,3,Houston,USA,TX,3248 Main St,25831,exclusive,2024-07-25 22:16:40,a5627049-dfa9-480e-bfb0-d76ba86ff652
+Beauty,fd4e0051,False,Cash,327.39,402917ee,Perfume,4,5,Houston,USA,TX,5987 Pine St,91530,limited,2025-02-07 16:37:40,18afb4b4-3383-4746-bcbd-183e9000cb99
+Books,4633ccf5,True,Credit Card,619.18,5a8d7145,Self-Help,4,,Chicago,USA,CA,8354 Oak St,97797,"limited,trending",2024-10-17 21:02:40,0989d743-f739-406d-9ade-70774d1efa10
+Books,19f14018,False,Credit Card,566.27,2ceebea6,Science Fiction,4,1,Houston,USA,NY,8833 Cedar St,25959,,2024-09-12 20:36:40,c5b8b8dd-75ae-44d1-b330-e2650cbdeb5f
+Books,c6a7e0e0,True,Debit Card,981.39,4bc91f1b,Biography,9,3,New York,USA,IL,1017 Oak St,82992,,2024-04-09 08:05:40,1b9c98a0-0a88-4f36-b269-002c981b1034
+Health,bac75868,True,Bank Transfer,402.45,6c143250,First Aid Kit,4,5,Phoenix,USA,TX,7214 Main St,69167,"exclusive,new,sale",2024-09-29 20:15:40,0c3b961f-56ed-4bc4-9121-83a2d9a21b3f
+Automotive,0971d889,False,Gift Card,258.31,6b0479be,Jump Starter,2,5,New York,USA,IL,2500 Main St,38107,"new,exclusive,trending",2024-06-09 12:20:40,63b77603-1fb6-46e1-adaf-13332b0c5c95
+Automotive,e34e3333,True,Credit Card,366.69,6adcc270,Floor Mats,7,5,Phoenix,USA,AZ,9694 Oak St,15689,"limited,trending,new",2024-06-10 10:08:40,c6aa0bd1-88c3-47ec-a1d1-e3e98962b724
+Books,54ea60e7,True,Credit Card,648.73,2ea7ae46,Self-Help,8,1,New York,USA,CA,4772 Main St,36511,,2024-03-18 07:12:40,d2b7aa64-9970-4f70-9c74-659cc9537f40
+Books,b7c2cbfa,True,Cash,858.68,5bf921bb,Self-Help,5,2,Los Angeles,USA,CA,6834 Oak St,14964,"sale,exclusive",2025-03-17 23:19:40,6e3771d8-6add-4c2e-95cd-7a8abc269e8f
+Electronics,29413779,False,Bank Transfer,694.14,0a606dba,Tablet,6,1,New York,USA,AZ,531 Oak St,96263,,2024-11-16 09:10:40,ae470988-2667-446f-9f8b-08025947933d
+Home & Kitchen,83784629,False,Debit Card,172.71,32966e26,Coffee Maker,8,5,Los Angeles,USA,TX,572 Cedar St,42600,"limited,trending",2024-06-09 15:31:40,1fc71b7c-dc4f-452c-aa1e-6bafe0cf4426
+Sports,ce8b80dd,False,Bank Transfer,862.89,fd2bda80,Dumbbells,8,,Houston,USA,AZ,2824 Pine St,36039,limited,2025-02-10 12:27:40,58568f75-d550-42c5-9c13-ea699bb8f7c3
+Sports,3c45486f,False,Debit Card,964.55,070d277b,Tennis Racket,5,1,Phoenix,USA,IL,3529 Maple St,33910,new,2024-03-26 20:53:40,84c36857-d014-45dc-b830-25c502a29962
+Health,1fd005fb,False,Gift Card,617.7,892b6a65,Bandages,4,3,Phoenix,USA,AZ,6256 Cedar St,99370,"trending,exclusive",2025-02-04 12:12:40,53d62567-adcb-456e-ba80-ef5ede8b225f
+Automotive,7ea9e3be,False,Debit Card,902.36,c9672677,Jump Starter,4,2,Phoenix,USA,AZ,4763 Maple St,14393,limited,2024-07-20 10:09:40,0d4d0122-ddbd-48ea-b154-5db0ec0489e8
+Beauty,7f77a868,False,Cash,648.78,0e68c7ec,Perfume,4,,Houston,USA,AZ,8509 Main St,27780,,2024-03-19 11:51:40,eb7a6b5a-00cc-4a35-8f5d-585a3a3946a9
+Toys,3c9bf18e,True,Cash,180.12,2da10436,Puzzle,10,,Los Angeles,USA,IL,8235 Maple St,49341,,2024-04-23 15:38:40,0a8b1447-535a-4ad3-a50a-c9cd5f8592d5
+Home & Kitchen,271478cc,False,Gift Card,752.86,6cdd0e8c,Coffee Maker,2,,Houston,USA,AZ,5553 Maple St,91419,"exclusive,limited",2024-11-06 07:19:40,2ed3d397-6c2b-44b9-97f8-cba44383ae1d
+Books,3bcae193,False,Debit Card,362.3,8eef4b01,Biography,1,3,Chicago,USA,TX,3252 Pine St,95666,"trending,sale,exclusive",2024-08-15 08:35:40,a87f1eaa-9bd8-4684-8206-028bd35ac4a6
+Clothing,5099cb81,False,Gift Card,975.63,5dbcaddf,Hat,8,2,Phoenix,USA,CA,9229 Cedar St,56939,,2024-11-13 08:36:40,c7347a5b-a2e1-43eb-8d77-c81c55d30043
+Toys,bca2d61c,False,Bank Transfer,532.65,a8f06212,Stuffed Animal,1,,Chicago,USA,NY,3961 Cedar St,32467,,2024-11-12 20:06:40,94711a83-9add-4cc0-9578-b51ab58d2346
+Toys,13d0b078,True,Cash,536.62,4c64e656,Stuffed Animal,1,5,Phoenix,USA,CA,4448 Pine St,84818,trending,2025-02-20 15:00:40,5f052cdc-c9b3-454d-92a3-c855ba5fd341
+Toys,6fa31273,False,Gift Card,831.27,ff69c672,Building Blocks,2,5,Los Angeles,USA,CA,2465 Pine St,33357,"exclusive,sale,new",2024-05-07 20:37:40,337e1c16-be87-4587-850d-8fd6341169ec
+Books,f7068a20,False,Cash,349.6,99288c90,Biography,4,,Phoenix,USA,AZ,738 Pine St,74657,,2025-02-17 21:57:40,8c72f403-f010-4bdb-803e-10fe57f8ee69
+Grocery,41826426,False,Bank Transfer,463.2,dcada8a5,Frozen Meals,7,3,Chicago,USA,IL,3191 Cedar St,33459,new,2024-04-15 10:52:40,cbdf930d-7e92-4ff0-84cf-fa8ce5e20433
+Health,f74c880c,True,Credit Card,633.74,006e1134,Vitamins,1,3,Chicago,USA,IL,120 Maple St,88573,"sale,limited",2025-01-29 11:16:40,250a0ef3-35ea-45f1-88a2-30560f3268fe
+Electronics,7bce2bb0,False,Credit Card,163.81,2ae2f8db,Smartphone,9,,Chicago,USA,CA,1135 Cedar St,16901,sale,2025-02-09 11:49:40,f8700064-3584-435c-9e0c-4279411a2e5f
+Grocery,f5b7ae28,False,Gift Card,590.76,fda260e3,Frozen Meals,4,4,Chicago,USA,NY,9569 Pine St,76363,"limited,sale",2024-06-07 02:30:40,159e2f06-fc40-499c-a4ec-ef8b24e5b7c2
+Beauty,a857490f,False,Credit Card,227.25,f83f8151,Face Cream,9,2,Chicago,USA,CA,9244 Oak St,68863,,2024-05-26 11:54:40,c42edc3f-06f5-46af-8448-9f25450438dc
+Electronics,912fac23,True,Cash,880.83,37c61ba9,Laptop,3,2,Los Angeles,USA,AZ,8066 Maple St,64490,,2024-10-22 06:37:40,444e5de4-ddf4-4bfc-92a2-5e2725fd20da
+Grocery,1b8160a6,False,PayPal,784.6,664f00ba,Cereal,1,5,Chicago,USA,IL,7651 Oak St,72390,,2024-07-11 17:05:40,5e52bf93-94f8-4ee3-91e5-fe7a5f2fbd05
+Automotive,990605e7,False,Debit Card,296.47,31cc84a9,Car Wax,10,3,Los Angeles,USA,TX,4536 Main St,14918,"exclusive,new",2024-06-25 07:15:40,3b72bc8c-f048-4ebc-9ba3-4454bbfd48ca
+Electronics,3b729f77,False,Debit Card,940.62,f0d797e9,Laptop,1,4,New York,USA,IL,6097 Oak St,50721,,2024-04-07 15:05:40,47a0713c-f20e-4ef0-b2da-313828b68038
+Health,e111a850,True,Bank Transfer,711.65,3b4dc083,Pain Reliever,9,,Houston,USA,TX,5583 Pine St,54774,new,2025-01-21 09:31:40,cf931d0b-3200-490b-9450-9d5b53952f9f
+Home & Kitchen,f64cac5f,True,Cash,577.4,1a487289,Plates,1,,Chicago,USA,CA,7040 Main St,88797,new,2024-10-13 11:07:40,23cfacf7-45b5-4376-bbfa-749e61b372b0
+Clothing,6e717901,True,Bank Transfer,906.58,f459cf4d,Hat,9,,Los Angeles,USA,CA,7950 Main St,72957,,2024-05-25 09:31:40,4847903d-2504-47db-b314-115a0fa304af
+Electronics,fc58068e,False,PayPal,500.58,94c323e2,Laptop,4,1,Los Angeles,USA,IL,8529 Oak St,94287,trending,2024-04-18 12:02:40,de65de13-1a2d-4326-a5e8-5caef133bcc6
+Electronics,e4908162,True,Debit Card,333.58,ab3dcc85,Smartphone,10,1,Phoenix,USA,NY,683 Pine St,43486,,2024-08-03 02:21:40,5b588620-220a-4880-84d9-8c107398be34
+Electronics,3d1559e5,False,Gift Card,810.56,a606db98,TV,10,,Houston,USA,AZ,5024 Oak St,45057,new,2024-11-16 01:03:40,0683d194-41f0-46d7-b830-4e3dce4c5fa3
+Automotive,4fd097d0,False,Bank Transfer,108.18,cdccbf0a,Floor Mats,1,2,Chicago,USA,AZ,9573 Cedar St,46746,,2024-09-26 02:59:40,aa174924-493c-4427-962e-9a881213e77f
+Health,99c03c40,False,Credit Card,823.79,4ad01374,Vitamins,4,2,Chicago,USA,AZ,5063 Cedar St,10985,,2024-06-02 18:32:40,d0bf3a1b-34de-4093-8e17-d9d2ef14e34f
+Beauty,99bfe106,True,Bank Transfer,638.84,543c00c1,Shampoo,4,3,Chicago,USA,NY,5193 Maple St,44072,"sale,exclusive",2024-10-20 19:23:40,ea3f24e0-8f32-4c94-ab45-e677bdcd525e
+Electronics,8d2534f4,True,PayPal,946.51,119d4386,Tablet,10,5,Chicago,USA,AZ,3016 Maple St,41056,limited,2024-06-06 21:21:40,cb225629-f280-4250-963d-43f173928a5f
+Health,ccd09157,True,Debit Card,268.08,442a86d5,Bandages,2,1,Phoenix,USA,AZ,8766 Maple St,65050,exclusive,2024-11-04 13:23:40,3288d5cf-ba7d-4b3d-bfbe-19cae9c792f2
+Grocery,1ab3e4cc,False,Debit Card,944.55,e262fd56,Cereal,6,,New York,USA,AZ,4748 Pine St,72771,"sale,new",2025-02-13 03:56:40,50baef82-eaa4-4e49-af13-1d0204e22e39
+Sports,aadcd6be,True,PayPal,121.1,998db6cc,Bicycle,7,2,Phoenix,USA,NY,4545 Pine St,70650,new,2025-02-20 04:47:40,d80cec2b-b949-4d21-8bda-3b36d367cfd7
+Beauty,8a7d4ba4,False,Cash,782.49,48d9103c,Shampoo,6,,Chicago,USA,AZ,5556 Cedar St,67512,,2024-08-12 00:44:40,96a15087-8866-4493-bd08-8675fbb783fa
+Home & Kitchen,f135a69c,False,PayPal,720.86,491a942d,Coffee Maker,4,,Houston,USA,TX,2434 Main St,84189,sale,2024-10-12 16:27:40,61b9fd94-c462-4a3a-ad78-e8cf18cab60d
+Books,427cbbe4,False,Bank Transfer,309.61,4afd385a,Biography,6,4,Houston,USA,TX,9056 Maple St,75444,"exclusive,sale,limited",2024-04-19 07:15:40,e0194ad9-6845-4c61-b0a6-e63f96df28a0
+Home & Kitchen,630efd16,False,Gift Card,974.96,d4192990,Blender,6,,Houston,USA,CA,3294 Maple St,99217,"limited,new",2025-01-15 23:36:40,043b404c-95d3-43be-95cc-976ef7fa8d0d
+Sports,2dccc2e3,False,Cash,18.37,45bb5ebb,Yoga Mat,7,,Los Angeles,USA,CA,1307 Oak St,37168,sale,2025-01-22 04:44:40,2e50dace-37a9-4362-b2fd-d97e02d64284
+Health,88d7b70b,True,PayPal,151.69,57ec3cb5,Vitamins,2,,Chicago,USA,TX,9769 Main St,96945,"sale,trending",2024-10-17 22:02:40,7d8ade69-9a4e-406b-9613-6a40197008d2
+Automotive,d365496a,True,PayPal,680.35,24a4c284,Jump Starter,1,5,Chicago,USA,TX,2944 Pine St,10127,limited,2024-09-07 15:07:40,3ace65ee-a523-45eb-80d9-f641c1ab5483
+Clothing,832e9e07,False,Debit Card,661.43,70ebaa97,Socks,8,5,Chicago,USA,TX,8231 Maple St,14116,"exclusive,sale",2024-12-22 07:28:40,0d019d55-164b-4f7d-9aaa-6002c6cb1610
+Books,8f16f066,False,Gift Card,942.72,784b82f1,Biography,8,2,Phoenix,USA,IL,3786 Main St,32498,"limited,sale,trending",2024-09-01 15:53:40,9e79c738-72d4-4417-aa0c-6a10dbeddf52
+Grocery,1047ea85,False,PayPal,984.27,c9f23fb9,Snacks,8,2,New York,USA,IL,8495 Pine St,25665,"trending,sale,limited",2024-04-16 08:28:40,997cc6ae-17fe-43a1-bcfc-818cb9f58315
+Books,d57bc13c,True,PayPal,21.44,f81e96ca,Cookbook,5,,New York,USA,IL,4258 Main St,42301,"sale,trending,new",2024-03-31 22:55:40,a8e44c2b-d770-4ec2-819c-8f1a10bd1fc1
+Beauty,875b662a,False,PayPal,966.76,9a4265c1,Face Cream,5,1,Los Angeles,USA,NY,9356 Cedar St,45755,"trending,exclusive,new",2025-02-03 22:28:40,e160da8c-940c-46dd-81e3-1cff41d7f147
+Electronics,0e07ed99,False,Credit Card,641.61,c10f3d43,Camera,10,5,Chicago,USA,IL,1826 Main St,54454,"trending,exclusive,new",2024-09-19 10:50:40,7b409622-7c69-4388-a289-3405b2752598
+Toys,83a2c7cf,True,Credit Card,734.0,96d1f64b,Board Game,6,,Chicago,USA,CA,3085 Cedar St,76220,,2024-10-08 14:58:40,95f8e110-3218-484b-b13e-3ac9e6ca9f2a
+Toys,af09cf69,False,Bank Transfer,411.25,58e66459,Building Blocks,4,3,Chicago,USA,TX,887 Cedar St,50146,trending,2024-10-27 11:28:40,48f6d36f-81fc-4c72-8f44-b2c739d31be5
+Health,3063d425,False,Credit Card,778.34,cca3a763,Vitamins,9,2,Chicago,USA,CA,9820 Maple St,43058,"exclusive,limited,trending",2024-07-27 12:02:40,c21c2341-fa7e-431e-9aa4-4e1586e49a42
+Beauty,a33f8405,False,Cash,199.64,45794a80,Face Cream,2,,New York,USA,AZ,2127 Pine St,94639,"trending,limited,exclusive",2024-04-02 20:01:40,8bbe6e32-ead0-4c22-b67e-9adaccfda5f4
+Home & Kitchen,8068fb93,False,Gift Card,757.36,97fdfcc2,Toaster,6,4,Houston,USA,AZ,1284 Oak St,42964,trending,2025-02-16 23:44:40,adfad08c-3cfb-40c9-9901-07f862df519a
+Electronics,0707d3a4,False,Cash,488.97,5bed6290,Tablet,1,4,Phoenix,USA,TX,3049 Maple St,80891,"trending,limited,exclusive",2024-12-31 05:56:40,2e2850c7-9dbd-4b06-ad2d-d1a9fc22bad1
+Grocery,8039034e,True,Credit Card,695.88,d6f53f5c,Coffee,2,2,Phoenix,USA,IL,2668 Cedar St,80829,"trending,new",2024-07-24 00:22:40,8db2451b-973f-4103-b99c-c3677f14502d
+Books,f3f54fbb,True,Bank Transfer,664.42,b10f771f,Fiction Novel,3,1,Chicago,USA,CA,9442 Maple St,18701,,2025-01-16 15:24:40,182bffb8-3920-4256-a467-64f2ac6d77cf
+Beauty,3d35fc46,True,PayPal,60.81,abae31f5,Perfume,10,4,Chicago,USA,NY,8675 Oak St,44767,limited,2024-12-29 23:11:40,4a7c3eb1-203a-4671-95c7-83cf8733244d
+Toys,879b10cc,False,Gift Card,200.23,77cd7f20,Doll,4,2,New York,USA,AZ,7332 Pine St,96264,"new,exclusive",2024-06-17 02:07:40,636ea545-5304-4f39-9650-bfbf510c9e84
+Sports,f7723d47,False,Gift Card,494.97,956647ef,Tennis Racket,9,,Phoenix,USA,TX,6957 Oak St,49086,,2024-04-22 07:14:40,13fbb1ea-b916-4d7d-b1f3-162c519a383c
+Toys,677bd61e,False,Cash,709.76,300527ce,Doll,10,2,Chicago,USA,NY,6122 Maple St,92177,"new,limited,exclusive",2024-11-27 16:31:40,15a2a122-2e4d-4f6e-a578-bbe336393f00
+Books,be632296,True,Cash,343.42,12fce809,Fiction Novel,7,5,Phoenix,USA,IL,308 Oak St,22298,"exclusive,limited,sale",2024-07-06 11:07:40,2cfff92b-cc4a-431a-8c02-c1fc7d1edf87
+Clothing,09a28ebf,True,Gift Card,349.45,b61acdb8,Hat,6,5,Chicago,USA,CA,6870 Oak St,58997,,2024-06-10 23:03:40,7d9a5aa5-6cde-4f8a-9abf-d74512b80466
+Beauty,a02851b0,False,Gift Card,870.48,d7c5ba8f,Shampoo,3,5,Chicago,USA,AZ,7429 Main St,95531,"new,exclusive,sale",2024-07-06 02:02:40,bf855700-a097-436d-ba24-fca96ef892c9
+Electronics,13bcad2a,False,Bank Transfer,695.23,74622848,TV,5,2,Phoenix,USA,NY,6269 Maple St,37719,trending,2024-12-06 09:19:40,52f69f5f-f996-4fc3-b237-ab4e3e03440f
+Electronics,0a2d57de,True,Gift Card,500.85,c84040ad,TV,6,,Los Angeles,USA,CA,9089 Oak St,91408,exclusive,2025-03-11 02:30:40,f590ee39-2276-44b7-9767-78126a55078b
+Sports,ed214b85,False,Debit Card,546.64,6e698b8e,Dumbbells,9,4,Los Angeles,USA,CA,1842 Maple St,10830,sale,2024-08-29 12:43:40,10f3cbd5-f694-4ce8-bcb2-1780e975d6cc
+Home & Kitchen,49296884,True,Gift Card,189.78,095017d7,Microwave,6,,Houston,USA,IL,3451 Maple St,68533,"trending,exclusive,new",2024-05-27 16:07:40,4274a57f-3b1b-474c-a5d8-d46aebb6c2a0
+Sports,df552e11,True,Gift Card,858.82,1a0f45e9,Basketball,2,,Houston,USA,IL,4388 Cedar St,85382,trending,2024-12-26 07:09:40,8963967b-5d0c-4e13-bee0-32bbfec29805
+Sports,45fcaa1c,False,Gift Card,574.47,8cb3e43e,Bicycle,10,1,Chicago,USA,NY,2983 Maple St,95801,sale,2024-06-05 01:01:40,8b7cf057-d50b-4245-820d-feb39cf2cb4f
+Automotive,7b9ed848,True,Credit Card,374.28,550bfcdf,Air Freshener,1,,New York,USA,TX,5070 Maple St,43463,,2025-02-22 04:48:40,d19becda-fc34-47db-b16f-d8fadfff2ac3
+Toys,a3c624db,True,Debit Card,951.57,213741f4,Building Blocks,1,5,Chicago,USA,IL,4192 Main St,45086,,2024-12-23 06:28:40,98902be2-9ef2-40a0-a02a-19d7b2a45572
+Home & Kitchen,1c92dbe2,False,Credit Card,659.04,f699db84,Blender,9,,Los Angeles,USA,TX,6346 Main St,12027,"limited,exclusive",2025-02-13 19:58:40,bf16631d-99d0-4dae-8ab9-c8fa6bb71f6e
+Clothing,b9be1260,False,Bank Transfer,186.31,5ac22673,Hat,7,5,Los Angeles,USA,IL,9030 Cedar St,66661,"new,sale",2024-10-08 22:52:40,e2bb0df3-11b8-42a8-b4ae-20d98f66d38a
+Health,a3363062,False,Cash,401.61,b2013fca,Thermometer,5,,Los Angeles,USA,IL,1190 Maple St,70927,sale,2024-11-05 20:54:40,9eccb8eb-58ec-4efa-95fa-0106385ff800
+Home & Kitchen,a01cb6a5,True,Bank Transfer,711.28,e2bd2a9f,Blender,5,1,New York,USA,AZ,1832 Pine St,26273,,2024-05-15 13:43:40,a1987b4c-29ae-4b81-b7fa-6d3801d9ea4d
+Toys,dbd42edd,True,Cash,397.03,ef2ed055,Doll,4,4,Phoenix,USA,AZ,4720 Pine St,76767,"new,limited,trending",2024-05-05 12:34:40,d91d2848-d1f8-455c-9e93-a2e87bb559de
+Automotive,79eb5e77,True,Debit Card,806.93,17446bed,Air Freshener,9,,New York,USA,CA,1733 Main St,87278,limited,2024-10-18 17:48:40,2882f726-65fa-4e68-8609-50d2ab88e231
+Clothing,93405d66,False,Gift Card,490.52,e0135132,T-shirt,8,,Phoenix,USA,AZ,8398 Oak St,61629,"trending,new,exclusive",2024-07-29 17:37:40,13f802fc-8b63-4af4-ab72-69864aa5cf47
+Grocery,0ab94942,True,PayPal,90.73,0dad2c64,Snacks,4,1,Houston,USA,NY,5977 Main St,68991,exclusive,2024-05-21 10:11:40,bc790f1a-8242-4f30-93ad-0fb0eebb73d9
+Books,db884dc8,True,Gift Card,890.15,b77468b1,Self-Help,6,3,Los Angeles,USA,CA,6870 Maple St,34215,trending,2024-06-03 06:59:40,a789b0d1-ba67-42a0-a238-4fd0fe485f6c
+Grocery,1c321e55,True,PayPal,756.66,e704a98f,Pasta,5,,Houston,USA,AZ,1455 Cedar St,90489,new,2024-06-14 11:03:40,040927ad-c3bd-4dfa-a117-52a8f7171b52
+Electronics,b23adfa5,False,Gift Card,454.02,ca3cb4ab,TV,9,3,Houston,USA,AZ,9307 Oak St,29144,"limited,trending,sale",2024-07-25 15:30:40,90cba92e-8025-4414-a2de-723860998cc2
+Automotive,7fef4bbf,True,Debit Card,275.16,6b07750a,Car Wax,4,4,Chicago,USA,NY,8065 Main St,16840,,2024-12-31 08:06:40,5fe3b90c-15f7-4605-80fd-62af2baecdbf
+Automotive,0bb1dd85,False,Cash,260.62,de78833e,Tire Gauge,7,4,Los Angeles,USA,CA,850 Main St,70174,limited,2024-09-01 04:03:40,5253a907-ffe3-4cd9-b8e8-433941e604b4
+Clothing,404f746b,True,Credit Card,701.58,4164d4dc,Shoes,4,2,Phoenix,USA,CA,4672 Main St,90862,,2025-03-11 04:46:40,047a1f71-8c51-43c9-9a2f-4332aaa8891f
+Books,85442889,True,Credit Card,670.85,72f791b1,Biography,8,3,Chicago,USA,AZ,1934 Oak St,37261,"trending,exclusive,sale",2024-11-06 03:41:40,bfde9b44-b0be-425a-9de0-3204900eb342
+Health,8846d3e2,True,Debit Card,17.86,2baf502a,Bandages,1,1,Los Angeles,USA,IL,9241 Maple St,13604,,2024-09-04 23:47:40,9682a476-fa96-4546-bc11-f0669bab4c27
+Clothing,0455cc76,False,Bank Transfer,551.87,954c3f85,Hat,9,2,New York,USA,TX,9519 Oak St,30943,"new,sale,trending",2024-10-19 09:57:40,06805047-9d91-49af-a85e-96a56df581d9
+Beauty,2bae69ef,False,PayPal,210.22,a9b83733,Nail Polish,7,5,Phoenix,USA,CA,8214 Pine St,25757,sale,2025-03-10 22:58:40,aebca914-06c2-40e6-bcb2-7df7e8a0f4a6
+Home & Kitchen,f327d722,True,PayPal,913.31,3ba8b37f,Plates,8,4,Chicago,USA,IL,8550 Cedar St,21883,,2024-04-03 22:35:40,497a7875-b7b7-4ea4-a1ff-2351f708b3cc
+Automotive,025362a8,False,Credit Card,292.82,ab52f86a,Floor Mats,7,2,Los Angeles,USA,IL,328 Main St,53777,new,2024-06-07 07:33:40,da9368bc-e861-4c41-b1e2-4d4456b4a8d0
+Toys,c732a619,True,Gift Card,128.78,1b7bd0d9,Action Figure,7,2,Phoenix,USA,CA,2100 Pine St,42885,,2024-06-15 03:42:40,5d8be3e7-b120-4926-af36-7f66a6ef4028
+Automotive,a1ec9d9a,False,Bank Transfer,958.91,2112f95a,Tire Gauge,7,3,Phoenix,USA,CA,2733 Main St,94157,,2025-03-18 03:40:40,de2adb8d-53db-46f9-9f4f-2771d09cc662
+Automotive,4f04707d,False,Gift Card,959.18,f3b91724,Air Freshener,9,3,New York,USA,CA,7246 Pine St,29235,,2024-10-10 13:32:40,149ce005-0a45-4ba0-a794-e385daa76ddc
+Home & Kitchen,de40a580,False,PayPal,646.79,f0fd417d,Plates,3,4,Los Angeles,USA,IL,6360 Pine St,69641,,2024-09-07 22:38:40,749a0a89-832a-4242-b202-2e7731de260a
+Clothing,57734884,True,Credit Card,422.16,63a620b0,Shoes,6,,New York,USA,TX,8263 Main St,93596,,2024-10-22 18:10:40,1bd918d9-c304-461a-bcb3-fcd3662ea7b4
+Electronics,e98a2379,False,Gift Card,140.19,f6441b2d,TV,4,,Phoenix,USA,NY,2160 Pine St,68049,limited,2024-11-21 10:28:40,0b3cfd47-6231-481b-8da9-ac537de239ed
+Home & Kitchen,950138cc,False,Gift Card,547.1,37bba088,Blender,2,5,Houston,USA,TX,4530 Oak St,95813,"new,exclusive",2024-03-25 03:00:40,99da8251-631d-4be9-b79b-aa84d66aa778
+Sports,f62aaab0,True,Credit Card,505.19,5b526a84,Running Shoes,3,,Houston,USA,CA,2272 Pine St,62835,"limited,trending,new",2024-05-27 10:25:40,23f77f75-f31e-4135-bd41-79f07e5a6c14
+Automotive,4bc92ae1,False,Cash,430.31,fa034327,Floor Mats,5,1,New York,USA,TX,4421 Cedar St,99140,"trending,limited",2024-04-06 15:43:40,d933d5b9-8182-4f30-b99b-4bf97cff81af
+Clothing,c2f2501d,True,PayPal,125.22,77931305,Socks,7,,Chicago,USA,NY,8040 Cedar St,14367,"trending,sale,exclusive",2025-01-30 06:43:40,534bc11e-23fe-42bc-9dc5-c671c9fb377b
+Automotive,352eb863,False,Credit Card,475.8,8e9ee4a0,Car Wax,6,1,Phoenix,USA,CA,614 Cedar St,53319,trending,2024-12-28 01:35:40,2b59bc8e-a4d4-480a-a911-76c4b4e9b0c2
+Sports,3137b40f,False,PayPal,369.1,9b2305c7,Yoga Mat,7,5,Phoenix,USA,TX,9713 Cedar St,26577,new,2024-06-04 13:11:40,2f4a61fe-72fd-47fc-9b64-6d4d40253642
+Sports,bb27904d,False,Credit Card,327.86,f2e47276,Yoga Mat,5,,Los Angeles,USA,AZ,9529 Pine St,86970,exclusive,2025-01-16 14:06:40,b4ec7ca5-7581-490e-9aaa-d7d8c7aed5a8
+Sports,fd24d6b8,False,Bank Transfer,781.04,fe21543f,Tennis Racket,5,5,Chicago,USA,AZ,3851 Oak St,48095,"limited,exclusive,trending",2024-04-08 12:13:40,7b632ab5-9075-40c9-bd10-4de317d5862a
+Clothing,7e87953e,True,Debit Card,885.74,530186a4,Hat,3,1,Houston,USA,AZ,7744 Cedar St,35489,"exclusive,limited",2024-08-27 18:11:40,6a33794d-e63d-4b60-a5a6-9f54ef4fcf87
+Home & Kitchen,286131e2,False,Credit Card,717.76,8bc37649,Microwave,5,,Los Angeles,USA,NY,1042 Main St,79710,"sale,exclusive,trending",2024-06-12 23:29:40,e900d141-b3f5-45bb-b73b-a71fd16730d0
+Home & Kitchen,bf7d9249,False,Bank Transfer,131.54,aa561e9a,Plates,8,4,Houston,USA,NY,1402 Main St,14307,"sale,exclusive,trending",2024-06-20 21:57:40,26688fa4-83ea-4072-b6d3-475cfb66fb35
+Electronics,13e30af0,False,PayPal,959.31,5514f7fc,Smartphone,4,4,Chicago,USA,CA,1061 Maple St,63725,,2025-03-06 06:10:40,06936285-d0f4-4535-8b54-c84188d1e4e7
+Clothing,8eefc140,False,Gift Card,72.64,f4e30d71,Dress,3,3,Los Angeles,USA,NY,2125 Oak St,11371,"limited,trending,new",2024-05-27 01:33:40,1f86b85a-bf39-441a-af12-86b7209cb797
+Grocery,66cf7aa1,False,Gift Card,835.41,44c2c044,Pasta,4,4,Phoenix,USA,IL,4952 Cedar St,86724,limited,2024-08-17 09:57:40,269ca4da-1ea0-4028-95a3-35f574a28476
+Clothing,753500d4,True,Gift Card,741.84,595eb20b,Shoes,8,3,Chicago,USA,AZ,6045 Oak St,15208,"new,sale",2024-12-12 07:18:40,a9564c47-7e3a-458b-a491-bb08f62eb773
+Books,6f2cda8d,True,Bank Transfer,898.78,a7f0916e,Cookbook,8,4,Chicago,USA,TX,5350 Maple St,79951,"new,sale",2025-03-01 02:07:40,eca5e9dc-15ed-4f88-b150-1abe27a3daed
+Books,b53356ca,True,PayPal,608.41,84b51155,Self-Help,4,5,Houston,USA,CA,3902 Cedar St,11749,"sale,new",2024-05-02 08:04:40,7807aaa1-5842-4484-b6c2-2d8307d95f6f
+Home & Kitchen,0cbe317b,True,Cash,714.85,f11da637,Toaster,9,2,Los Angeles,USA,IL,4408 Cedar St,62750,trending,2024-11-27 15:37:40,7b891f10-2b6e-4d68-984a-bf7364c9fd33
+Automotive,fd8c19b7,False,Bank Transfer,234.5,d9ae3222,Floor Mats,9,,Los Angeles,USA,CA,9524 Oak St,90131,,2024-10-05 05:49:40,17366cc7-c0a7-4300-8db9-6a288cdbeee2
+Toys,73f5663d,True,PayPal,261.32,6eaae6a0,Doll,8,4,Houston,USA,CA,8655 Main St,32369,,2024-09-12 07:32:40,67cd8180-afda-42a5-8e48-ee5a5ee04c4a
+Toys,9143c46d,True,PayPal,932.91,430d3815,Action Figure,8,5,Chicago,USA,TX,9086 Pine St,23604,"new,limited",2025-02-18 02:08:40,a9d0b101-70f4-4afd-94b5-935f796081f9
+Health,2b633e64,True,PayPal,765.46,65ba4525,First Aid Kit,4,2,Chicago,USA,TX,584 Pine St,70036,,2024-12-04 09:27:40,20c71736-4a8d-49dc-84a8-0efbaf52605e
+Grocery,2d852c07,False,Cash,551.87,f5a728df,Cereal,5,4,Los Angeles,USA,AZ,2713 Oak St,78621,,2024-05-30 20:04:40,550725bb-ee5b-4d2f-a737-1a6ce15cf0ef
+Toys,29972469,True,Bank Transfer,471.15,808449de,Board Game,6,2,Houston,USA,AZ,7325 Maple St,11257,"new,sale,trending",2024-11-19 13:17:40,d9465f53-7191-4a33-86ff-de2b12cf86ed
+Home & Kitchen,05cbaad7,True,PayPal,105.9,5abc63b9,Microwave,5,3,Los Angeles,USA,NY,8050 Main St,94905,"new,trending,sale",2024-09-12 16:00:40,4538a444-24a6-446e-a336-2deae7d91327
+Electronics,be31c38d,True,Credit Card,332.69,206d3e4a,Smart Watch,3,,Chicago,USA,NY,6203 Maple St,99074,"limited,sale,exclusive",2024-03-26 11:34:40,60e35049-276e-43ee-be91-6824e61b98be
+Beauty,9cb22c8f,False,Gift Card,693.85,d652b12d,Face Cream,4,3,Chicago,USA,AZ,779 Main St,39262,"sale,new",2024-10-16 04:46:40,b51e0b56-58d6-498e-816c-e006e364b294
+Toys,b9d56b12,False,Gift Card,253.08,cca17635,Puzzle,10,4,New York,USA,NY,4791 Maple St,78561,limited,2024-12-29 05:50:40,97aa4920-d959-4ebe-97fb-ee53bae1dc14
+Automotive,45d2e131,False,Credit Card,59.42,6b565ebc,Jump Starter,4,4,New York,USA,IL,335 Pine St,64960,,2024-10-30 08:16:40,7dec0226-3961-422f-859e-b5c1912512e2
+Grocery,b698701d,True,PayPal,683.65,0ec09521,Coffee,7,,Houston,USA,NY,4027 Pine St,11114,,2024-09-04 17:27:40,23a1e0a2-c95e-48a2-9490-0c6bc9286aef
+Beauty,62bd4286,True,Credit Card,111.58,353a4201,Lipstick,10,2,New York,USA,AZ,4934 Oak St,88298,,2025-02-09 06:50:40,11ea8c50-48e7-4b98-9200-3716cfa5aa48
+Automotive,d5a1aec7,False,Debit Card,65.12,bbf6fd5a,Air Freshener,7,,Houston,USA,IL,1681 Maple St,76687,"new,exclusive,sale",2024-08-05 18:45:40,8f644a79-2b9d-4314-8abe-d61f221e3119
+Clothing,9a853079,False,PayPal,408.13,94289568,Jeans,5,4,Houston,USA,AZ,506 Pine St,17032,"trending,limited",2024-03-25 12:58:40,0826df93-9551-452a-9c94-f6940d223815
+Grocery,4a2aa7a2,False,PayPal,32.96,f0e7b001,Snacks,7,,Phoenix,USA,IL,129 Maple St,25027,"new,exclusive,sale",2024-10-09 17:48:40,6148c8ba-6035-46c5-9367-529ac7eb48a4
+Electronics,1c6ffcc9,True,Debit Card,345.25,79316620,Tablet,9,5,New York,USA,IL,8689 Pine St,54920,new,2024-06-29 22:03:40,54b8b40f-3e23-4b5c-b9da-3e4c0067ce3c
+Electronics,72c84f1c,False,Gift Card,66.81,a11ada06,Laptop,3,5,Chicago,USA,AZ,1573 Oak St,11034,"trending,exclusive",2024-08-28 18:13:40,0ad317f7-b6d1-4c15-a22a-0bbdc8dfb57b
+Toys,f9dc0c96,False,Gift Card,168.86,3114ea34,Doll,8,,Chicago,USA,AZ,3030 Cedar St,63103,"limited,sale",2024-06-19 01:50:40,e6fa6a11-ba0c-45e7-ab0e-d8438d793b59
+Clothing,35b39031,True,Bank Transfer,826.88,31cdf7d6,Dress,5,1,Los Angeles,USA,TX,2073 Pine St,37823,"exclusive,limited,new",2024-12-15 01:38:40,50488d5b-29df-4018-8353-82d8ed879dbe
+Books,11598a90,True,Debit Card,547.34,253c3ff7,Science Fiction,1,5,Chicago,USA,CA,908 Oak St,61296,,2024-08-19 06:12:40,e7303890-a350-4a50-88b6-48ded71debcf
+Home & Kitchen,af05a7b3,True,PayPal,984.17,ebc1dba5,Blender,5,2,Phoenix,USA,CA,6969 Cedar St,81907,"exclusive,new",2024-04-20 12:17:40,04f8f77f-fc1e-4e69-952f-4db1deab17bd
+Sports,ec65cb5c,False,Bank Transfer,220.88,6a609d02,Bicycle,8,2,Los Angeles,USA,AZ,1280 Oak St,58060,new,2025-03-15 13:08:40,3547addf-5290-4a38-8afa-d2d075b6d4d1
+Beauty,c7708ab2,False,Credit Card,768.12,b1b3d806,Perfume,10,1,Chicago,USA,CA,1598 Pine St,62579,,2024-10-05 11:48:40,9a5637a4-b5e5-446b-9d7b-439c7d6e31ac
+Books,a7081baf,True,Bank Transfer,491.27,6f69a97e,Self-Help,9,5,Chicago,USA,TX,2382 Oak St,67836,"exclusive,trending,limited",2024-06-10 00:52:40,a7b7b7c6-a332-4bc2-8d42-08dad9445fd9
+Books,240149f8,True,Cash,528.56,d6f87330,Cookbook,9,2,New York,USA,IL,2457 Cedar St,43372,"sale,new,exclusive",2024-06-11 21:19:40,ecfd8929-a81e-4956-bc16-12353215fbe3
+Sports,d1a94e5a,False,PayPal,932.07,d4bbb890,Tennis Racket,9,1,Houston,USA,NY,2400 Oak St,62388,new,2024-11-19 17:29:40,0aff93a4-644e-4244-ba6b-ecfd3b2be485
+Electronics,7c030a8d,False,Cash,799.87,c72094da,TV,1,5,Los Angeles,USA,TX,1136 Main St,77668,"sale,exclusive",2024-12-28 08:19:40,2b6a4aa6-7589-4c3d-a5ef-d26378b88c9f
+Automotive,f422cd1d,False,Gift Card,14.76,92a26422,Tire Gauge,8,,Chicago,USA,NY,5230 Maple St,11821,,2024-06-06 14:18:40,294595d9-0903-4240-ae6b-b43ac29f67f6
+Toys,af3d2c5a,False,Debit Card,249.51,c08ee6ff,Building Blocks,6,,Phoenix,USA,TX,7227 Maple St,94703,,2024-03-23 18:23:40,98648f51-7c75-49a4-b90c-db8fd26b4f6c
+Grocery,2a13fb52,True,Credit Card,210.81,2269a676,Cereal,8,3,Chicago,USA,CA,5814 Main St,30683,,2024-08-10 14:21:40,3307c4c6-2ccf-4812-a75c-4be1b93881d1
+Grocery,f28bcb45,False,Gift Card,688.77,2d126f95,Pasta,8,2,Los Angeles,USA,NY,5644 Maple St,25593,"new,exclusive",2025-02-18 04:50:40,53b056ed-924b-40d0-bb2c-6d39dfd0862e
+Electronics,2a2c1770,False,Bank Transfer,891.9,db21edda,Laptop,4,2,Houston,USA,CA,5553 Maple St,87526,,2024-09-09 13:44:40,4564e07e-2ee7-4908-ae44-4e4e3583a511
+Clothing,acc35cf3,True,Gift Card,633.82,5c35ab7c,Socks,6,1,Phoenix,USA,CA,5871 Pine St,28678,"sale,new",2024-06-09 14:28:40,0f1c8ad2-0a7f-4698-9a06-2c6c646a79f5
+Clothing,54b04e76,True,Bank Transfer,802.78,06c6dba5,Shoes,5,,Houston,USA,IL,9400 Oak St,29996,,2024-06-26 19:14:40,e4cc0214-b76c-4320-b236-6d281f5f6216
+Sports,757bf6aa,False,Cash,776.27,40d42fe2,Running Shoes,4,2,New York,USA,NY,3015 Pine St,96328,,2024-08-20 15:47:40,fffb172a-202a-45c4-bc1b-3edb039cc9b1
+Sports,ec4c9657,False,Bank Transfer,922.98,2c6d48a3,Bicycle,10,5,Houston,USA,CA,8340 Maple St,66130,,2025-01-05 18:33:40,a7b40d9e-7f5d-45fc-a909-de6a67dded39
+Home & Kitchen,d92a75d7,True,Gift Card,46.9,b25ffb6a,Knife Set,1,,Los Angeles,USA,IL,2820 Oak St,56213,,2024-06-03 04:50:40,07b92e89-5424-465e-b76e-79088b3617e0
+Grocery,7d5f671c,False,Cash,919.72,8d24fee6,Coffee,9,3,Chicago,USA,TX,6820 Cedar St,14078,"new,sale",2024-12-23 11:26:40,1a78bffc-6015-487e-8557-d3a746ab78d3
+Books,838b09aa,True,Bank Transfer,68.4,012b5e76,History,10,2,Chicago,USA,IL,8349 Oak St,22166,"new,limited",2024-10-12 14:28:40,45d79197-3c33-45a7-b5b2-f5e1362bab40
+Sports,f90e9a80,False,Gift Card,378.49,ef20061c,Bicycle,8,2,Phoenix,USA,TX,2927 Pine St,33138,trending,2024-05-10 16:26:40,4a248b7f-029f-4ce1-93fc-54f074174c26
+Home & Kitchen,1487545d,False,Gift Card,751.06,d3e0449a,Knife Set,7,,Chicago,USA,TX,6150 Oak St,78800,exclusive,2024-10-27 07:17:40,6095fc83-803c-44e8-a2d2-a8e5ef8b98f9
+Home & Kitchen,6e4c4481,False,Bank Transfer,193.67,9c6315bb,Coffee Maker,7,,Los Angeles,USA,TX,8850 Cedar St,72842,limited,2025-02-07 08:48:40,3221a525-ce65-4df4-a9f1-def9f4aa82da
+Clothing,cb495a3e,False,PayPal,392.12,3293aa2c,Dress,1,,Chicago,USA,CA,4152 Pine St,61779,"trending,sale,new",2024-09-03 01:48:40,057f9fe1-ef25-4b51-a522-d3771c2651c5
+Grocery,ac9c3017,True,Gift Card,298.5,6f4995bd,Cereal,10,2,Chicago,USA,NY,1952 Oak St,43014,"new,trending",2024-06-07 14:42:40,06880dde-f8a8-4903-b735-9581d2ebcb47
+Health,c87b3e96,False,Gift Card,795.46,a4c74e2d,Vitamins,9,5,Phoenix,USA,CA,4161 Oak St,39055,"new,trending,limited",2024-12-05 11:13:40,ea3e0d90-d490-4231-a11c-4049077492dd
+Books,acdf3d0a,False,Cash,232.37,32e7c790,Self-Help,1,3,Phoenix,USA,CA,5894 Pine St,55980,"new,sale",2024-10-14 07:10:40,e672109b-d0df-4426-ae03-1e71285de111
+Books,2092b63b,False,PayPal,954.18,db1e4158,Biography,5,3,Houston,USA,IL,6089 Pine St,20366,trending,2024-04-05 02:14:40,f1f9a519-a210-4e0e-8228-34b7932931f9
+Sports,48063a47,False,Gift Card,385.03,dd607a93,Yoga Mat,5,4,New York,USA,NY,7047 Pine St,45305,"limited,exclusive",2024-03-27 02:43:40,77a2d102-5746-4de7-96c4-6b20bc00ce72
+Home & Kitchen,c410a8d1,True,Debit Card,18.06,332e7b18,Knife Set,3,,Chicago,USA,CA,3278 Oak St,77995,"exclusive,trending",2024-04-02 07:05:40,dcf67562-c0a1-4652-994a-1c2de9f9edcc
+Sports,af85a9a3,True,Credit Card,133.94,d050e8dc,Dumbbells,8,5,Chicago,USA,NY,7866 Cedar St,86763,exclusive,2024-12-22 10:45:40,7a123368-7c9a-429a-a3f5-7080e0f510c3
+Health,6ba36981,True,PayPal,122.29,b951a909,Vitamins,3,1,Chicago,USA,IL,1807 Oak St,87453,"exclusive,limited,trending",2024-04-11 15:28:40,653ccab9-ffce-4ab3-9955-d508733bfa14
+Health,1ad8573d,False,Cash,776.86,e7fd357a,Thermometer,10,,Phoenix,USA,CA,5105 Oak St,12742,"trending,exclusive",2024-10-11 13:15:40,36d978e7-8a93-4494-b32b-b0639262cfc4
+Health,5fd6c337,False,PayPal,84.71,5867a4e6,Thermometer,1,3,Chicago,USA,TX,2933 Cedar St,12704,"new,trending",2024-09-14 02:04:40,fea96f65-71cc-43d5-9f33-ea40503a54ac
+Clothing,6d1097b3,True,PayPal,665.38,ec79e97e,Dress,2,2,Los Angeles,USA,TX,5343 Main St,72855,trending,2024-07-31 19:59:40,6d03bf1d-1d18-4bb5-ace4-d5cfd9a33f32
+Clothing,8ca08df9,True,Bank Transfer,321.49,a60a7d06,Shoes,4,,Houston,USA,IL,9259 Pine St,27749,,2024-11-23 23:16:40,e01f85a4-a733-465b-b799-e6d24abc80d0
+Home & Kitchen,d1fccc0d,False,Credit Card,509.15,6cb148c4,Plates,1,,Chicago,USA,IL,6374 Cedar St,87899,sale,2024-05-11 13:47:40,ae36819c-1f44-4d8f-b8de-f0aa833a7fb2
+Beauty,38949abc,True,Bank Transfer,906.65,657f013f,Lipstick,2,3,New York,USA,TX,1334 Cedar St,33452,new,2024-08-12 18:55:40,4cb99fcd-df0e-4f4b-8f26-e41bf50e627e
+Home & Kitchen,63bae5ee,True,PayPal,271.6,8440a6e5,Blender,1,,Los Angeles,USA,IL,9528 Oak St,80331,"exclusive,limited,new",2024-07-25 07:17:40,33df307e-d3c0-4a9d-9a8e-7a4e92cfdebf
+Home & Kitchen,c9f9a4d7,False,Bank Transfer,802.27,380a7e29,Coffee Maker,1,4,Los Angeles,USA,IL,174 Main St,25782,new,2024-06-05 12:04:40,7ddf1eb4-5948-4183-a876-41bfdbbbbfa2
+Home & Kitchen,dfc4763e,True,Cash,889.05,a783e110,Knife Set,3,,Los Angeles,USA,IL,4707 Maple St,67733,limited,2024-12-31 13:50:40,7419767b-8111-4daf-903a-f35c717931ab
+Home & Kitchen,13ba8825,False,PayPal,392.98,03edcb55,Knife Set,3,3,Chicago,USA,TX,5091 Cedar St,74626,"limited,new,exclusive",2024-11-20 13:17:40,ec540c27-b132-4742-aa46-ada1f6b3e663
+Sports,581f2e56,False,PayPal,803.26,391512d3,Running Shoes,2,,Los Angeles,USA,TX,1717 Pine St,59975,"exclusive,trending",2024-07-18 02:30:40,68a808a5-36b1-4923-b9cc-90b96f529925
+Home & Kitchen,be6b8468,False,Gift Card,912.51,b6e6c9f6,Blender,3,3,Houston,USA,NY,1431 Oak St,67514,limited,2025-02-22 03:22:40,06160646-06e0-498e-88a1-15b9b99e880c
+Grocery,8893c3db,True,Debit Card,477.37,cee92865,Cereal,3,3,Los Angeles,USA,CA,9496 Maple St,32315,,2024-11-12 20:16:40,19c073cc-a56e-45a4-a744-c76a202e97ac
+Beauty,904a8cf6,False,Cash,343.18,19b7a90d,Hair Dryer,7,,New York,USA,AZ,6909 Pine St,51466,trending,2025-02-22 13:47:40,c44df74a-903c-4c4b-903f-574e24895b1a
+Toys,f0986ec9,True,PayPal,948.78,9eb0503a,Action Figure,10,,Houston,USA,CA,5267 Pine St,63034,"limited,exclusive,new",2024-11-02 10:05:40,5b20df08-1a23-446a-8198-96f6a3276948
+Books,d1257394,True,Debit Card,631.22,2fcc08d6,Science Fiction,6,3,Chicago,USA,NY,5581 Cedar St,57450,,2025-01-16 11:16:40,0911f27b-9a44-45b7-bca8-94e44b0b8c18
+Sports,9ab53652,False,Gift Card,865.53,3a813f4a,Basketball,7,1,Houston,USA,AZ,8753 Oak St,36392,"sale,trending,exclusive",2024-12-04 03:58:40,4ad770ec-e032-495e-bb87-11869cad8e49
+Grocery,4184f1e5,False,Gift Card,774.66,6cbcf3ec,Coffee,5,4,New York,USA,TX,6960 Main St,38880,"limited,sale",2024-06-02 00:16:40,b00b022b-40e8-4823-8189-feb9a47cf06d
+Books,4b47970e,False,Gift Card,911.94,47bacb52,Science Fiction,3,4,Los Angeles,USA,NY,5560 Main St,24143,"exclusive,limited,sale",2025-01-17 00:10:40,c5ff6185-e61d-4c8d-b51d-adb73e3782b4
+Clothing,d293498b,True,Bank Transfer,483.42,b9e5be5d,Socks,2,2,Houston,USA,NY,4869 Oak St,94039,,2024-09-01 20:59:40,396bd1bb-e5ee-4207-8f20-5b3cf425e7ee
+Electronics,66309f19,True,Debit Card,82.43,0e3cd94c,Tablet,10,1,Chicago,USA,TX,2130 Pine St,77528,new,2024-10-08 04:13:40,4d03127d-fbe4-4e71-9f13-ffb270267285
+Home & Kitchen,b2955c91,False,Bank Transfer,61.66,973bd977,Plates,8,2,Houston,USA,CA,856 Main St,93379,exclusive,2025-03-16 13:28:40,0a1093d2-0b28-46b5-b047-580da8f4d00f
+Books,d9fefe21,True,Gift Card,559.63,ba85def3,Biography,4,1,New York,USA,NY,9657 Pine St,10778,,2025-02-14 00:20:40,5b083824-d847-400a-aa5f-3d5610dadc16
+Grocery,edbcaada,False,Debit Card,64.48,02e48ee6,Cereal,5,2,Chicago,USA,TX,785 Main St,66130,trending,2025-02-02 07:25:40,5025a307-331c-4351-ab15-969b0aca45f5
+Grocery,454874d0,True,PayPal,702.31,ae58f120,Pasta,2,5,Los Angeles,USA,CA,5985 Maple St,30004,,2024-12-31 14:27:40,806bb8ff-6ee0-4666-84f9-cc916869af77
+Beauty,6051d4b8,True,Gift Card,342.66,1409c4aa,Nail Polish,1,3,Phoenix,USA,NY,8375 Pine St,59850,limited,2024-06-28 05:15:40,6e0b34dd-e15c-4dcd-b87f-5c2f0bfee9f1
+Books,04ac4950,True,Gift Card,542.64,8606367f,Biography,3,3,Chicago,USA,TX,7726 Main St,58076,exclusive,2024-05-11 15:58:40,0f930fc5-1b20-4e19-9577-2d80da73dca4
+Health,b2f816d1,False,Debit Card,447.31,7a0373c0,Pain Reliever,9,2,Chicago,USA,AZ,7562 Pine St,92108,,2024-08-09 07:18:40,b14971b3-8409-4471-82b2-725a44a08fca
+Grocery,fdb2472a,True,Cash,136.94,5d5a0953,Cereal,10,2,Houston,USA,TX,4782 Cedar St,20587,"exclusive,sale",2025-01-16 14:33:40,b9445c9a-82e8-4953-acd2-c46ed6ddbe46
+Grocery,7eb7417e,False,Debit Card,522.52,75b07fd3,Frozen Meals,2,1,Chicago,USA,NY,3494 Oak St,15965,new,2024-07-05 08:19:40,3cdf2e56-e846-4d8e-ade5-a3bd51b889b1
+Grocery,d4b1a816,True,Cash,459.91,512a4af9,Coffee,9,2,Chicago,USA,IL,3936 Main St,29910,"sale,new,trending",2024-11-30 15:18:40,25d27d07-857c-4774-824d-5eb64f4b794a
+Beauty,48acf676,True,Gift Card,846.82,8f3bc42b,Shampoo,5,,Chicago,USA,IL,1700 Oak St,59367,limited,2024-12-20 19:52:40,abb4427b-e4a8-40ec-ad9f-6d1a408d2b39
+Automotive,7ad27afa,True,Credit Card,379.99,43822b67,Car Wax,3,2,Houston,USA,NY,4854 Pine St,30269,limited,2024-09-11 05:21:40,24667d46-40de-44ce-8064-246db1e65fe4
+Electronics,d36aedee,True,Bank Transfer,931.36,b0bd6042,Smartphone,7,1,Houston,USA,AZ,5941 Main St,62299,trending,2024-05-13 04:11:40,301e2215-c94a-4865-856b-82d4bbd2c288
+Health,9b8b0103,True,PayPal,322.56,1f0f9b2c,Bandages,4,,Los Angeles,USA,AZ,8427 Maple St,40247,trending,2025-02-11 21:18:40,939765d2-5438-40ff-a96c-ca60547fdf85
+Home & Kitchen,c0901f2c,False,Bank Transfer,980.65,983f4c12,Toaster,1,4,Houston,USA,AZ,7891 Main St,45600,limited,2024-10-24 14:45:40,c2d94c9d-4eaa-4683-a824-2694cf7d0363
+Home & Kitchen,7ff2042a,True,Bank Transfer,521.64,f2e24006,Plates,7,,Chicago,USA,TX,1994 Maple St,62664,,2024-12-03 14:19:40,418e1605-ca9f-4508-8dd8-67dc2f8d3e11
+Home & Kitchen,475e5a32,True,Gift Card,213.96,8bba5a8c,Toaster,8,5,Houston,USA,TX,5815 Cedar St,73669,trending,2025-01-13 09:40:40,f458e52f-d80e-4d77-9515-da0e048f5764
+Automotive,2a8b11ba,True,PayPal,893.26,e3e82dc1,Tire Gauge,8,2,Houston,USA,IL,5670 Pine St,70284,,2025-03-11 18:42:40,2175e298-4aec-4730-aba1-7aad2ed51e92
+Electronics,a0a4b35a,True,PayPal,576.19,f294013d,Headphones,2,3,New York,USA,TX,7141 Maple St,38697,exclusive,2025-01-25 17:49:40,79696d94-530d-4619-b572-881161e96439
+Toys,31c43894,True,Bank Transfer,619.87,56d7a8af,Board Game,5,2,Phoenix,USA,NY,6429 Oak St,24463,,2025-02-12 06:58:40,7dfd6e1f-9328-4c73-a594-30028c1fa143
+Electronics,831e3b9f,True,PayPal,74.69,e8248220,Smartphone,10,1,New York,USA,TX,6149 Cedar St,91416,"sale,exclusive,new",2024-12-29 05:21:40,1c998685-144c-468a-b57d-ae06b117fa98
+Health,9bae6368,False,Gift Card,86.92,6774f5b1,Pain Reliever,5,,Chicago,USA,CA,8407 Pine St,12254,,2025-01-20 00:14:40,e8e60a16-ecd3-4e17-ba4c-9722e2c3d2f8
+Sports,8642a629,True,Credit Card,686.25,61beaf32,Yoga Mat,8,5,Houston,USA,TX,1235 Pine St,83238,"new,exclusive",2024-12-06 22:03:40,23194dbe-f7d5-48cb-9b45-a9c99e903455
+Automotive,c66d9dc0,True,Debit Card,458.14,22c81796,Car Wax,7,5,Houston,USA,NY,8922 Pine St,35595,"trending,limited",2024-03-26 22:30:40,2e6f20e1-3e32-40cb-b92c-839f1b9dd7c9
+Toys,255726af,False,Cash,617.38,d85a3fb2,Board Game,7,1,Houston,USA,AZ,1172 Cedar St,63075,"exclusive,trending",2024-05-07 23:04:40,9390ea4a-cb2a-432d-80b6-712216be7e4b
+Health,ba765c07,False,Debit Card,141.78,2a6ed2b5,Thermometer,2,,Phoenix,USA,NY,4431 Main St,17133,,2024-08-30 11:46:40,b9ef2760-7370-4b87-badb-e26b23594706
+Health,d5ea2f3e,True,Credit Card,301.16,f0883fbb,Vitamins,7,3,Phoenix,USA,AZ,3427 Oak St,89147,"exclusive,sale,limited",2025-02-12 22:08:40,4f77f167-29af-48be-a956-147b67130930
+Home & Kitchen,e87d55e9,False,Debit Card,286.77,1cd61c6d,Coffee Maker,6,1,Chicago,USA,CA,5571 Maple St,10003,,2024-10-22 13:21:40,6f2d72a4-d69f-4360-810a-8670bf1eae15
+Toys,c343c79f,True,Credit Card,855.96,38c534c9,Building Blocks,5,1,Houston,USA,NY,5101 Maple St,18137,sale,2025-03-18 14:08:40,7a0eadf9-068d-4c3e-bebc-8f4003a6a3be
+Health,b285d56c,False,Bank Transfer,276.14,6ad1981d,Vitamins,2,5,Houston,USA,IL,7116 Cedar St,78898,,2024-04-07 22:49:40,da852318-dab8-41a5-8fee-9af2e12aac31
+Health,664d5203,True,Credit Card,211.56,68fcd7d9,First Aid Kit,1,,Los Angeles,USA,CA,6005 Oak St,35126,new,2024-08-16 07:03:40,6faea259-af54-43df-b476-562407058aa1
+Toys,6453322f,True,PayPal,400.86,adf5254f,Action Figure,10,5,Phoenix,USA,AZ,2789 Maple St,63790,new,2024-08-13 16:39:40,912cc8e0-2b88-479a-be54-f4104cc62f7c
+Health,8b56ef32,True,Gift Card,597.7,b7bb1290,Vitamins,5,,Phoenix,USA,TX,3254 Main St,51470,,2024-06-23 22:21:40,528bbfa6-577f-4d82-959c-924166f17812
+Clothing,0d385bb1,True,Cash,397.31,5b3c9026,Shoes,7,,New York,USA,CA,3611 Maple St,99959,,2024-07-29 16:44:40,4e809372-3484-443c-8c11-908b63a5cc2d
+Health,7e5a1ebb,True,Bank Transfer,426.71,62f0984e,Vitamins,7,3,Houston,USA,TX,8290 Maple St,44398,"trending,limited,sale",2024-06-26 11:56:40,15eb3ab3-ac80-41a2-8128-26ce9f55e203
+Books,98dd4874,True,Debit Card,859.64,5d9732dd,Biography,9,,New York,USA,TX,6672 Maple St,79736,limited,2025-03-03 23:17:40,0f1879b7-60b5-4edb-a351-4aaeb82e010c
+Health,d43f6f79,False,Credit Card,991.82,3476381f,Vitamins,8,,Los Angeles,USA,NY,2512 Oak St,22149,new,2024-07-25 06:20:40,ef3bd0d9-c774-4732-9077-d7f5a383abdf
+Beauty,a74e7192,True,Gift Card,97.92,eabbf256,Perfume,3,3,Phoenix,USA,IL,5330 Maple St,69219,sale,2025-01-01 15:32:40,4cca2e56-0acf-42ee-9830-407a334b92d6
+Home & Kitchen,0c8daa59,False,Credit Card,26.56,73e42df2,Plates,2,,Chicago,USA,TX,8817 Cedar St,57451,"limited,sale,trending",2024-09-04 05:30:40,f205bed5-1487-486b-87e9-f3cbb9e40879
+Toys,178da18d,True,PayPal,526.63,571a9fa7,Puzzle,8,4,New York,USA,CA,7940 Main St,91476,"trending,sale",2024-12-05 01:41:40,cbe1cc73-01f7-40cc-b73e-8d777d19d86a
+Grocery,a1024835,False,Bank Transfer,917.47,cb568954,Frozen Meals,3,,Chicago,USA,IL,8359 Oak St,98814,"sale,trending",2024-07-15 15:38:40,fb110a74-d77f-442c-9296-f767e61c9ee6
+Home & Kitchen,0cf646d8,False,Gift Card,682.37,b363fb18,Knife Set,8,5,Los Angeles,USA,IL,7163 Main St,10405,,2024-05-31 08:20:40,1f3ec3ad-73eb-4980-845b-a41a9335a725
+Home & Kitchen,46113630,True,Debit Card,263.35,e9ec0fcc,Plates,3,1,Houston,USA,CA,2359 Cedar St,53847,trending,2024-07-20 14:38:40,8cab8ffc-2959-4136-a876-cf822a4ea506
+Toys,6a8dee8b,False,Cash,411.62,10553be0,Puzzle,9,,Phoenix,USA,TX,4817 Main St,73093,limited,2025-02-13 04:13:40,d7d35d05-b57e-4c1d-b40d-e9ca6fb39416
+Home & Kitchen,2c5a854e,True,Credit Card,400.92,8bf1a32f,Knife Set,4,5,Phoenix,USA,NY,3374 Main St,56544,"exclusive,limited",2024-12-29 05:13:40,081ef62d-34ee-4b8d-9927-3df3ef26bbb3
+Automotive,02c6e90e,False,Credit Card,151.82,07210046,Air Freshener,6,,Chicago,USA,CA,1150 Pine St,87384,new,2024-04-15 06:37:40,dc5bfcb7-8846-4e29-be64-7dfb8b5f536c
+Books,085a005e,False,Cash,62.81,b4e3adf0,Cookbook,4,5,New York,USA,CA,3541 Maple St,98796,,2024-09-09 02:40:40,30102dde-6221-4e0e-bc34-ea38653e6925
+Automotive,3aebe1a4,False,Cash,614.24,e567b788,Floor Mats,6,2,Phoenix,USA,NY,2685 Main St,43534,"exclusive,new,sale",2024-08-29 11:18:40,eef338c4-441b-4992-94d4-f4a574ff3d4b
+Sports,862c5a76,True,Credit Card,197.19,9e0da5fb,Bicycle,1,,Phoenix,USA,AZ,6815 Main St,30744,"trending,limited",2024-06-14 15:32:40,be692738-700c-4bb9-aadd-e566ca45040a
+Sports,73f31db8,False,Debit Card,108.96,75a6ad42,Running Shoes,5,5,Los Angeles,USA,NY,8114 Pine St,86596,"trending,new,exclusive",2024-12-19 14:52:40,39c80885-238b-4df9-9067-9f32b88c6360
+Electronics,e265243c,False,Cash,920.8,e7197541,Laptop,9,,Phoenix,USA,TX,9279 Cedar St,66101,,2024-12-27 11:53:40,b65758fb-2558-45de-9c88-8d09fc007940
+Home & Kitchen,5a61bb72,True,Credit Card,757.45,8077d880,Coffee Maker,2,2,Chicago,USA,IL,9180 Oak St,40559,,2025-01-14 16:31:40,b85cae02-3efc-49f2-8358-047ceb2541b5
+Toys,e596daf9,False,Cash,869.27,4c39860c,Stuffed Animal,5,5,Houston,USA,TX,649 Pine St,75240,"limited,new,sale",2024-04-28 08:55:40,a47d14d0-7c19-4919-9d98-29cc516a365a
+Electronics,b12604ba,False,Cash,749.59,f8a0daed,Laptop,2,2,Chicago,USA,AZ,6229 Pine St,29700,sale,2024-11-22 15:38:40,2835c690-5ece-474e-85b1-4adc2ea3fada
+Electronics,814017ec,False,PayPal,779.59,cfdc310c,Laptop,5,,Los Angeles,USA,NY,4234 Pine St,56341,"sale,exclusive",2024-08-24 01:52:40,c00205f5-2b66-4d5c-8dc9-22c2528e55d1
+Home & Kitchen,b8b22d40,False,Credit Card,629.34,0c0d6d4f,Coffee Maker,8,2,New York,USA,AZ,3688 Main St,61119,limited,2024-04-04 21:59:40,798a1037-b2c8-426b-8389-e43860ace52f
+Automotive,4533d2a9,True,PayPal,397.07,2af05a66,Tire Gauge,8,4,Phoenix,USA,AZ,6176 Main St,72770,sale,2024-09-16 09:12:40,ce2940f1-3eb2-419f-8e6f-f415e0afc71c
+Home & Kitchen,f38dad89,False,Cash,631.11,9a9f3d1b,Knife Set,8,3,Houston,USA,AZ,2371 Maple St,55562,"exclusive,trending,sale",2024-10-11 04:57:40,7c9610f8-0159-416f-ba5a-921e8bb1ec8f
+Clothing,2be3262e,True,Bank Transfer,303.91,33b36ac8,Hat,10,,Phoenix,USA,AZ,5608 Maple St,49119,,2024-03-19 07:13:40,20a32da5-fb33-498d-8df3-2d6d5310c5d5
+Automotive,620aa115,False,PayPal,931.75,e3585102,Tire Gauge,3,,Phoenix,USA,AZ,2713 Oak St,95662,,2024-05-05 04:34:40,bdb94be8-c6d8-41e0-a3ae-a60f3a6f98ad
+Clothing,1370deda,True,PayPal,71.59,3843a658,Jeans,9,,Houston,USA,AZ,6882 Maple St,34502,"limited,exclusive",2024-05-13 15:00:40,a5ab0842-468e-4206-8de9-405e0260270f
+Beauty,abd9bcfe,True,Bank Transfer,588.26,5ae8e546,Lipstick,8,,Los Angeles,USA,AZ,5351 Maple St,40936,"sale,trending,new",2024-06-12 01:01:40,3a6dfc10-6352-465a-8b6f-80ddad9df00c
+Toys,0aed8a72,True,Cash,148.59,266d85cb,Stuffed Animal,7,5,New York,USA,CA,6436 Pine St,36797,"new,exclusive,sale",2024-10-09 05:24:40,860aaccc-2c14-4cc9-a36a-da18b3352546
