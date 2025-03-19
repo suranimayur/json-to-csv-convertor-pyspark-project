@@ -1,7 +1,0 @@
-2025-03-19 07:09:15,549 - data_pipeline - ERROR - Error loading configuration: [Errno 22] Invalid argument: 'D:\\python_projects\x0benv\\python_projects\\config\\pipeline_config.json'
-2025-03-19 07:09:15,550 - data_pipeline - INFO - Using default configuration: {'num_files': 10, 'records_per_file': 1000, 'raw_data_dir': 'data/raw', 'processed_data_dir': 'data/processed', 'curated_data_dir': 'data/curated'}
-2025-03-19 07:09:15,550 - data_pipeline - INFO - Starting data processing pipeline
-2025-03-19 07:09:15,550 - data_pipeline - INFO - Starting step: Data Generation
-2025-03-19 07:09:15,550 - data_pipeline - ERROR - Error in step Data Generation: unexpected indent (<string>, line 2)
-2025-03-19 07:09:15,552 - data_pipeline - ERROR - Pipeline failed at data generation step
-2025-03-19 07:09:15,552 - data_pipeline - ERROR - Pipeline execution failed
